@@ -1,0 +1,62 @@
+---
+description: 项目官网:https://www.allora.network/
+hidden: true
+cover: >-
+  https://cdn.prod.website-files.com/667c818a983ca8dbedf2fa3b/6682f983ceea3434d5769fcf_introducing-allora.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# Allora（有新版待研究）
+
+## 如何通过 Node-X 平台部署 Allora 节点？
+
+#### 1. 获取 Node-X 账号及资源
+
+首先，你需要一个 Node-X 账号。如果你还没有账号，请前往 [Node-X 注册页面](https://node-x.xyz) 注册。注册成功后，按照以下步骤购买并部署节点所需的资源：
+
+1. **充值账户**：\
+   登录 Node-X 平台后，找到充值选项，为你的账户充值足够的金额。
+2. **选择服务**：\
+   Node-X 目前提供远程服务和节点部署两种服务类型。选择你需要的服务类型。
+3. **购买资源**：\
+   选择合适的节点类型，点击“部署”按钮。确认所有信息无误后，再次点击“确认”完成购买。
+
+#### 2. 发起聊天并提供 Allora 钱包地址
+
+在购买资源后，你需要提供两个 Nimble 钱包地址：
+
+1. **主地址**：\
+   主地址用于查询余额等重要操作，请谨慎保管。
+2. **从地址**：\
+   作为从地址，部署的时候需要用到。
+3. **发起聊天**：\
+   在**我的订单**中找到聊天功能，点击发起聊天，并在聊天中提供这两个地址。地址生成方式请[参考我们的教程](https://github.com/cnsilvan/node-x/blob/main/nimble/README.md)。
+
+#### 3. 等待服务与查看官方面板
+
+购买成功后，Node-X 将为你部署 Nimble 节点。通常情况下，这个过程会在12小时内完成。你可以通过以下方式实时查看节点状态：
+
+1. **查看节点状态**：\
+   在 Node-X 平台的用户面板中，你可以看到所有已购买的节点及其当前状态。
+2. **项目方面板查看**：\
+   节点配置完成后，可以通过[点击这里](https://www.cryptofiverse.com/nimble-balance)查看**钱包余额**。目前钱包余额的更新有一定延迟，通常一周左右会更新一次，请耐心等待，并使用主地址查询余额。
+
+#### 结语
+
+通过 Node-X 平台部署 Nimble 节点就是这么简单！希望这篇指南对你有所帮助。
+
+如果你有任何问题或需要进一步的指导，欢迎留言或私信我。加油！一起探索区块链的世界吧！ 🚀
