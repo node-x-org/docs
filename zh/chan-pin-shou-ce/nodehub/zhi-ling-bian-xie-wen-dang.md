@@ -4,42 +4,51 @@ description: 以下示例仅供参考，因每个指令编写情况可能不同�
 
 # 指令编写文档
 
-&#x4E00;**、安装指令**\
-**1、安装模版**
+## NodeHub 指令編寫與部署文檔（繁體中文）
 
-若指令执行超过1分钟则可能执行失败，编写安装指令时，可以使用下方的模版，使指令在后台运行，这样就不会占用 NODEHUB 的线程，避免执行失败。若某些指令执行时间较长，也可以使用 `nohup` 指令。
+### 一、安裝指令
 
-<pre><code>PARAMETER=$PARAMETER
-cat > $HOME/XXXX.sh &#x3C;&#x3C;EOF
+#### 1. 安裝模版
+
+若指令執行超過 1 分鐘則可能導致失敗，建議使用下方模版將指令後台運行，以避免佔用 NodeHub 執行緒：
+
+```bash
+PARAMETER=$PARAMETER
+cat > $HOME/XXXX.sh <<EOF
 #!/bin/bash
 parameter=$PARAMETER
 XXXXXXXX
 XXXXXXXXXXXXXXX
 EOF
-sudo chmod +x $HOME/XXXX.sh
-<strong>nohup bash $HOME/XXXX.sh > install_XXXX.log 2>&#x26;1 &#x3C; /dev/null &#x26;
-</strong></code></pre>
 
+sudo chmod +x $HOME/XXXX.sh
+nohup bash $HOME/XXXX.sh > install_XXXX.log 2>&1 < /dev/null &
 ```
+
+若需參數傳入版本：
+
+```bash
 cat > $HOME/XXXX.sh <<'NODEEOF'
 #!/bin/bash
 parameter=$1
 XXXXXXXX
 XXXXXXXXXXXXXXX
 NODEEOF
+
 nohup bash $HOME/XXXX.sh $PARAMETER > install_XXXX.log 2>&1 < /dev/null &
 ```
 
-然后下方添加变量，环境变脸一栏填写PARAMETER，说明一栏则填写关于该参数的描述。\
-\
-**2、关于资源限制问题**
+> ⚠️ 請在「變數」欄填寫 `PARAMETER`，並在說明中補充該參數用途。
 
-当运行项目所占资源会随着时间不断增加，导致系统资源不断减少，因此需要进行资源限制，目前通常使用的工具就下面的两种，若有其他的方法大家可以在群里分享分享。\
-（1）Docker管理的项目可以进行资源限制，当然也可以自己创建docker镜像使用docker进行管理并进行资源限制，更便于管理。
+#### 2. 資源限制問題
 
-```
-// 示例
-# 使用docker run启动
+若專案運行時資源使用不斷上升，可考慮使用以下方式限制：
+
+**(1) Docker**
+
+**使用 docker run：**
+
+```bash
 docker run -d \
   --name my_container \
   --cpus=".5" \
@@ -48,84 +57,79 @@ docker run -d \
   my_image
 ```
 
-```
-// 示例
-# 使用docker compose进行启动，如何编写文档
-version: '3.8'
+**使用 docker-compose：**
 
+```yaml
+version: '3.8'
 services:
   my_service:
     image: my_image
     deploy:
       resources:
         limits:
-          cpus: '0.5'        # 限制 CPU 使用最高占0.5个CPU
-          memory: 256M       # 限制内存最高占用256MB
+          cpus: '0.5'
+          memory: 256M
         reservations:
-          cpus: '0.25'       # 【可选】设置 CPU 使用最低占用0.25个CPU
-          memory: 128M       # 【可选】设置内存最低占用 128MB
+          cpus: '0.25'
+          memory: 128M
     blkio_config:
-      weight: 500            # 【可选】设置磁盘 I/O 权重，设置对磁盘进行I/O操作的优先级
+      weight: 500
 ```
 
-（2）systemd管理的项目也可以进行资源限制
+**(2) systemd**
 
-```
-// 编写服务文件示例
+**Systemd 服務檔案示例：**
+
+```ini
 [Unit]
 Description=My Custom Service
 
 [Service]
-ExecStart=/usr/bin/my_executable   # 替换为实际的可执行文件路径
-MemoryLimit=256M                     # 限制内存使用为 256MB，即该服务最多占用256MB内存
-CPUQuota=50%                         # 限制 CPU 使用率为 50%，即服务器总CPU的50%
-IOReadBandwidth=8M                   # 限制 I/O 读带宽，即读取带宽最多8MB/s
-IOWriteBandwidth=8M                  # 限制 I/O 写带宽，即写入带宽最多8MB/s
+ExecStart=/usr/bin/my_executable
+MemoryLimit=256M
+CPUQuota=50%
+IOReadBandwidth=8M
+IOWriteBandwidth=8M
 
 [Install]
 WantedBy=multi-user.target
 ```
 
-\
-**二、状态检查模版**\
-编写状态检查的指令
+***
 
-```
-# 若该项目为docker运行，检查其容器是否存在且处于运行状态
+### 二、狀態檢查模版
+
+#### Docker 方式：
+
+```bash
 PID=$(sudo docker inspect --format '{{.State.Pid}}' <容器名>)
 if [ -n "$PID" ]; then
-   echo "<项目名称> is running (PID: $PID)."
+   echo "<項目名稱> is running (PID: $PID)."
    echo "running:$PID"
 else
-   echo "<项目名称> is not running"
+   echo "<項目名稱> is not running"
 fi
 ```
 
-```
-# 若该项目为pm2、systemctl、screen运行，则检查其进程是否存在
-pid=$(pgrep <进程名>)
+#### PM2 / Systemctl / Screen：
+
+```bash
+pid=$(pgrep <進程名>)
 if [ -n "$pid" ]; then
-    echo "<进程名> is running:$pid"
+    echo "<進程名> is running:$pid"
 else
-    echo "<进程名> is not running"
+    echo "<進程名> is not running"
 fi
 ```
 
-**三、健康检查**
+***
 
-健康检查因每个项目情况不同，没有模版，但最终需要返回 `true` 或 `false`，NODEHUB 会获取其返回的值，`true` 为健康，`false` 为不健康。以下是一些健康检查的判断依据：
+### 三、健康檢查
 
-* 项目运行日志
-* 项目的cli工具中存在查看status的指令
-* 项目面板上存在检查节点状态的端口
+健康檢查需返回 `true` 或 `false`，以下為示例：
 
-例子：
-
-```
-# 这里以SPHERON项目为例子
+```bash
 STATUS_OUTPUT=$(sphnctl fizz status 2>&1)
-
-# 检查输出中是否包含"Active - your node is currently active!"
 if echo "$STATUS_OUTPUT" | grep -q "Active - your node is currently active!"; then
     echo "true"
 else
@@ -133,17 +137,17 @@ else
 fi
 ```
 
-**四、升级检查**
+***
 
-升级检查用于检查当前安装的版本以及获取项目最新版本，如果两个版本不同，则提醒该项目可以升级到新的版本。目前没有写升级检查，后续更新。
+### 四、升級檢查
 
-**五、查询最近100条日志**
+尚未統一模版。目的是：檢查當前版本與最新版本是否不同。
 
-若项目状态不正常，可以查看最近 100 条日志。可根据状态检查编写查看日志指令：\
-例子：
+***
 
-```
-# 检查最近100条日志
+### 五、查詢最近 100 條日誌
+
+```bash
 pid=$(pgrep pop)
 if [ -n "$pid" ]; then
     tail -n 100 pipe.log
@@ -152,48 +156,18 @@ else
 fi
 ```
 
-**六、模拟输入**\
-若项目的工具或其他工具在执行后弹出提示输入参数而不能通过指令解决时，可以使用 `expect` 脚本或语句，也可以应对TTY报错。\
-例子：
+***
 
-```
-# 具体场景
-root@vmi2339892:~/shardeum# ./set-password.sh
+### 六、模擬輸入（expect腳本）
 
-Password requirements: 
-min 8 characters, at least 1 lower case letter, at least 1 upper case letter, at least 1 number, at least 1 special character !@#$%^&*()_+$ 
+#### 自動填寫密碼：
 
-Enter the password for accessing the Dashboard: *******
-```
-
-```
-# 在bash脚本中使用expect语句
-# 检查是否安装了expect
-if ! command -v expect &> /dev/null; then
-    echo "'expect' is not installed. Attempting to install..."
-    
-    # 尝试通过 apt 安装 expect（适用于 Debian/Ubuntu）
-    if sudo apt-get install -y expect; then
-        echo "'expect' installed successfully."
-    else
-        echo "Failed to install 'expect'. Please install it manually."
-        exit 1
-    fi
-fi
-
-# 检查是否提供了密码参数
-if [ $# -ne 1 ]; then
-    echo "Usage: $0 password"
-    exit 1
-fi
-
+```bash
 expect -c "
 spawn ./set-password.sh
 set timeout 10
-
 expect {
-    \"Enter the password for accessing the Dashboard:\" 
-    {
+    \"Enter the password for accessing the Dashboard:\" {
         sleep 10
         send \"$1\r\"
     }
@@ -206,10 +180,10 @@ expect eof
 "
 ```
 
-```
-# 另一种办法，调用编写的expect脚本
-#!/usr/bin/expect
+#### 單獨 expect 腳本範例：
 
+```bash
+#!/usr/bin/expect
 if { $argc!= 1 } {
     puts "Usage: $argv0 password"
     exit 1
@@ -217,10 +191,8 @@ if { $argc!= 1 } {
 set password [lindex $argv 0]
 spawn ./set-password.sh
 set timeout 10
-
 expect {
-    "Enter the password for accessing the Dashboard:" 
-    {
+    "Enter the password for accessing the Dashboard:" {
         sleep 10
         send "$password\r"
     }
@@ -232,82 +204,76 @@ expect {
 expect eof
 ```
 
-**七、升级**
+***
 
-升级指令目的为部署节点更新到最新版本，有些项目方有自动升级的方法则可以不用编写，例如SPHERON,
+### 七、升級
 
-当然大部分是需要手动升级的，偷个懒，拿t3rn这个现成的做个例子：
+以 t3rn 專案為例：
 
-```
-# 脚本太长，就将方法写这里
+```bash
 function download_t3rn() {
-    # Create and navigate to t3rn directory
     mkdir -p t3rn
     cd t3rn
-    
-    # Download latest release
-    curl -s https://api.github.com/repos/t3rn/executor-release/releases/latest | \
-    grep -Po '"tag_name": "\K.*?(?=")' | \
-    xargs -I {} wget https://github.com/t3rn/executor-release/releases/download/{}/executor-linux-{}.tar.gz
-    
-    # Extract the archive
+    curl -s https://api.github.com/repos/t3rn/executor-release/releases/latest \
+    | grep -Po '"tag_name": "\\K.*?(?=")' \
+    | xargs -I {} wget https://github.com/t3rn/executor-release/releases/download/{}/executor-linux-{}.tar.gz
     tar -xzf executor-linux-*.tar.gz
 }
 ```
 
-**八、停止、重启以及卸载**
+***
 
-停止、重启以及卸载：需要看项目是由什么管理的，这个我就不赘述了，懂得都懂
+### 八、停止、重啟、卸載
 
-&#x20;例子：
+#### 停止：
 
-<pre><code># 停止
-<strong># docker管理:
-</strong>docker stop &#x3C;容器名>
-# pm2管理：
-pm2 stop &#x3C;设置的进程名>
-# screen管理：
-screen -S &#x3C;设置的屏幕名> -X quit
-# systemctl管理：
-systemctl stop &#x3C;服务文件名>
-</code></pre>
-
+```bash
+docker stop <容器名>
+pm2 stop <進程名>
+screen -S <屏幕名> -X quit
+systemctl stop <服務名>
 ```
-# 重启：若重启需要很长时间，则可以使用nohup
-# docker管理:
+
+#### 重啟：
+
+```bash
 docker restart <容器名>
-# pm2管理：
-pm2 restart <设置的进程名>
-# screen管理则先关闭之前的屏幕，再重新部署一次
-# systemctl管理：
+pm2 restart <進程名>
 systemctl daemon-reload
-systemctl enable <服务文件名>
-systemctl restart <服务文件名>
+systemctl enable <服務名>
+systemctl restart <服務名>
 ```
 
-```
-# 卸载:先停止项目进程或容器，再删除加载的资源文件，当然若有重要的文件或秘钥，需要先备份
-docker stop XXXX && rm -rf install_XXXX.* && rm -rf $HOME/项目文件夹/
+#### 卸載：
+
+```bash
+docker stop XXXX && rm -rf install_XXXX.* && rm -rf $HOME/項目資料夾/
 ```
 
-九、备份及备份文件地址
+***
 
-备份就是将必要文件夹或存储重要秘钥的文件压缩保存在特定的文件夹下\
-备份文件地址则为备份文件保存的文件路径
+### 九、備份與路徑
+
+#### 備份：
+
+```bash
+mkdir -p /root/backup && tar -czvf /root/backup/XXXX.tar.gz /path/to/target
+```
+
+#### 備份文件路徑：
 
 ```
-# 备份
-mkdir -p  && tar -czvf <压缩文件路径> <被压缩文件夹路径或文件路径>
-```
-
-```
-# 备份文件地址
 /root/backup/XXXX.tar.gz
 ```
 
-十、自定义脚本\
-每个项目不同，可能这几个默认脚本并不满足，则可以点击增加脚本进行自定义脚本，这个我就不举例了。
+***
 
-结语
+### 十、自定義腳本
 
-希望文档能够帮助大家更高效的编写指令。面对不同的项目需求，灵活运用上述模版和方法。如在实践中遇到问题，欢迎与大家在群里讨论。
+可根據實際需求新增腳本，自定義內容不設限，無需範例。
+
+***
+
+### 結語
+
+希望此文檔能幫助您更高效地編寫指令與節點腳本，靈活應對各類專案需求。若有更多實戰經驗，歡迎在社群中交流與補充。

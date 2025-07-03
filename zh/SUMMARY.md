@@ -95,7 +95,7 @@
     * [NODEHUB 運行節點指南](chan-pin-shou-ce/nodehub/nodehub-yun-xing-jie-dian-zhi-nan.md)
     * [NodeHub 常見問答（FAQ）](chan-pin-shou-ce/nodehub/nodehub-chang-jian-wen-da-faq.md)
     * [關鍵參數資訊安全](chan-pin-shou-ce/nodehub/guan-jian-can-shu-zi-xun-an-quan.md)
-    * [用戶關鍵參數資訊及 VPS 密碼安全](chan-pin-shou-ce/nodehub/yong-hu-guan-jian-can-shu-zi-xun-ji-vps-mi-ma-an-quan.md)
+    * [用戶關鍵參數資訊及 VPS 密碼安全](chan-pin-shou-ce/nodehub/yong-hu-guan-jian-can-shu-xin-xi-ji-vps-mi-ma-an-quan.md)
     * [如何打开服务器指定端口](chan-pin-shou-ce/nodehub/ru-he-da-kai-fu-wu-qi-zhi-ding-duan-kou.md)
     * [指令编写文档](chan-pin-shou-ce/nodehub/zhi-ling-bian-xie-wen-dang.md)
     * [早期荣耀贡献者角色 X-Origin](chan-pin-shou-ce/nodehub/zao-qi-rong-yao-gong-xian-zhe-jue-se-xorigin.md)
