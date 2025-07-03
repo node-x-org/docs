@@ -1,3 +1,3 @@
 # NodePad
 
-Node-X聚合优质项目的节点预售、DePIN设备预售、RWA，用户可以通过NodePad一键式参与。
+Node-X 聚合優質項目的節點預售、DePIN 設備預售、RWA，使用者可以通過 NodePad 一鍵式參與。
