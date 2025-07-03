@@ -93,7 +93,7 @@
     * [NodeHub 指令社群對接項目方指南](chan-pin-shou-ce/nodehub/nodehub-zhi-ling-she-qun-dui-jie-xiang-mu-fang-zhi-nan.md)
     * [操作手册](chan-pin-shou-ce/nodehub/cao-zuo-shou-ce.md)
     * [NODEHUB 運行節點指南](chan-pin-shou-ce/nodehub/nodehub-yun-xing-jie-dian-zhi-nan.md)
-    * [NodeHub 常见问答（FAQ）](chan-pin-shou-ce/nodehub/nodehub-chang-jian-wen-da-faq.md)
+    * [NodeHub 常見問答（FAQ）](chan-pin-shou-ce/nodehub/nodehub-chang-jian-wen-da-faq.md)
     * [关键参数信息安全](chan-pin-shou-ce/nodehub/guan-jian-can-shu-xin-xi-an-quan.md)
     * [用户关键参数信息及VPS密码安全](chan-pin-shou-ce/nodehub/yong-hu-guan-jian-can-shu-xin-xi-ji-vps-mi-ma-an-quan.md)
     * [如何打开服务器指定端口](chan-pin-shou-ce/nodehub/ru-he-da-kai-fu-wu-qi-zhi-ding-duan-kou.md)
