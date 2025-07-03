@@ -1,9 +1,9 @@
 # NodeXP
 
-**NodeXP**是记录用户对Node-X发展而付出的贡献值，您积累的XP值越高，未来获得的权益越大，包括但不限于兑换Node-X的平台币NXC。
+**NodeXP** 是記錄用戶對 Node-X 發展而付出的貢獻值，您積累的 XP 值越高，未來獲得的權益越大，包括但不限於兌換 Node-X 的平台幣 NXC。
 
-### NodeXP的积累途径
+**NodeXP 的積累途徑**
 
-* **充值及消费：**&#x6BCF;当您向Node-X充值USDT即可获得NodeXP，每当您使用USDT也可以获得NodeXP。
-* **完成活动任务：**&#x6211;们会预备各种冒险活动帮助您积累自己的NodeXP。
+* **充值及消費**：每當您向 Node-X 充值 USDT 即可獲得 NodeXP，每當您使用 USDT 也可以獲得 NodeXP。
+* **完成活動任務**：我們會預備各種冒險活動幫助您積累自己的 NodeXP。
 
