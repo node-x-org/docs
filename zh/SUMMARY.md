@@ -98,7 +98,7 @@
     * [用戶關鍵參數資訊及 VPS 密碼安全](chan-pin-shou-ce/nodehub/yong-hu-guan-jian-can-shu-xin-xi-ji-vps-mi-ma-an-quan.md)
     * [指令編寫與文檔](chan-pin-shou-ce/nodehub/zhi-ling-bian-xie-wen-dang.md)
     * [早期榮耀貢獻者角色 X-Origin](chan-pin-shou-ce/nodehub/zao-qi-rong-yao-gong-xian-zhe-jue-se-xorigin.md)
-    * [X-Origin 创世徽章（Genesis）](chan-pin-shou-ce/nodehub/xorigin-chuang-shi-hui-zhang-genesis.md)
+    * [X-Origin 創世徽章（Genesis）](chan-pin-shou-ce/nodehub/xorigin-chuang-shi-hui-zhang-genesis.md)
     * [NodeHub 平台漏洞与事故应急预案方案（V1.0）](chan-pin-shou-ce/nodehub/nodehub-ping-tai-lou-dong-yu-shi-gu-ying-ji-yu-an-fang-an-v1.0.md)
     * [NodeHub 智能代理系统](chan-pin-shou-ce/nodehub/nodehub-zhi-neng-dai-li-xi-tong.md)
   * [NodePad](chan-pin-shou-ce/nodepad.md)
