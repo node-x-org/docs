@@ -106,6 +106,6 @@
 * [代币经济学](dai-bi-jing-ji-xue/README.md)
   * [NodeXP](dai-bi-jing-ji-xue/nodexp.md)
   * [代币分配](dai-bi-jing-ji-xue/dai-bi-fen-pei.md)
-* [常见问题](chang-jian-wen-ti.md)
+* [常見問題](chang-jian-wen-ti.md)
 * [联系我们](lian-xi-wo-men.md)
 * [声明](sheng-ming.md)
