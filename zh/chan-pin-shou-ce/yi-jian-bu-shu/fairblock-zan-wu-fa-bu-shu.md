@@ -3,20 +3,6 @@ description: 项目官网:https://www.fairblock.network/
 hidden: true
 cover: ../../.gitbook/assets/微信截图_20240820161113.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Fairblock（暂无法部署）

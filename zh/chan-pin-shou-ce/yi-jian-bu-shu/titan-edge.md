@@ -2,20 +2,6 @@
 description: 项目官网:https://www.titannet.io/
 cover: https://test1.titannet.io/assets/vis25.9798d511.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Titan-Edge

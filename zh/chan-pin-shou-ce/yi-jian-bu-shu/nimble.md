@@ -3,20 +3,6 @@ description: 项目官网:https://www.nimble.technology/
 cover: >-
   https://docs.nimble.technology/~gitbook/image?url=https%3A%2F%2F3496808985-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FkxcYWa8WskFBTQrREQIr%252Ficon%252FNlp47Jk99utOnjmmMyzk%252FLinkedin-Profile-01.png%3Falt%3Dmedia%26token%3Dc8984e6d-e1b1-4561-bcce-be97880d684d&width=32&dpr=2&quality=100&sign=950bc9df&sv=1
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Nimble

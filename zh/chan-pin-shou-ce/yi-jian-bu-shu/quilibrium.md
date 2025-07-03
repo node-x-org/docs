@@ -2,20 +2,6 @@
 description: 项目官网:https://quilibrium.com/
 cover: ../../.gitbook/assets/微信截图_20240820162944.png
 coverY: -16
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Quilibrium

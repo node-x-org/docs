@@ -2,20 +2,6 @@
 description: 项目官网:https://www.flock.io/
 cover: https://www.flock.io/_next/static/media/header-logo.1e344b00.svg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # FLock.io

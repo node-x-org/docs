@@ -4,20 +4,6 @@ hidden: true
 cover: >-
   https://cdn.prod.website-files.com/667c818a983ca8dbedf2fa3b/6682f983ceea3434d5769fcf_introducing-allora.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Allora（有新版待研究）

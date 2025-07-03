@@ -2,20 +2,6 @@
 description: 项目官网:https://ritual.net/
 cover: ../../.gitbook/assets/微信截图_20240820154832.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Ritual

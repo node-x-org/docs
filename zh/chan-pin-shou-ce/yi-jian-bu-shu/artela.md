@@ -2,20 +2,6 @@
 description: 项目官网:https://artela.network/
 cover: ../../.gitbook/assets/微信图片_20240820162304.png
 coverY: 117.77066666666664
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Artela

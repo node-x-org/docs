@@ -2,20 +2,6 @@
 description: 项目官网:https://rivalz.ai/
 cover: https://rivalz.ai/logo.svg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Rivalz
