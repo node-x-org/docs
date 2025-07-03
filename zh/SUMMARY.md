@@ -108,4 +108,4 @@
   * [代币分配](dai-bi-jing-ji-xue/dai-bi-fen-pei.md)
 * [常見問題](chang-jian-wen-ti.md)
 * [聯繫我們](lian-xi-wo-men.md)
-* [声明](sheng-ming.md)
+* [聲明](sheng-ming.md)
