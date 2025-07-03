@@ -42,7 +42,7 @@ NodeHub 是一個為 Web3 專案提供節點部署、運維協作與算力共享
 
 
 
-指令編寫規範可參考[技術文件](zhi-ling-bian-xie-wen-dang.md)
+指令編寫規範可參考[技術文件](zhi-ling-bian-xie-yu-wen-dang.md)
 
 
 
