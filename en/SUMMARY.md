@@ -5,6 +5,7 @@
   * [Imagine](about-node-x/imagine.md)
   * [Road Map](about-node-x/road-map.md)
 * [Product Manual](product-manual/README.md)
+  * [NodeX](product-manual/nodex.md)
   * [One-Click Deployment](product-manual/one-click-deployment.md)
   * [Node Academy](product-manual/node-academy.md)
   * [NodeHub](product-manual/nodehub/README.md)
