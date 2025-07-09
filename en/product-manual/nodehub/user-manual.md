@@ -33,7 +33,9 @@ NODEHUB supports two login methods:
 
 _Example page illustration_
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408112547.png" alt=""><figcaption><p>Register NodeHub</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;                                                   Fill in the required information
 
 <figure><img src="../../.gitbook/assets/微信图片_20250408141314.png" alt=""><figcaption><p>Login to NodeHub</p></figcaption></figure>
 
