@@ -4,103 +4,65 @@
 
 **A:** NodeHub is the core software platform of the Node-X ecosystem, designed to optimize decentralized computing and node management. It supports both mobile and web interfaces, offering one-click deployment, batch server management, and real-time monitoring. NodeHub simplifies node operations and enhances efficiency. By integrating a command-sharing community and a points-based incentive system, it lowers the entry barrier for everyday users, boosts trust for project teams, and drives overall network activity.
 
-***
+## Frequently Asked Questions (FAQ)
 
-#### Q: What problems does NodeHub solve?
+### 1. What is NodeHub?
 
-**A:**
+NodeHub is a decentralized computing platform that helps users easily deploy and manage nodes, participating in the global decentralized network. The platform offers a computing power marketplace, task system, and creator ecosystem, supporting Web3 applications and creator revenue generation.
 
-* Complex deployment and uneven compute resource allocation hinder efficient management.
-* Tedious workflows and low task execution efficiency increase operational complexity.
-* Limited community collaboration reduces user participation and stifles ecosystem growth.
-* Project teams face challenges identifying fake or inactive nodes, leading to high trust costs.
+### 2. How to start using NodeHub?
 
-***
+* Visit the [NodeHub website](https://hub.node-x.xyz/) to register an account.
+* After registration, you can directly use the one-click deployment feature to start deploying nodes, or purchase server resources from the computing power marketplace to quickly connect to the Web3 network.
 
-#### Q: How do I register for NodeHub?
+### 3. What operating systems does NodeHub support?
 
-**A:** Go to [https://hub.node-x.xyz/](https://hub.node-x.xyz/) and simply sign up to log in
+NodeHub supports Windows, Mac, and Linux operating systems. You can manage nodes via the platform's graphical interface, simplifying operations without the need for complex commands.
 
-***
+### 4. How to deploy a node?
 
-#### Q: How can I become a command creator?
+NodeHub provides a one-click node deployment feature. Users only need to select the desired node configuration, and the system will automatically complete the deployment. No technical background is required, making it easy to get started.
 
-**A:** You can apply through the "User Center." Once your application is approved, you’ll be able to create and publish custom commands.
+### 5. What is the computing power marketplace of NodeHub?
 
-***
+The computing power marketplace allows users to directly purchase the server resources they need, avoiding the hassle of purchasing hardware. You can choose server configurations that meet your requirements, improving deployment efficiency.
 
-#### Q: How do I add a server?
+### 6. How to publish commands (for creators)?
 
-**A:**\
-Navigate to **Server List > Add**, then fill in the following:
+Creators can upload commands to the NodeHub platform. All commands undergo an AI + manual review process to ensure security before being listed. Creators can check the review status and publish their commands through the creator dashboard.
 
-* Custom server name
-* System type (default: Ubuntu)
-* Server IP address
-* SSH port (default: 22)
-* Username (usually `root` or `ubuntu`)
-* Server password
+### 7. Does NodeHub support multi-device collaboration?
 
-***
+Yes, NodeHub supports multi-device management. Users can access the platform from different devices (PC, mobile) and synchronize the management of deployed nodes and servers, ensuring a seamless experience across devices.
 
-#### Q: How do I batch import servers?
+### 8. How to earn points?
 
-**A:**\
-Navigate to **Server List > Import**\
-Steps:
+Users can earn points by signing in, publishing commands, connecting servers, and more. Points can be used to redeem platform benefits and unlock additional features (specific usage to be determined).
 
-* Download the template
-* Fill in the server details as specified in the header
-* Upload the file to import servers in bulk
+### 9. How to manage idle server resources?
 
-***
+You can connect idle server resources to NodeHub and manage them through the platform’s tools. Idle resources can not only improve network performance but also help you earn passive income.
 
-#### Q: What should I do if server installation fails?
+### 10. How does NodeHub ensure data security?
 
-**A:** Please double-check your username and password. The most common usernames are `root` and `ubuntu`.
+NodeHub uses the latest encryption technologies to ensure the security of user data and node operations. Additionally, all uploaded commands undergo a dual-review process to ensure no security vulnerabilities.
 
-***
+### 11. Does NodeHub have community support?
 
-#### Q: Why does it show “Healthy” but “Offline” after running a command?
+Yes, NodeHub has an active community. Users can join platforms like Discord, Telegram, and others to exchange experiences, ask questions, and receive technical support from the community.
 
-**A:**
+### 12. Is NodeHub suitable for users without technical backgrounds?
 
-* If using an **official built-in command**, there may be issues with the script itself.
-* If using a **custom command**, the creator’s script may contain errors.\
-  You're encouraged to leave feedback or questions in the comment section to facilitate resolution.
+Yes, NodeHub provides an easy-to-use graphical interface and detailed tutorials, making it suitable for users with no technical background to quickly get started. The one-click deployment feature greatly reduces the technical barriers to entry.
 
-***
+### 13. Can I access Web3 project resources through NodeHub?
 
-#### Q: Why does it show “Unhealthy” or “Offline” after running a command?
+Yes, NodeHub provides the latest industry news and cutting-edge Web3 project resources, helping users stay up-to-date with decentralized technologies and blockchain project developments.
 
-**A:**
+### 14. How to become a NodeHub creator?
 
-**1.Command Not Yet Configured**\
-The creator has not completed the setup of this command, resulting in execution failure.
+Simply register an account and complete KYC verification to become a NodeHub creator. Creators can publish their commands, share them with the community, and earn corresponding revenue.
 
-**2.Script Errors in the Command**\
-The command contains logical or syntactical errors that prevent proper execution.
+### 15. Does NodeHub provide technical support or tutorials?
 
-&#x20;**Status Check**: Missing expected outputs such as\
-`<process_name> is running (PID: xxxx)` or\
-`<process_name> is not running`.
-
-**Health Check**:
-
-* No boolean return (true/false);
-* Contains disruptive statements such as `exit 1`.
-
-**3.Server-Side Issues**\
-The target server may have network issues, insufficient resources, or unreachable SSH ports, causing the node to be undetectable.
-
-**4.Manual Termination or Uninstallation by the User**\
-The user manually stopped or removed the service via terminal/SSH, causing the system to lose tracking of the project.
-
-**5.Project Process Has Terminated Unexpectedly**\
-The service or container is no longer running due to crash, exit, or abnormal shutdown, leading to an unhealthy status.
-
-**6.Project Has Ended or Been Closed by the Project Team**\
-The project has completed its lifecycle or has been intentionally taken down by the project owner.
-
-**7.Only Status Check Was Executed Without Installation**\
-The installation command was not executed prior to the status check, resulting in incomplete deployment and failure in validation.
+NodeHub provides comprehensive official tutorials to help new users understand each feature of the platform. If you encounter any issues, you can reach out to customer support through the platform or join the community for assistance.
