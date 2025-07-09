@@ -1,13 +1,31 @@
 # Key Parameter Information Security
 
-* **Parameter Storage Security**\
-  The parameters you fill in are securely stored on the server in an encrypted form. Only the user can view their parameters in plain text; others will only see the data in ciphertext, even if they obtain it.
-* **Why Are Parameters Stored?**\
-  Storing certain data helps to:
-  * **Retry Deployment in Case of Failure**: It allows you to quickly retry the deployment if it fails.
-  * **Trace Issues**: It helps analyze and troubleshoot problems.
-  * **Ease of Re-deployment**: When deploying again, the user won’t need to re-enter the same parameters.
-* **Additional Security Features**\
-  We will introduce a “One-click Clear Parameters” function in the future, and we will also implement secondary verification for critical data (such as double encryption). Users will need to set a security key or enable two-factor authentication (2FA) to access the data.
-* **Security Tips**\
-  Although we have implemented several security measures, we strongly recommend using a new wallet for any project involving private keys. Please also ensure the security of your account and password.
+*   ## Key Parameter Information Security
+
+    ### 1. Parameter Storage Security
+
+    The parameters you enter on NodeHub are encrypted and stored on our servers. Only the user can view their plain text parameters. Even if others obtain the data, they will only see the encrypted form and will not be able to decrypt or view the actual content.
+
+    #### Why is it necessary to store parameters?
+
+    Storing certain data helps streamline future operations. Specifically, it serves the following purposes:
+
+    * **Deployment Retry**: If deployment fails, users can quickly retry using the saved parameters, improving operational efficiency.
+    * **Issue Tracing**: Saved parameters assist in analyzing and troubleshooting issues that may arise during deployment.
+    * **Convenient Redeployment**: For subsequent deployments, users do not need to re-enter the same parameters, saving time and effort.
+
+    ### 2. Additional Security Features
+
+    We plan to introduce the following security features in the future:
+
+    * **One-click Parameter Clearance**: Users can clear their saved parameters at any time, ensuring data privacy is not compromised.
+    * **Secondary Authentication Mechanism**: For critical data, we will introduce dual encryption and other secondary verification methods. Users will need to set up a security key or enable two-factor authentication (2FA) to access related data, further enhancing data security.
+
+    ### 3. Security Tips
+
+    Although we have implemented multiple security measures to protect user parameters and data, we still strongly recommend:
+
+    * Using a new wallet for all projects involving private keys.
+    * Properly safeguarding your account password and avoiding using the same password across multiple platforms or environments.
+
+    **Summary of Security Tips**: Data security is our top priority. NodeHub continuously improves its encryption storage, dual authentication, and other measures to ensure security. We always advise users to adopt the strictest security practices to protect their accounts and private keys.
