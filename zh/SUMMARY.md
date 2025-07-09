@@ -5,6 +5,7 @@
   * [想像](guan-wu-nodex/xiang-xiang.md)
   * [路線圖](guan-wu-nodex/lu-xian-tu.md)
 * [產品手冊](chan-pin-shou-ce/README.md)
+  * [NodeX](chan-pin-shou-ce/nodex.md)
   * [節點學院](chan-pin-shou-ce/jie-dian-xue-yuan.md)
   * [一鍵部署](chan-pin-shou-ce/yi-jian-bu-shu/README.md)
     * [套餐：Rivalz+0g+Titan](chan-pin-shou-ce/yi-jian-bu-shu/tao-can-rivalz+0g+titan.md)
