@@ -46,7 +46,7 @@ Through NodeHub, users can flexibly choose suitable server resources and quickly
 
 ### 5. How to Get Started
 
-1. Visit the NodeHub platform
+1. Visit the [NodeHub ](https://hub.node-x.xyz)platform
 2. Navigate to the **Compute Marketplace** module
 3. Select the desired compute resource (Tencent Cloud or GPU)
 4. Follow the project instructions to complete the deployment or mounting process
