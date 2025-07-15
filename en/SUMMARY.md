@@ -14,6 +14,7 @@
     * [NodeHub Creator Command Guide](product-manual/nodehub/nodehub-creator-command-guide.md)
     * [NodeHub Command Community Integration Guide for Project Teams](product-manual/nodehub/nodehub-command-community-integration-guide-for-project-teams.md)
     * [User Manual](product-manual/nodehub/user-manual.md)
+    * [NodeHub Compute Power Marketplace Support Guide](product-manual/nodehub/nodehub-compute-power-marketplace-support-guide.md)
     * [NODEHUB Node Operation Guide](product-manual/nodehub/nodehub-node-operation-guide.md)
     * [NodeHub Frequently Asked Questions (FAQ)](product-manual/nodehub/nodehub-frequently-asked-questions-faq.md)
     * [Key Parameter Information Security](product-manual/nodehub/key-parameter-information-security.md)
