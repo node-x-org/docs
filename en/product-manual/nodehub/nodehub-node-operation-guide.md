@@ -10,11 +10,11 @@ First, navigate to **Console → Command Management → Command Library**, and c
 After entering the execution command page, first select the server you wish to install on, then choose **Install**. Follow the on-screen instructions to obtain the required parameters.\
 You will need to enter your **wallet private key** (make sure your wallet contains tokens), as well as the **RPC**. Once all fields are filled in, click **Confirm** to start executing the command.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                                 Command Execution
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                                           Command Run
 
@@ -29,11 +29,11 @@ After clicking **Execute**, you can check the execution status by going to **Com
 
 If the execution fails, try executing it again. If it continues to fail, it might be that the server you installed on cannot connect to NodeHub.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                                                        Task List
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                                                          Status Query
 

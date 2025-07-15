@@ -33,13 +33,15 @@ NODEHUB supports two login methods:
 
 _Example page illustration_
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                   Fill in the required information
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408141314.png" alt=""><figcaption><p>Login to NodeHub</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-### **3. Personal Information & Creator Page**
+&#x20;                                                                    Login to NodeHub
+
+**3. Personal Information & Creator Page**
 
 #### **3.1 Personal Details**
 
@@ -52,9 +54,15 @@ _Example page illustration_
 
 _Example page illustration_
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408112919.png" alt=""><figcaption><p>Apply to Become a Creator</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408113544 (1).png" alt=""><figcaption><p>After obtaining validator status, properly manage your <strong>Key</strong>.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+Click on your profile, fill in accurate and complete information, provide your reason for applying as a creator, and submit. Once approved, the process will be complete.
 
 ***
 
