@@ -94,7 +94,7 @@
     * [NodeHub 指令創作者指南](chan-pin-shou-ce/nodehub/nodehub-zhi-ling-chuang-zuo-zhe-zhi-nan.md)
     * [NodeHub 指令社群對接項目方指南](chan-pin-shou-ce/nodehub/nodehub-zhi-ling-she-qun-dui-jie-xiang-mu-fang-zhi-nan.md)
     * [操作手册](chan-pin-shou-ce/nodehub/cao-zuo-shou-ce.md)
-    * [💻 NodeHub 算力市場支援說明](chan-pin-shou-ce/nodehub/nodehub-suan-li-shi-chang-zhi-yuan-shuo-ming.md)
+    * [NodeHub 算力市場支援說明](chan-pin-shou-ce/nodehub/nodehub-suan-li-shi-chang-zhi-yuan-shuo-ming.md)
     * [NODEHUB 運行節點指南](chan-pin-shou-ce/nodehub/nodehub-yun-xing-jie-dian-zhi-nan.md)
     * [NodeHub 常見問答（FAQ）](chan-pin-shou-ce/nodehub/nodehub-chang-jian-wen-da-faq.md)
     * [用戶關鍵參數資訊及 VPS 密碼安全](chan-pin-shou-ce/nodehub/yong-hu-guan-jian-can-shu-xin-xi-ji-vps-mi-ma-an-quan.md)
