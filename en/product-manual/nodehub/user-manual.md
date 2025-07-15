@@ -182,7 +182,11 @@ _Example page illustration_
 
 _Example page illustration_
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
+
+&#x20;                                                       &#x20;
+
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;                                                         Add a New Server for Installation
 
