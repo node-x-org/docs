@@ -10,11 +10,13 @@ First, navigate to **Console → Command Management → Command Library**, and c
 After entering the execution command page, first select the server you wish to install on, then choose **Install**. Follow the on-screen instructions to obtain the required parameters.\
 You will need to enter your **wallet private key** (make sure your wallet contains tokens), as well as the **RPC**. Once all fields are filled in, click **Confirm** to start executing the command.
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+&#x20;                                                                 Command Execution
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408133858.png" alt=""><figcaption><p>Command Execution</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/1743133349655.jpg" alt=""><figcaption><p>Command Run</p></figcaption></figure>
+&#x20;                                                                           Command Run
 
 After clicking **Execute**, you can check the execution status by going to **Command Management → Task List**. When the execution status changes to **Success**, the command has been successfully run. You can then check the node's status and health in the **Node Management** section. The status update interval is 20 seconds.
 
@@ -27,11 +29,13 @@ After clicking **Execute**, you can check the execution status by going to **Com
 
 If the execution fails, try executing it again. If it continues to fail, it might be that the server you installed on cannot connect to NodeHub.
 
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+&#x20;                                                                                        Task List
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408134455.png" alt=""><figcaption><p>Task List</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408134647.png" alt=""><figcaption><p>Status Query</p></figcaption></figure>
+&#x20;                                                                                          Status Query
 
 
 
