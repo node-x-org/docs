@@ -83,7 +83,9 @@ Click on your profile, fill in accurate and complete information, provide your r
 
 _Example page illustration_
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408114148.png" alt=""><figcaption><p>Import Server Dashboard to View</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;                                                                      Import Server Dashboard to View
 
 #### **4.2 Import Servers**
 
@@ -95,16 +97,22 @@ _Example page illustration_
 
 _Example page illustration_
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408114909.png" alt="" width="563"><figcaption><p>Add New Server</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-#### **4.3 Server Grouping**
+&#x20;                                                               Add New Server
+
+**4.3 Server Grouping**
 
 * Users can create multiple groups and categorize servers into different groups for efficient management.
 * This helps in quickly locating and maintaining servers when dealing with a large number of them.
 
 _Example page illustration_
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408115155.png" alt=""><figcaption><p>Group Server Management</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;                                                                   Group Server Management
 
 ***
 
@@ -119,9 +127,11 @@ _Example page illustration_
 
 _Example page illustration_
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408115430.png" alt=""><figcaption><p>Official Built-in Command Library</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408115926.png" alt="" width="563"><figcaption><p>Official Command Execution</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;                                                                 Official Command Execution
 
 #### **5.2 Editing and Modifying Commands**
 
@@ -133,7 +143,9 @@ _Example page illustration_
 
 _Example page illustration_
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408121017.png" alt=""><figcaption><p>Custom Command Editing</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;                                                                    Custom Command Editing
 
 #### **5.3 Publishing Commands to the Community**
 
@@ -142,7 +154,9 @@ _Example page illustration_
 
 _Example page illustration_
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408121230.png" alt=""><figcaption><p>After becoming a creator, you can write commands and send them to the command community.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;     After becoming a creator, you can write commands and send them to the command community.
 
 #### **5.4 Command Community**
 
@@ -153,7 +167,9 @@ _Example page illustration_
 
 _Example page illustration_
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408122033.png" alt=""><figcaption><p>Homepage Features Display</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;                                                 Homepage Features Display
 
 ***
 
@@ -166,7 +182,9 @@ _Example page illustration_
 
 _Example page illustration_
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408115926 (1).png" alt="" width="563"><figcaption><p>Add a New Server for Installation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;                                                         Add a New Server for Installation
 
 #### **6.2 Execution Task List**
 
@@ -177,7 +195,9 @@ _Example page illustration_
 
 _Example page illustration_
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408122404.png" alt=""><figcaption><p>New Log Feature Added, Click to View Run Logs</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;                                             New Log Feature Added, Click to View Run Logs
 
 #### **6.3 Execution History**
 
@@ -187,9 +207,7 @@ _Example page illustration_
   * **Execution Status**
 * Useful for auditing or reviewing past executions.
 
-_Example page illustration_
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408122609.png" alt=""><figcaption><p>View Execution History</p></figcaption></figure>
 
 ***
 
@@ -206,7 +224,9 @@ _Example page illustration_
 
 _Example page illustration_
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408122821.png" alt=""><figcaption><p>View the Status and Logs of Each Server</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;                                                        View the Status and Logs of Each Server
 
 ***
 
@@ -220,7 +240,9 @@ _Example page illustration_
 
 _Example page illustration_
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408122945.png" alt=""><figcaption><p>Quickly View Device Resource Utilization</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;                                                    Quickly View Device Resource Utilization
 
 ***
 
