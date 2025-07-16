@@ -6,7 +6,7 @@ description: 项目官网：https://beboundless.xyz/
 
 ## 如何通过 Node-X 平台部署  Boundless-Prover 节点？
 
-
+<mark style="color:red;">注：不保证能抢到订单，一切以官方为准。</mark>
 
 #### 1. 获取 Node-X 账号及部署节点
 
@@ -25,6 +25,11 @@ description: 项目官网：https://beboundless.xyz/
 ### 2、所需上传参数
 
 1）EVM钱包私钥：EVM钱包中需要选择eth-sepolia、base-mainnet、base-sepolia三条链中的一条，然后需要在选择的链上有至少6个USDC，当然也可以存入更多,目前官方主推base主网，所以建议在钱包中base主网存入至少6USDC。\
+USDC faucet:\
+https://faucet.circle.com/\
+\
+\
+若选择测试网，推荐下方的faucet:\
 USDC faucet:\
 https://faucet.circle.com/
 
