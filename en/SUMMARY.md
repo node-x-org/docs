@@ -27,4 +27,5 @@
   * [Node-X Token Distribution](tokenomics/node-x-token-distribution.md)
 * [FAQ](faq.md)
 * [Contact Us](contact-us.md)
+* [Node-X User Notice & Service Terms](node-x-user-notice-and-service-terms.md)
 * [User Agreement](user-agreement.md)
