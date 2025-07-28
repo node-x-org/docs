@@ -24,7 +24,7 @@ description: 项目官网：https://www.drosera.io/
 
 ### 1、所需上传私钥
 
-1）需要上传EVM钱包私钥，钱包中需要在ETH Holesky网络下有1个ETH,可以前往[https://holesky-faucet.pk910.de/](https://holesky-faucet.pk910.de/)或[https://www.alchemy.com/faucets/ethereum-holesky](https://www.alchemy.com/faucets/ethereum-holesky)挖取或领取代币。\
+1）需要上传EVM钱包私钥，钱包中需要在ETH Hooi网络下有1个ETH,可以前往[https://holesky-faucet.pk910.de/](https://holesky-faucet.pk910.de/)挖取或领取代币。\
 2）需要上传私钥对应的EVM钱包地址\
 3）需要上传ETH\_Holesky\_RPC,可以前往[zan](https://zan.top/)或[alchemy](https://www.alchemy.com/),若未上传则默认使用公共RPC
 
