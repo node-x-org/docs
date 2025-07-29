@@ -22,11 +22,12 @@ description: 项目官网：https://www.drosera.io/
 
 <figure><img src="../../.gitbook/assets/微信截图_20250214162424.png" alt="" width="563"><figcaption><p>点击“添加”，上传对应的信息</p></figcaption></figure>
 
-### 1、所需上传私钥
+### 1、所需上传参数
 
 1）需要上传EVM钱包私钥，钱包中需要在ETH Hooi网络下有1个ETH,可以前往[https://holesky-faucet.pk910.de/](https://holesky-faucet.pk910.de/)挖取或领取代币。\
 2）需要上传私钥对应的EVM钱包地址\
-3）需要上传ETH\_Holesky\_RPC,可以前往[zan](https://zan.top/)或[alchemy](https://www.alchemy.com/),若未上传则默认使用公共RPC
+3）需要上传ETH\_Holesky\_RPC,可以前往[zan](https://zan.top/)或[alchemy](https://www.alchemy.com/),若未上传则默认使用公共RPC\
+4）获取cadet角色，还需要上传DC用户名
 
 #### 2、需要配合部署
 
@@ -48,6 +49,19 @@ description: 项目官网：https://www.drosera.io/
 <figure><img src="../../.gitbook/assets/微信截图_20250616122046.png" alt=""><figcaption><p>点击Simulate Tx，成功后还需要点击一次注册一个操作者，成功后会出现现类似于下方的格式</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/微信截图_20250616122126.png" alt=""><figcaption><p>完成后告知我们一声，我们启动一下节点，这样就是部署成功了，但还是需要注意自己的余额是否充足</p></figcaption></figure>
+
+**2、角色获取（**<mark style="color:red;">**这一步也很重要**</mark>**）**\
+当看到上方这个界面时可以[前往DC](https://discord.gg/drosera)获取Node Runner角色\
+首先是前往-role-fix频道获取操作者，捕猎者，使者角色
+
+<figure><img src="../../.gitbook/assets/微信截图_20250729113754.png" alt=""><figcaption></figcaption></figure>
+
+获取成功后前往-poll-channel频道填写表单申请Node Runner角色
+
+<figure><img src="../../.gitbook/assets/微信截图_20250729114209.png" alt=""><figcaption></figcaption></figure>
+
+填写完成就可以获取Node Runner角色啦！\
+
 
 #### 3. 等待服务与查看官方面板
 
