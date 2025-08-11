@@ -1,9 +1,16 @@
 # One-Click Deployment
 
-Node-X offers users a friendly, efficient, and cost-effective node hosting service, allowing you to delegate deployment and operation without any coding knowledge.
+Node-X provides users with a friendly, efficient, and low-cost node hosting service. No coding knowledge is required to entrust us with node deployment and maintenance.
 
-1. **Transparent Pricing:** Our fees consist of server costs, node installation fees, and operational costs, all clearly outlined.
-2. **Flexible Billing:** Users can enjoy flexible pricing, with the option to renew daily.
-3. **Operational Transparency:** We provide an on-chain query tool for you to monitor node performance at any time: [https://explorer.node-x.xyz/](https://explorer.node-x.xyz/).
-4. **Maximized Resources:** Our server-based packages allow for multiple projects to run on a single setup, such as a 4090 GPU supporting five nodes, with only installation and operational fees added, leveraging our supply chain to offer the lowest server prices.
+**Transparent Pricing:**\
+All deployment fees consist of server costs, node installation fees, and maintenance fees, all clearly itemized.
+
+**Flexible Billing:**\
+We offer flexible pricing options, allowing you to pay on a daily subscription basis.
+
+**Maximize Your Resources:**\
+We offer server-based packages—for example, a fully configured 4090 GPU server can run nodes for up to 5 projects. We only charge installation and maintenance fees on this basis and leverage our strong supply chain integration to provide you with the lowest server prices.
+
+**Custom Deployment:**\
+If you wish to entrust your server operations to us, please fill out an application form, and we will provide dedicated deployment and maintenance services for you.
 
