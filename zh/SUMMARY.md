@@ -8,6 +8,7 @@
   * [NodeX](chan-pin-shou-ce/nodex.md)
   * [節點學院](chan-pin-shou-ce/jie-dian-xue-yuan.md)
   * [一鍵部署](chan-pin-shou-ce/yi-jian-bu-shu/README.md)
+    * [FAQ](chan-pin-shou-ce/yi-jian-bu-shu/faq.md)
     * [套餐：Rivalz+0g+Titan](chan-pin-shou-ce/yi-jian-bu-shu/tao-can-rivalz+0g+titan.md)
     * [套餐：Lumoz+Spheron+Unichain](chan-pin-shou-ce/yi-jian-bu-shu/tao-can-lumoz+spheron+unichain.md)
     * [套餐：OG+TITAN+UNICHAIN+CYSIC+ELIXIR+NEXUS+SPHERON+HEMI](chan-pin-shou-ce/yi-jian-bu-shu/tao-can-og+titan+unichain+cysic+elixir+nexus+spheron+hemi.md)
