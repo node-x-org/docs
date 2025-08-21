@@ -107,7 +107,7 @@
     * [官方指令與社區指令簡介](chan-pin-shou-ce/nodehub/guan-fang-zhi-ling-yu-she-qu-zhi-ling-jian-jie.md)
   * [NodePad](chan-pin-shou-ce/nodepad.md)
 * [分銷計劃](fen-xiao-ji-hua.md)
-* [代币经济学](dai-bi-jing-ji-xue/README.md)
+* [代幣經濟學](dai-bi-jing-ji-xue/README.md)
   * [NodeXP](dai-bi-jing-ji-xue/nodexp.md)
   * [代币分配](dai-bi-jing-ji-xue/dai-bi-fen-pei.md)
 * [常見問題](chang-jian-wen-ti.md)
