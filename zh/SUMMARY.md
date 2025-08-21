@@ -109,7 +109,7 @@
 * [分銷計劃](fen-xiao-ji-hua.md)
 * [代幣經濟學](dai-bi-jing-ji-xue/README.md)
   * [NodeXP](dai-bi-jing-ji-xue/nodexp.md)
-  * [代币分配](dai-bi-jing-ji-xue/dai-bi-fen-pei.md)
+  * [代幣分配](dai-bi-jing-ji-xue/dai-bi-fen-pei.md)
 * [常見問題](chang-jian-wen-ti.md)
 * [聯繫我們](lian-xi-wo-men.md)
 * [Node-X 用戶須知及服務條款](nodex-yong-hu-xu-zhi-ji-fu-wu-tiao-kuan.md)
