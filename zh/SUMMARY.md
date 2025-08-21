@@ -104,6 +104,7 @@
     * [X-Origin 創世徽章（Genesis）](chan-pin-shou-ce/nodehub/xorigin-chuang-shi-hui-zhang-genesis.md)
     * [NodeHub 平台漏洞與事故應急預案方案（V1.0））](chan-pin-shou-ce/nodehub/nodehub-ping-tai-lou-dong-yu-shi-gu-ying-ji-yu-an-fang-an-v1.0.md)
     * [NodeHub 智能代理系统](chan-pin-shou-ce/nodehub/nodehub-zhi-neng-dai-li-xi-tong.md)
+    * [官方指令與社區指令簡介](chan-pin-shou-ce/nodehub/guan-fang-zhi-ling-yu-she-qu-zhi-ling-jian-jie.md)
   * [NodePad](chan-pin-shou-ce/nodepad.md)
 * [分銷計劃](fen-xiao-ji-hua.md)
 * [代币经济学](dai-bi-jing-ji-xue/README.md)
