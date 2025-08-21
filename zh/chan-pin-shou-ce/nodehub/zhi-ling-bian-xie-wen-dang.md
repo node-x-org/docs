@@ -13,16 +13,14 @@ description: 以下示例仅供参考，因每个指令编写情况可能不同�
 若指令執行超過 1 分鐘則可能導致失敗，建議使用下方模版將指令後台運行，以避免佔用 NodeHub 執行緒：
 
 ```bash
-PARAMETER=$PARAMETER
-cat > $HOME/XXXX.sh <<EOF
+bash_file=$HOME/XXXX.sh
+cat > $bash_file <<'bashEOF'
 #!/bin/bash
-parameter=$PARAMETER
 XXXXXXXX
 XXXXXXXXXXXXXXX
-EOF
-
-sudo chmod +x $HOME/XXXX.sh
-nohup bash $HOME/XXXX.sh > install_XXXX.log 2>&1 < /dev/null &
+bashEOF
+sudo chmod +x $bash_file
+nohup bash $bash_file $KEY > install_XXXX.log 2>&1 &
 ```
 
 若需參數傳入版本：
