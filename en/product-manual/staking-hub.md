@@ -1,2 +1,3 @@
-# staking Hub
+# Staking Hub
 
+Coming soon

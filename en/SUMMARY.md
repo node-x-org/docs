@@ -22,7 +22,7 @@
     * [X-Origin — Early Honor Contributor Role](product-manual/nodehub/x-origin-early-honor-contributor-role.md)
     * [X-Origin Genesis Badge](product-manual/nodehub/x-origin-genesis-badge.md)
   * [NodePad](product-manual/nodepad.md)
-  * [staking Hub](product-manual/staking-hub.md)
+  * [Staking Hub](product-manual/staking-hub.md)
   * [RPC](product-manual/rpc.md)
 * [Node-X Distribution Plan](node-x-distribution-plan.md)
 * [Tokenomics](tokenomics/README.md)
