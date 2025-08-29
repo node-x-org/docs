@@ -105,6 +105,7 @@
     * [NodeHub 平台漏洞與事故應急預案方案（V1.0））](chan-pin-shou-ce/nodehub/nodehub-ping-tai-lou-dong-yu-shi-gu-ying-ji-yu-an-fang-an-v1.0.md)
     * [NodeHub 智能代理系统](chan-pin-shou-ce/nodehub/nodehub-zhi-neng-dai-li-xi-tong.md)
     * [官方指令與社區指令簡介](chan-pin-shou-ce/nodehub/guan-fang-zhi-ling-yu-she-qu-zhi-ling-jian-jie.md)
+    * [任務](chan-pin-shou-ce/nodehub/ren-wu.md)
   * [NodePad](chan-pin-shou-ce/nodepad.md)
 * [分銷計劃](fen-xiao-ji-hua.md)
 * [代幣經濟學](dai-bi-jing-ji-xue/README.md)
