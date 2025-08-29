@@ -21,6 +21,7 @@
     * [Key Parameter Information Security](product-manual/nodehub/key-parameter-information-security.md)
     * [X-Origin — Early Honor Contributor Role](product-manual/nodehub/x-origin-early-honor-contributor-role.md)
     * [X-Origin Genesis Badge](product-manual/nodehub/x-origin-genesis-badge.md)
+    * [Become a Compute Provider](product-manual/nodehub/become-a-compute-provider.md)
   * [NodePad](product-manual/nodepad.md)
   * [Staking Hub](product-manual/staking-hub.md)
   * [RPC](product-manual/rpc.md)
