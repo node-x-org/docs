@@ -108,6 +108,7 @@
     * [任務](chan-pin-shou-ce/nodehub/ren-wu.md)
   * [NodePad](chan-pin-shou-ce/nodepad.md)
   * [質押中心](chan-pin-shou-ce/zhi-ya-zhong-xin.md)
+  * [RPC](chan-pin-shou-ce/rpc.md)
 * [分銷計劃](fen-xiao-ji-hua.md)
 * [代幣經濟學](dai-bi-jing-ji-xue/README.md)
   * [NodeXP](dai-bi-jing-ji-xue/nodexp.md)
