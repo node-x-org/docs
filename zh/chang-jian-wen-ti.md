@@ -54,5 +54,7 @@
     Naas 與 NodeHub 兩種分銷模式，您可以透過分享 Node-X 的專屬連結參與分銷計畫，詳情請查看： [https://docs.node-x.xyz/fen-xiao-ji-hua](https://docs.node-x.xyz/fen-xiao-ji-hua?utm_source=chatgpt.com)
 15. **首次充值有優惠嗎？**\
     是的，通過邀請鏈接進行首次充值的用戶可以享受額外的充值獎勳。例如，首次充值金額將按照 1.1 倍到賬，充值越多，回饋越多！
+16. **充值餘額可以提現嗎？**\
+    Naas 不支持餘額提現，而 NodeHub 支持申請將充值餘額提現。我們建議根據實際需求進行充值，以更好地使用平台服務。
 
 ###
