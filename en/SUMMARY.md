@@ -25,6 +25,7 @@
   * [NodePad](product-manual/nodepad.md)
   * [Staking Hub](product-manual/staking-hub.md)
   * [RPC](product-manual/rpc.md)
+  * [Events](product-manual/events.md)
 * [Node-X Distribution Plan](node-x-distribution-plan.md)
 * [Tokenomics](tokenomics/README.md)
   * [NodeXP](tokenomics/nodexp.md)
