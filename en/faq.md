@@ -46,7 +46,7 @@ Here’s the translation of your FAQs for Node-X into English:
 
     Community-Driven → Decentralized mechanisms and incentive programs to boost user engagement
 14. **How can I participate in the distribution program?**\
-    You can participate by sharing your unique Node-X link; you will earn commission rewards when users you invite make purchases. For more details, please refer to the distribution program page on our website.
+    There are two distribution models: Naas and NodeHub. You can participate in the distribution program by sharing your exclusive Node-X link. For details, please see: [https://docs.node-x.xyz/fen-xiao-ji-hua](https://docs.node-x.xyz/fen-xiao-ji-hua?utm_source=chatgpt.com)
 15. **Is there a bonus for first-time recharge?**\
     Yes, users who recharge through an invitation link can enjoy additional rewards, with the first recharge amount being credited at 1.1 times. The more you recharge, the more rewards you receive!
 16. **Can the recharge balance be withdrawn?**\
