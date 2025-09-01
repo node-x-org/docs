@@ -50,4 +50,4 @@ Here’s the translation of your FAQs for Node-X into English:
 15. **Is there a bonus for first-time recharge?**\
     Yes, users who recharge through an invitation link can enjoy additional rewards, with the first recharge amount being credited at 1.1 times. The more you recharge, the more rewards you receive!
 16. **Can the recharge balance be withdrawn?**\
-    No, the recharge balance cannot be withdrawn and can only be used for purchasing services and paying related fees on the Node-X platform. We recommend recharging based on your actual needs to better utilize the platform's services.
+    Naas（Node-as-a-Service） does not support balance withdrawals, while NodeHub allows users to apply for withdrawing their recharge balance. We recommend recharging according to your actual needs to make better use of the platform’s services.
