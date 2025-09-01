@@ -19,8 +19,10 @@ Here’s the translation of your FAQs for Node-X into English:
    Node-X adopts an innovative charging model, only charging for node installation and operational maintenance fees. You can commission us to purchase servers or manage your servers, allowing us to deploy as many nodes as possible based on the server's capabilities to maximize resource utilization.
 8. **How is security ensured?**\
    Due to the specific nature of some node projects, it may be necessary to provide wallet private keys for node operation. In such cases, Node-X employs advanced encryption technology to secure private keys during custody. Our private key management is entirely automated, with no human intervention, ensuring your private keys remain secure throughout the process. After node operations are completed, users will safely receive their private keys. We commit to strictly safeguarding private keys during custody to maximize the protection of your assets.
-9. **Can I deploy nodes myself?**\
-   NodeHub supports manually deploying nodes on your own server or device. You need to prepare computing resources and network environment that meet the project requirements (such as CPU/GPU, memory, storage, and network bandwidth).
+9.  **Can I deploy nodes myself?**\
+    You can connect your own server to NodeHub, or directly purchase a server on NodeHub. Once connected or purchased, you can deploy and run nodes on your own.
+
+    You need to prepare computing resources and network environment that meet the project requirements (such as CPU/GPU, memory, storage, and network bandwidth).
 10. **How can I check the node's operational status?**\
     NodeHub provides real-time logs and a monitoring dashboard, allowing you to check whether your node is executing tasks properly and whether there are any errors or anomalies.
 11. **Why choose Node-X?**\
