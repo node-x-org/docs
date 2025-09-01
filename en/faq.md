@@ -20,9 +20,9 @@ Here’s the translation of your FAQs for Node-X into English:
 8. **How is security ensured?**\
    Due to the specific nature of some node projects, it may be necessary to provide wallet private keys for node operation. In such cases, Node-X employs advanced encryption technology to secure private keys during custody. Our private key management is entirely automated, with no human intervention, ensuring your private keys remain secure throughout the process. After node operations are completed, users will safely receive their private keys. We commit to strictly safeguarding private keys during custody to maximize the protection of your assets.
 9. **Can I deploy nodes myself?**\
-   In the future, we will launch NodeHub, a server management tool that allows users to deploy nodes independently.
+   NodeHub supports manually deploying nodes on your own server or device. You need to prepare computing resources and network environment that meet the project requirements (such as CPU/GPU, memory, storage, and network bandwidth).
 10. **How can I check the node's operational status?**\
-    We provide detailed documentation on how to check the node's status, and you can also visit our node explorer to view the operational status: [Node Explorer](https://explorer.node-x.xyz/).
+    NodeHub provides real-time logs and a monitoring dashboard, allowing you to check whether your node is executing tasks properly and whether there are any errors or anomalies.
 11. **Why choose Node-X?**\
 
     * User-Friendly, No Technical Background Required\
