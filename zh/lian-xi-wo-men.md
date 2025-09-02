@@ -8,7 +8,8 @@
 * **Discord:**[https://discord.com/invite/node-x](https://discord.com/invite/node-x)
 * **Medium**：[https://medium.com/node-x](https://medium.com/node-x)
 * **Doc**：[https://docs.node-x.xyz](https://docs.node-x.xyz)
-* **鏈上查詢器**：[https://explorer.node-x.xyz](https://explorer.node-x.xyz)
+
+
 
 
 
