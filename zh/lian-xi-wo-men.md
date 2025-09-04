@@ -6,6 +6,6 @@
 * **Twitter**：[https://x.com/nodex\_xyz](https://x.com/nodex_xyz)
 * **Telegram**：[https://t.me/nodexLabs](https://t.me/nodexLabs)
 * **Discord:**[https://discord.com/invite/node-x](https://discord.com/invite/node-x)
-* **Medium**：[https://medium.com/node-x](https://medium.com/node-x)
-* **Doc**：[https://docs.node-x.xyz](https://docs.node-x.xyz)
+* **Medium:**[https://blog.node-x.xyz/post-cn](https://blog.node-x.xyz/post-cn)
+* **Doc:**[https://docs.node-x.xyz](https://docs.node-x.xyz)
 
