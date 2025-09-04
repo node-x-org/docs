@@ -10,3 +10,4 @@ Here’s the English translation of your official links and business collaborati
 * Discord：[https://discord.com/invite/node-x](https://discord.com/invite/node-x)
 * Blog: [https://blog.node-x.xyz/post-cn](https://blog.node-x.xyz/post-cn)
 * Doc：[https://docs.node-x.xyz/](https://docs.node-x.xyz/)
+* Gmail：bd@node-x.xyz
