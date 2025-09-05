@@ -4,23 +4,23 @@ description: 项目官网：https://aleo.org/
 
 # ALEO
 
-## 如何通过 Node-X 平台部署  ALEO 节点？
+#### 如何透過 Node-X 平台部署 ALEO 節點？
 
-**注意：Aleo官方尚未对PoW挖矿启动有明确通知，当前出块存在无效的可能性，挖矿收益以项目方最终公告通知为准。用户需自行评估并承担风险，选择是否参与Aleo挖矿。**
+**注意：** Aleo 官方尚未對 PoW 挖礦啟動發佈明確通知，目前出塊可能存在無效情況，挖礦收益以項目方最終公告為準。用戶需自行評估並承擔風險，決定是否參與 Aleo 挖礦。
 
-#### 1. 获取 Node-X 账号及部署节点
+**1. 獲取 Node-X 帳號及部署節點**
 
-首先，你需要一个 Node-X 账号。如果你还没有账号，请前往 [Node-X 注册页面](https://node-x.xyz) 注册。注册成功后，按照以下步骤购买并上传资源部署节点,下面举个例子：
+首先，你需要一個 Node-X 帳號。如果你還沒有帳號，請前往 [Node-X 註冊頁面](https://node-x.xyz/#/home)註冊。
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162258.png" alt="" width="563"><figcaption><p>选择需要部署的项目</p></figcaption></figure>
+註冊成功後，按照以下步驟購買並上傳資源以部署節點，下面舉個例子：
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162134.png" alt="" width="563"><figcaption><p>点击部署</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/微信截图_20250214162258.png" alt="" width="563"><figcaption><p>選擇需要部署的項目</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162225.png" alt="" width="563"><figcaption><p>确认支付</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/微信截图_20250214162134.png" alt="" width="563"><figcaption><p>點擊「部署」</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162355.png" alt="" width="563"><figcaption><p>点击上传信息</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/微信截图_20250214162225.png" alt="" width="563"><figcaption><p>確認支付</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162424.png" alt="" width="563"><figcaption><p>点击“添加”，上传对应的信息</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/微信截图_20250214162355.png" alt="" width="563"><figcaption><p>點擊「上傳資訊」</p></figcaption></figure>
 
 ### 下方是ALEO节点所需的信息：
 
@@ -42,4 +42,20 @@ description: 项目官网：https://aleo.org/
 
 通过 Node-X 平台部署 ALEO 节点就是这么简单！希望这篇指南对你有所帮助。
 
-如果你有任何问题或需要进一步的指导，欢迎留言或私信我。加油！一起探索区块链的世界吧！ 🚀
+下方是 ALEO 節點所需的資訊：
+
+**1. 提供 ALEO 錢包地址**\
+在上傳資訊處填寫 ALEO 地址：\
+填寫 ALEO 錢包地址並上傳，全程加密傳輸且不經人工處理，安全可保障。
+
+**2. 等待服務與查看官方面板**\
+購買成功後，Node-X 將為你部署 ALEO 節點。通常情況下，這個過程會在 24 小時內完成。你可以通過以下方式實時查看節點狀態：
+
+* **查看節點狀態：**\
+  在 Node-X 平台的用戶面板中，可以看到所有已購買的節點及其當前狀態。
+* **項目方面板查看：**\
+  節點配置完成後，可以通過錢包查看每日到账收益。
+
+**結語**\
+通過 Node-X 平台部署 ALEO 節點就是這麼簡單！希望這篇指南對你有所幫助。\
+如果你有任何問題或需要進一步指導，歡迎留言或私信我。加油！一起探索區塊鏈的世界吧！ 🚀如果你有任何问题或需要进一步的指导，欢迎留言或私信我。加油！一起探索区块链的世界吧！ 🚀
