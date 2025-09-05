@@ -4,15 +4,16 @@ description: 项目官网：https://www.drosera.io/
 
 # Drosera
 
-## 如何通过 Node-X 平台部署  Drosera 节点？
+#### 如何透過 Node-X 平台部署 Drosera 節點？
 
-**注意：Drosera 官方尚未对该节点做出激励规则，请自行判断。**
+**注意：** Drosera 官方尚未對該節點發佈激勵規則，請用戶自行判斷風險。
 
-#### 1. 获取 Node-X 账号及部署节点
+**1. 獲取 Node-X 帳號及部署節點**\
+首先，你需要一個 Node-X 帳號。如果你還沒有帳號，請前往[ Node-X 註冊頁面](https://node-x.xyz/#/home)註冊。
 
-首先，你需要一个 Node-X 账号。如果你还没有账号，请前往 [Node-X 注册页面](https://node-x.xyz) 注册。注册成功后，按照以下步骤购买并上传资源部署节点,下面举个例子：
+註冊成功後，按照以下步驟購買並上傳資源以部署節點，下面舉個例子：
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162258.png" alt="" width="563"><figcaption><p>选择需要部署的项目</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/微信截图_20250214162258.png" alt="" width="563"><figcaption><p>選擇需要部署的項目</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/微信截图_20250214162134.png" alt="" width="563"><figcaption><p>点击部署</p></figcaption></figure>
 
