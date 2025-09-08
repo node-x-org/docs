@@ -6,7 +6,7 @@
 * **Twitter:**[https://x.com/nodex\_xyz](https://x.com/nodex_xyz)
 * **Telegram:**[https://t.me/nodexLabs](https://t.me/nodexLabs)
 * **Discord:**[https://discord.com/invite/node-x](https://discord.com/invite/node-x)
-* **Blog:**[**https://blog.node-x.xyz/**](https://blog.node-x.xyz/)
+* **Blog:**[https://blog.node-x.xyz](https://blog.node-x.xyz/)
 * **Doc:**[https://docs.node-x.xyz](https://docs.node-x.xyz)
 * **Gmail:**&#x62;d@node-x.xyz
 
