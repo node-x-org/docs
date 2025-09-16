@@ -88,6 +88,7 @@
     * [ORA](chan-pin-shou-ce/yi-jian-bu-shu/ora.md)
     * [Nexus](chan-pin-shou-ce/yi-jian-bu-shu/nexus.md)
     * [0g](chan-pin-shou-ce/yi-jian-bu-shu/0g.md)
+    * [0G Alignment Node](chan-pin-shou-ce/yi-jian-bu-shu/0g-alignment-node.md)
   * [NodeHub](chan-pin-shou-ce/nodehub/README.md)
     * [路線圖](chan-pin-shou-ce/nodehub/lu-xian-tu.md)
     * [積分計劃（暫停使用）](chan-pin-shou-ce/nodehub/ji-fen-ji-hua-zan-ting-shi-yong.md)
