@@ -6,11 +6,11 @@ description: Project official website:https://0g.ai/
 
 <p align="right"><a href="https://docs.node-x.xyz/chan-pin-shou-ce/yi-jian-bu-shu/0g-alignment-node"> <strong>中文</strong></a></p>
 
-## **How to deploy a 0G Alignment node through the Node-X platform?**
+## How to deploy a 0G Alignment node via the Node-X platform?
 
 ### 1.Obtain a Node-X account and deploy a node
 
-First, you need a Node-X account. If you don't have one yet, please visit [the Node-X registration page](https://node-x.xyz/) to register. After successfully registering, follow the steps below to purchase and upload resources to deploy a node. Here's an example:
+First, you need a Node-X account. If you don’t have one, please go to [the Node-X registration page](https://node-x.xyz/) to register. After registration, follow the steps below to purchase and upload resources to deploy the node. The ordering process is as follows:
 
 <figure><img src="../../.gitbook/assets/wechat_2025-09-19_134359_080.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -25,30 +25,30 @@ First, you need a Node-X account. If you don't have one yet, please visit [the N
 
 ### 2.Parameter upload
 
-#### Upload EVM address and upload NFT TOKEN IDS
+#### Upload EVM address and NFT TOKEN IDS
 
-* **Purchase and upload information:**\
-  You need to upload the EVM address (the wallet must contain NFT). One NFT corresponds to one node. Fill in the wallet address in the front and the TOKEN ID of the NFT in the corresponding wallet in the back.
-* **Get the delegate address for delegation：**\
-  After the order is successfully placed, a pop-up window will appear, returning your node information, namely the corresponding wallet address, TOKEN ID, and delegation address. Then you can go to the 0G official website to make the delegation.
+* **Upload the information and make a purchase:**\
+  You need to upload the EVM address (with NFT in the wallet). One NFT corresponds to one transaction, so follow the prompts to fill in the details, and then enter the TOKEN IDS of the NFTs in the corresponding wallet. If the TOKEN IDS you enter are not correct, they will be flagged.
+* **Obtain the delegation address and delegate：**\
+  After a successful order, a pop-up will appear with your node information, including the wallet address, TOKEN ID, and delegation address. Then, go to the official 0G website to delegate.
 
 <figure><img src="../../.gitbook/assets/微信图片_2025-09-19_144011_961.png" alt=""><figcaption></figcaption></figure>
 
 \
 
 
-### 3.Waiting for service and viewing the official panel
+### 3.Wait for service and check the official dashboard
 
-After your purchase is complete, Node-X will deploy a 0G Alignment node for you. This process typically takes 24 hours. You can monitor the node's status in real time via:
+After a successful purchase, Node-X will deploy the 0G Alignment node for you. This process usually takes place within 24 hours. You can instantly check the node status via the following methods:
 
-1. **View node status:**\
-   In the Node-X platform user panel, you can see all purchased nodes and their current status.
-2. **After successful deployment, you can go to the official website to check the node status:**\
-   Go to the official website to check the node status. The node is online normally as shown in the figure below:\
+1. **Check node status:**\
+   In the Node-X platform user panel, you can view all the purchased nodes and their current status.
+2. **After successful deployment, you can check the node status on the official website:**\
+   Go to the official website to check the node status. The node should be online as shown in the image below:\
 
 
-## ConclusionConclusion
+## **Conclusion**
 
-Deploying a 0G Alignment node through the Node-X platform is that simple! We hope this guide was helpful.\
-If you have any questions or need further guidance, please leave a comment or send me a private message. Come on! Let's explore the world of blockchain together!🚀
+Deploying a 0G Alignment node via the Node-X platform is that simple! Hope this guide is helpful to you.\
+If you have any questions or need further guidance, feel free to leave a message or DM me. Good luck! Let’s explore the world of blockchain together!🚀
 
