@@ -8,13 +8,16 @@ description: 项目官网:https://0g.ai/
 
 #### 1. 获取 Node-X 账号及部署节点
 
-首先，你需要一个 Node-X 账号。如果你还没有账号，请前往 [Node-X 注册页面](https://node-x.xyz) 注册。注册成功后，按照以下步骤购买并上传资源部署节点,下面举个例子：
+首先，你需要一个 Node-X 账号。如果你还没有账号，请前往 [Node-X 注册页面](https://node-x.xyz) 注册。注册成功后，按照以下步骤购买并上传资源部署节点,下面举个例子：\
 
-<figure><img src="../../.gitbook/assets/wechat_2025-09-16_152512_735.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/wechat_2025-09-16_152727_442.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wechat_2025-09-19_135940_481中.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/wechat_2025-09-16_152941_258.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C2.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/C3.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/C4.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 下方是0G节点所需的信息：
 
@@ -25,7 +28,7 @@ description: 项目官网:https://0g.ai/
 * **获取委托地址进行委托**\
   下单成功后，会有一个弹窗，返回您的节点信息，即对应的钱包地址、TOKEN ID 、委托地址，然后前往0G官网进行委托即可。
 
-<figure><img src="../../.gitbook/assets/wechat_2025-09-16_155027_363.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/微信图片_2025-09-19_145504_505.png" alt=""><figcaption></figcaption></figure>
 
 #### 3. 等待服务与查看官方面板
 
