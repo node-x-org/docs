@@ -13,11 +13,11 @@ description: 專案官網:https://0g.ai/
 首先，你需要一個 Node-X 賬號。如果你還沒有賬號，請前往 [Node-X註冊頁面](https://node-x.xyz/) 註冊。註冊成功後，按照以下步驟購買並上傳資源部署節點,下面是下單流程：\
 
 
-<figure><img src="../../.gitbook/assets/wechat_2025-09-19_135940_481中.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/C2.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/C3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C3.png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/C4.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -30,7 +30,7 @@ description: 專案官網:https://0g.ai/
 * **獲取委託地址進行委託**\
   下單成功後，會有一個彈窗，返回您的節點訊息，即對應的錢包地址、TOKEN ID 、委託地址，然後前往0G官網進行委託即可。
 
-<figure><img src="../../.gitbook/assets/微信图片_2025-09-19_145504_505.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C5.png" alt=""><figcaption></figcaption></figure>
 
 #### 3. 等待服務與查看官方面板
 
