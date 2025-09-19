@@ -19,7 +19,7 @@ description: 專案官網:https://0g.ai/
 
 <figure><img src="../../.gitbook/assets/C3.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/C4.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C4 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 下方是部署0G節點需要上傳的參數：
 
