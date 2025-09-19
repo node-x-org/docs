@@ -14,11 +14,11 @@ First, you need a Node-X account. If you don’t have one, please go to [the Nod
 
 <figure><img src="../../.gitbook/assets/E1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/E2.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/E2 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/E3.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/E3 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/E4.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/E4 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 2.Fill in the parameters
 
