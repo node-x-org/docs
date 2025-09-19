@@ -12,16 +12,13 @@ description: Project official website:https://0g.ai/
 
 First, you need a Node-X account. If you don’t have one, please go to [the Node-X registration page](https://node-x.xyz/) to register. After registration, follow the steps below to purchase and upload resources to deploy the node. The ordering process is as follows:
 
-<figure><img src="../../.gitbook/assets/wechat_2025-09-19_134359_080.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/E1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/E2.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/E3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/E3.png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/E4.png" alt="" width="563"><figcaption></figcaption></figure>
-
-\
-
 
 ### 2.Fill in the parameters
 
@@ -32,10 +29,7 @@ First, you need a Node-X account. If you don’t have one, please go to [the Nod
 * **Obtain the delegation address and delegate：**\
   After a successful order, a pop-up will appear with your node information, including the wallet address, TOKEN ID, and delegation address. Then, go to the official 0G website to delegate.
 
-<figure><img src="../../.gitbook/assets/微信图片_2025-09-19_144011_961.png" alt=""><figcaption></figcaption></figure>
-
-\
-
+<figure><img src="../../.gitbook/assets/E5.png" alt=""><figcaption></figcaption></figure>
 
 ### 3.Wait for service and check the official dashboard
 
