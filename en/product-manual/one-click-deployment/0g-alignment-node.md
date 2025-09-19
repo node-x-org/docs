@@ -4,6 +4,8 @@ description: Project official website:https://0g.ai/
 
 # 0G Alignment Node
 
+&#x20;                                                                                                                                                                                     [**Chinese**](https://docs.node-x.xyz/chan-pin-shou-ce/yi-jian-bu-shu/0g-alignment-node)
+
 ## **How to deploy a 0G Alignment node through the Node-X platform?**
 
 ### 1.Obtain a Node-X account and deploy a node
