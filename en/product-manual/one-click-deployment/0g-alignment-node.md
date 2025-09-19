@@ -23,7 +23,7 @@ First, you need a Node-X account. If you don’t have one, please go to [the Nod
 \
 
 
-### 2.Parameter upload
+### 2.Fill in the parameters
 
 #### Upload EVM address and NFT TOKEN IDS
 
