@@ -4,7 +4,7 @@ description: 專案官網:https://0g.ai/
 
 # 0G Alignment Node
 
-&#x20;                                                                                                                                                                           [English](https://docs.node-x.xyz/en/product-manual/one-click-deployment/0g-alignment-node)
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/0g-alignment-node">English</a></p>
 
 ## 如何通過 Node-X 平台部署 0G Alignment 節點？
 
