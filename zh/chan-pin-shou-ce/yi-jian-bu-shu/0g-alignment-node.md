@@ -4,6 +4,8 @@ description: 项目官网:https://0g.ai/
 
 # 0G Alignment Node
 
+&#x20;                                                                                                                                                             [English](https://docs.node-x.xyz/en/product-manual/one-click-deployment/0g-alignment-node)
+
 ## 如何通过 Node-X 平台部署 0G Alignment 节点？
 
 #### 1. 获取 Node-X 账号及部署节点
