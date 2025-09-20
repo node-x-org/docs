@@ -1,5 +1,5 @@
 ---
-description: 项目官网：https://www.drosera.io/
+description: 專案官網：https://www.drosera.io/
 ---
 
 # Drosera
@@ -17,27 +17,21 @@ description: 项目官网：https://www.drosera.io/
 
 <figure><img src="../../.gitbook/assets/C2 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/C3.png" alt="" width="563"><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/C4.png" alt="" width="563"><figcaption></figcaption></figure>
 
+### 1、填寫參數
 
+1）需要填寫EVM錢包私鑰，錢包中需要在ETH Hoodi網路下有1個ETH,可以前往https://holesky-faucet.pk910.de/挖取或領取代幣。\
+2）需要填寫私鑰對應的EVM錢包地址。\
+3）需要填寫ETH\_Hoodi\_RPC,可以前往zan或infura,若未填寫則預設使用公共RPC\
+4）獲取cadet角色，還需要上傳DC用戶名
 
+#### 2、配合部署
 
-
-
-
-
-
-### 1、所需上传参数
-
-1）需要上传EVM钱包私钥，钱包中需要在ETH Hoodi网络下有1个ETH,可以前往[https://holesky-faucet.pk910.de/](https://holesky-faucet.pk910.de/)挖取或领取代币。\
-2）需要上传私钥对应的EVM钱包地址\
-3）需要上传ETH\_Hoodi\_RPC,可以前往[zan](https://zan.top/)或[infura](https://www.infura.io/zh),若未上传则默认使用公共RPC\
-4）获取cadet角色，还需要上传DC用户名
-
-#### 2、需要配合部署
-
-我们在部署后您需要前往[https://app.drosera.io/](https://app.drosera.io/)注册操作者并且在网站存入至少0.3个ETH\
-进入网站后首先是连接上传私钥对应的钱包
+我們在部署後您需要前往https://app.drosera.io/註冊操作者並且在網站存入至少0.3個ETH\
+進入網站後首先是連接上傳私鑰對應的錢包
 
 <figure><img src="../../.gitbook/assets/微信截图_20250616121626.png" alt=""><figcaption><p>连接钱包</p></figcaption></figure>
 
@@ -55,28 +49,27 @@ description: 项目官网：https://www.drosera.io/
 
 <figure><img src="../../.gitbook/assets/微信截图_20250616122126.png" alt=""><figcaption><p>完成后告知我们一声，我们启动一下节点，这样就是部署成功了，但还是需要注意自己的余额是否充足</p></figcaption></figure>
 
-**2、角色获取（**<mark style="color:red;">**这一步也很重要**</mark>**）**\
-当看到上方这个界面时可以[前往DC](https://discord.gg/drosera)获取Node Runner角色\
-首先是前往-role-fix频道获取操作者，捕猎者，使者角色
+**2、**&#x89D2;色獲取<mark style="color:red;">**（**</mark><mark style="color:red;">這一步也很重要</mark><mark style="color:red;">**）**</mark>\
+當看到上方這個介面時可以[前往DC](https://discord.gg/drosera)獲取Node Runner角色\
+首先是前往-role-fix頻道取得操作者，捕獵者，使者角色
 
 <figure><img src="../../.gitbook/assets/微信截图_20250729113754.png" alt=""><figcaption></figcaption></figure>
 
-获取成功后前往-poll-channel频道填写表单申请Node Runner角色
+獲取成功後前往-poll-channel頻道填寫表單申請Node Runner角色
 
 <figure><img src="../../.gitbook/assets/微信截图_20250729114209.png" alt=""><figcaption></figcaption></figure>
 
-填写完成就可以获取Node Runner角色啦！\
+填寫完成就可以取得Node Runner角色啦！
 
+#### 3. 等待服務與查看官方面板
 
-#### 3. 等待服务与查看官方面板
+購買成功後，Node-X 將為你部署 Drosera 節點。通常情況下，這個過程會在24小時內完成。你可以透過以下方式即時查看節點狀態：
 
-购买成功后，Node-X 将为你部署 Drosera 节点。通常情况下，这个过程会在24小时内完成。你可以通过以下方式实时查看节点状态：
+1. 檢視節點狀態：\
+   在 Node-X 平台的使用者面板中，你可以看到所有已購買的節點及其目前狀態。
 
-1. **查看节点状态**：\
-   在 Node-X 平台的用户面板中，你可以看到所有已购买的节点及其当前状态。
+## **結語**
 
-#### 结语
+透過 Node-X 平台部署 Drosera 節點就是這麼簡單！希望這篇指南對你有幫助。
 
-通过 Node-X 平台部署 Drosera 节点就是这么简单！希望这篇指南对你有所帮助。
-
-如果你有任何问题或需要进一步的指导，欢迎留言或私信我。加油！一起探索区块链的世界吧！ 🚀
+如果你有任何問題或需要進一步的指導，歡迎留言或私訊我。加油！一起探索區塊鏈的世界吧！ 🚀
