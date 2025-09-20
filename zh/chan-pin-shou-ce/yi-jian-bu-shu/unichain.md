@@ -1,5 +1,6 @@
 ---
 description: 项目官网：https://www.unichain.org/
+hidden: true
 ---
 
 # Unichain

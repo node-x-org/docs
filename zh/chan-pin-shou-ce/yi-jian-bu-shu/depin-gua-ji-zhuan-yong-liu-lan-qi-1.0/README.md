@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Depin挂机专用浏览器1.0
 
 Node-X推出专业的Depin挂机专用浏览器1.0
