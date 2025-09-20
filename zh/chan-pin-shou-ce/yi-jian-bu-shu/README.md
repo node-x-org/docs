@@ -4,6 +4,8 @@ coverY: 0
 
 # 一鍵部署
 
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deploymenthttps://docs.node-x.xyz/en/product-manual/one-click-deployment">English</a></p>
+
 [**Node-X**](https://app.node-x.xyz)為用戶提供友好、高效、低成本的節點托管服務，無需掌握任何程式碼知識，即可委託我們部署、運維節點。
 
 * 收費透明：所有的部署費用均由伺服器費用、節點安裝費、運維費組成，我們明碼標價。

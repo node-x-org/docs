@@ -1,6 +1,6 @@
 # 節點學院
 
-<p align="right">English</p>
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/node-academy">English</a></p>
 
 節點學院是Node-X為用戶提供的節點項目信息聚合平台：
 

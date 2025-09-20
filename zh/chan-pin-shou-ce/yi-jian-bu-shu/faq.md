@@ -1,5 +1,7 @@
 # FAQ
 
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/naas-faq"><strong>English</strong></a></p>
+
 **Q: 什麼是 Node-X，我們提供什麼服務？**\
 **A:**\
 NaaS（Node-as-a-Service）是一項為零技術門檻用戶打造的全托管節點服務，提供一鍵部署與專業運維支持，讓任何人都能輕鬆參與區塊鏈網絡建設。
