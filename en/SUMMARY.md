@@ -11,6 +11,7 @@
     * [0G Alignment Node](product-manual/one-click-deployment/0g-alignment-node.md)
     * [Drosera](product-manual/one-click-deployment/drosera.md)
     * [Boundless Network](product-manual/one-click-deployment/boundless-network.md)
+    * [Aztec Network](product-manual/one-click-deployment/aztec-network.md)
   * [Node Academy](product-manual/node-academy.md)
   * [NodeHub](product-manual/nodehub/README.md)
     * [RoadMap](product-manual/nodehub/roadmap.md)
