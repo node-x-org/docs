@@ -24,11 +24,7 @@ description: 项目官网：https://beboundless.xyz/
 
 ### 2、所需上传参数
 
-1）EVM钱包私钥：EVM钱包中需要选择eth-sepolia、base-mainnet、base-sepolia三条链中的一条，然后需要在选择的链上有一定的ETH（默认存入0.0001ETH）和至少6个USDC，当然也可以存入更多,目前官方主推base主网，所以建议在钱包中base主网存入至少6USDC。\
-\
-若选择测试网，推荐下方的faucet:\
-USDC faucet:\
-https://faucet.circle.com/
+1）EVM钱包私钥：EVM钱包中需要选择eth-sepolia、base-mainnet、base-sepolia三条链中的一条，然后需要在选择的链上有一定的ETH（默认存入0.0001ETH）和至少6个USDC，当然也可以存入更多,目前官方主推base主网，所以建议在钱包中base主网存入至少6USDC。
 
 #### 3. 等待服务与查看官方面板
 

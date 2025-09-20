@@ -4,7 +4,7 @@ description: 项目官网：https://aztec.network/
 
 # Aztec Network
 
-## 如何通过 Node-X 平台部署  Aztec 全节点？
+## 如何通过 Node-X 平台部署  Aztec 验证者节点？
 
 <mark style="color:red;">**注意：Aztec 官方尚未对该节点做出激励规则，请自行判断。**</mark>
 
@@ -31,10 +31,10 @@ RPC需要是否付费的RPC,免费的RPC请求次数不够。\
 可以前往[znkr](https://www.ankr.com/)获取ETH sepolia Beacon 和 ETH sepolia两个链的RPC。
 
 双方配合完成注册\
-节点部署并完成区块同步之后，需要前往[Aztec DC](https://discord.com/invite/aztec)进行注册。部署完成后，我们返回给您区块高度以及对应的证明秘钥。\
+节点部署并完成区块同步之后，需要前往[Aztec DC](https://discord.com/invite/aztec)进行注册。部署完成后，我们返回给您节点部署的服务器IP并配合钱包地址\
 
 
-<figure><img src="../../.gitbook/assets/微信截图_20250507144236.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/new1.png" alt=""><figcaption></figcaption></figure>
 
 进入Aztec的DC后，找到operators | start-here频道，在频道中可以输入/operator chain-info,查看最新区块，例如Proven block: 28394，查看和我们返回给您的区块数是否相同，然后再输入/operator start,如上图，会让您填入相应的数据。填入并发送即可。
 
