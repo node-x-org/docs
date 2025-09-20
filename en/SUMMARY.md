@@ -9,6 +9,7 @@
   * [One-Click Deployment](product-manual/one-click-deployment/README.md)
     * [NaaS FAQ](product-manual/one-click-deployment/naas-faq.md)
     * [0G Alignment Node](product-manual/one-click-deployment/0g-alignment-node.md)
+    * [Drosera](product-manual/one-click-deployment/drosera.md)
   * [Node Academy](product-manual/node-academy.md)
   * [NodeHub](product-manual/nodehub/README.md)
     * [RoadMap](product-manual/nodehub/roadmap.md)
