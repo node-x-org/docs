@@ -1,5 +1,6 @@
 ---
 description: 项目官网:https://artela.network/
+hidden: true
 cover: ../../.gitbook/assets/微信图片_20240820162304.png
 coverY: 117.77066666666664
 ---

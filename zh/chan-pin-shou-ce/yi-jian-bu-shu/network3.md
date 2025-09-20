@@ -1,5 +1,6 @@
 ---
 description: 项目官网：https://network3.ai/
+hidden: true
 ---
 
 # NETWORK3

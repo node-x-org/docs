@@ -1,5 +1,6 @@
 ---
 description: 项目官网：https://cess.network/
+hidden: true
 ---
 
 # CESS

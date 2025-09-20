@@ -1,5 +1,6 @@
 ---
 description: 项目官网：https://www.t3rn.io/
+hidden: true
 ---
 
 # T3RN V2

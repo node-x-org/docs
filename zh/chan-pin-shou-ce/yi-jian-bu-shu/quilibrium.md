@@ -1,5 +1,6 @@
 ---
 description: 项目官网:https://quilibrium.com/
+hidden: true
 cover: ../../.gitbook/assets/微信截图_20240820162944.png
 coverY: -16
 ---

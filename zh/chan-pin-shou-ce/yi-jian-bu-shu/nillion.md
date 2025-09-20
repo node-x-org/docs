@@ -1,5 +1,6 @@
 ---
 description: 项目官方：https://nillion.com/
+hidden: true
 ---
 
 # Nillion

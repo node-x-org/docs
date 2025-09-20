@@ -1,5 +1,6 @@
 ---
 description: 项目官网:https://www.flock.io/
+hidden: true
 cover: https://www.flock.io/_next/static/media/header-logo.1e344b00.svg
 coverY: 0
 ---

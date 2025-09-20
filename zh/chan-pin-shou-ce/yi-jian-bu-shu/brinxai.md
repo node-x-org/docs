@@ -1,5 +1,6 @@
 ---
 description: 项目官网：https://brinxai.com/
+hidden: true
 ---
 
 # BrinxAI

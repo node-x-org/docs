@@ -1,5 +1,6 @@
 ---
 description: 项目官网：https://www.glacier.io/
+hidden: true
 ---
 
 # Glacier Network

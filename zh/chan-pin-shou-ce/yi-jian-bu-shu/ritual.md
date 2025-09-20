@@ -1,5 +1,6 @@
 ---
 description: 项目官网:https://ritual.net/
+hidden: true
 cover: ../../.gitbook/assets/微信截图_20240820154832.png
 coverY: 0
 ---

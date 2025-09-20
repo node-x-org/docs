@@ -1,5 +1,6 @@
 ---
 description: 项目官网:https://rivalz.ai/
+hidden: true
 cover: https://rivalz.ai/logo.svg
 coverY: 0
 ---

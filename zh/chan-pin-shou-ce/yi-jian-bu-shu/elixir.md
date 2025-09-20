@@ -1,5 +1,6 @@
 ---
 description: 项目官网：https://www.elixir.xyz/
+hidden: true
 ---
 
 # Elixir

@@ -1,5 +1,6 @@
 ---
 description: 极致性价比，服务器资源最大化利用，一鱼多吃套餐
+hidden: true
 ---
 
 # 套餐：Story+Elixir+Hemi+Titan+SixGPT+ORA
