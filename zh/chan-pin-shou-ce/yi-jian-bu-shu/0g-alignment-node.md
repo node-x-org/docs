@@ -17,7 +17,7 @@ description: 專案官網:https://0g.ai/
 
 <figure><img src="../../.gitbook/assets/C2.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/C3.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C3 (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/C4 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
