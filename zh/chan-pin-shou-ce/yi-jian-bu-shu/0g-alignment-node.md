@@ -15,18 +15,18 @@ description: 專案官網:https://0g.ai/
 
 <figure><img src="../../.gitbook/assets/C1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/C2.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C2 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/C3 (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/C4 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C4 (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### 下方是部署0G節點需要上傳的參數：
+### 下方是部署0G節點需要填寫的參數：
 
-#### 1. 上傳EVM地址以及NFT的TOKEN ID
+#### 1. 填寫EVM地址以及NFT的TOKEN ID
 
-* **上傳信息並購買**：\
-  需要上傳EVM地址（錢包中含有NFT），一個NFT對應一個接啊定，根據提示填寫即可，后面填入对应钱包中的NFT的TOKEN IDS，若所填TOKEN IDS不是錢包中NFT TOKEN IDS,則會被標識出來
+* **填寫信息並購買**：\
+  需要填寫EVM地址（錢包中含有NFT），一個NFT對應一個接啊定，根據提示填寫即可，后面填入对应钱包中的NFT的TOKEN IDS，若所填TOKEN IDS不是錢包中NFT TOKEN IDS,則會被標識出來
 * **獲取委託地址進行委託**\
   下單成功後，會有一個彈窗，返回您的節點訊息，即對應的錢包地址、TOKEN ID 、委託地址，然後前往0G官網進行委託即可。
 

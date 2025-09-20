@@ -15,7 +15,7 @@ description: 项目官网：https://www.drosera.io/
 
 <figure><img src="../../.gitbook/assets/C1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/C2.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C2 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 

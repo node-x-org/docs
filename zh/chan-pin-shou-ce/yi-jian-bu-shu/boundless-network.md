@@ -1,28 +1,26 @@
 ---
-description: 项目官网：https://beboundless.xyz/
+description: 專案官網：https://beboundless.xyz/
 ---
 
 # Boundless Network
 
-## 如何通过 Node-X 平台部署  Boundless-Prover 节点？
+## 如何通過 Node-X 平台部署  Boundless-Prover 節點？
 
-<mark style="color:red;">注：不保证能抢到订单，一切以官方为准。</mark>
+<mark style="color:red;">註：不保證能搶到訂單，一切以官方為準。</mark>
 
-#### 1. 获取 Node-X 账号及部署节点
+#### 1. 獲取 Node-X 帳號及部署節點
 
-首先，你需要一个 Node-X 账号。如果你还没有账号，请前往 [Node-X 注册页面](https://node-x.xyz) 注册。注册成功后，按照以下步骤购买并上传资源部署节点,下面举个例子：
+首先，你需要一個 Node-X 帳號。如果你還沒有帳號，請前往 [Node-X 註冊頁面](https://node-x.xyz/#/home) 註冊。註冊成功後，請按照以下步驟購買並上傳資源部署節點,下面舉個例子：
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162258.png" alt="" width="563"><figcaption><p>选择需要部署的项目</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162134.png" alt="" width="563"><figcaption><p>点击部署</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C2.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162225.png" alt="" width="563"><figcaption><p>确认支付</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C3.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162355.png" alt="" width="563"><figcaption><p>点击上传信息</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C4.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162424.png" alt="" width="563"><figcaption><p>点击“添加”，上传对应的信息</p></figcaption></figure>
-
-### 2、所需上传参数
+### 2、填寫參數
 
 1）EVM钱包私钥：EVM钱包中需要选择eth-sepolia、base-mainnet、base-sepolia三条链中的一条，然后需要在选择的链上有一定的ETH（默认存入0.0001ETH）和至少6个USDC，当然也可以存入更多,目前官方主推base主网，所以建议在钱包中base主网存入至少6USDC。
 
