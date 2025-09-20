@@ -1,5 +1,7 @@
 # 想像
 
+<p align="right"><a href="https://docs.node-x.xyz/en/about-node-x/imagine"><strong>English</strong></a></p>
+
 ## **B2C 的算力交易現狀**
 
 在傳統的 B2C 算力交易模式中，用戶從大型雲端計算服務提供商（如 AWS、Google Cloud、Microsoft Azure 等）租用計算資源。這種模式通常由大型企業主導，提供集中化的服務與支援。但此模式也存在一些限制：

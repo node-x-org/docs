@@ -17,6 +17,8 @@ layout:
 
 # 項目背景
 
+<p align="right"><a href="https://docs.node-x.xyz/en/about-node-x/project-background"><strong>English</strong></a></p>
+
 ## **行業發展**
 
 在全球數位經濟的迅猛發展下，區塊鏈技術與分布式運算正逐漸成為推動新一代互聯網（Web3）的核心力量。這場變革帶來了前所未有的去中心化機會，重新定義了資料的儲存、傳輸與處理方式。

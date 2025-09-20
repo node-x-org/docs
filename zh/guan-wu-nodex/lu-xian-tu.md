@@ -1,5 +1,7 @@
 # 路線圖
 
+<p align="right"><a href="https://docs.node-x.xyz/en/about-node-x/road-map">English</a></p>
+
 #### 第一階段（2024年第四季）：產品完善階段
 
 * 上線「節點學院」、「一鍵部署」、「NodePad」
