@@ -1,5 +1,7 @@
 # NodeX
 
+<p align="right"><a href="https://docs.node-x.xyz/chan-pin-shou-ce/nodex">English</a></p>
+
 **發現 Node-X：去中心化計算的未來**
 
 透過 **Node-X** 探索去中心化網絡的強大力量。不論是新手還是專家，Node-X 都讓節點部署和管理變得輕鬆，提供無縫連接 Web3 生態系統的能力。
