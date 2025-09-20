@@ -1,8 +1,8 @@
 ---
-description: Project official website:https://www.drosera.io/
+description: Project official website:https://beboundless.xyz/
 ---
 
-# Drosera
+# Boundless Network
 
 <p align="right"> <a href="https://docs.node-x.xyz/chan-pin-shou-ce/yi-jian-bu-shu/drosera"><strong>中文</strong></a></p>
 
