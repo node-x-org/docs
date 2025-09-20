@@ -12,15 +12,11 @@ description: 项目官网：https://aztec.network/
 
 首先，你需要一个 Node-X 账号。如果你还没有账号，请前往 [Node-X 注册页面](https://node-x.xyz) 注册。注册成功后，按照以下步骤购买并上传资源部署节点,下面举个例子：
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162258.png" alt="" width="563"><figcaption><p>选择需要部署的项目</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162134.png" alt="" width="563"><figcaption><p>点击部署</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C2.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162225.png" alt="" width="563"><figcaption><p>确认支付</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/微信截图_20250214162355.png" alt="" width="563"><figcaption><p>点击上传信息</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/微信截图_20250214162424.png" alt="" width="563"><figcaption><p>点击“添加”，上传对应的信息</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C3 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 该项目需要上传三个参数
 
@@ -36,15 +32,7 @@ RPC需要是否付费的RPC,免费的RPC请求次数不够。\
 
 <figure><img src="../../.gitbook/assets/new1.png" alt=""><figcaption></figcaption></figure>
 
-进入Aztec的DC后，找到operators | start-here频道，在频道中可以输入/operator chain-info,查看最新区块，例如Proven block: 28394，查看和我们返回给您的区块数是否相同，然后再输入/operator start,如上图，会让您填入相应的数据。填入并发送即可。
-
-<figure><img src="../../.gitbook/assets/微信图片_20250507144707.png" alt=""><figcaption><p>这样就成功注册了</p></figcaption></figure>
-
-然后检查自己是否获取到角色
-
-<figure><img src="../../.gitbook/assets/微信图片_20250507150324.png" alt=""><figcaption><p>这样就成功获取角色了</p></figcaption></figure>
-
-然后继续运行，还能领取一个角色。
+进入Aztec的DC后，找到[#upgrade-role](https://discord.gg/aztec)频道，在频道中可以输入/checkip,会让您填入相应的数据。填入并发送即可。
 
 #### 2. 等待服务与查看官方面板
 
