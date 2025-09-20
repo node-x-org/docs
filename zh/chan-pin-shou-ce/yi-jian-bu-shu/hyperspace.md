@@ -1,14 +1,14 @@
 ---
-description: 项目官网：https://hyper.space/
+description: 專案官網：https://hyper.space/
 ---
 
 # Hyperspace
 
-## 如何通过 Node-X 平台部署  Hyperspace 节点？
+## 如何透過 Node-X 平台部署  Hyperspace 節點？
 
-#### 1. 获取 Node-X 账号及部署节点
+#### 1.  獲取Node-X 賬號及部署節點
 
-首先，你需要一个 Node-X 账号。如果你还没有账号，请前往 [Node-X 注册页面](https://node-x.xyz) 注册。注册成功后，按照以下步骤购买并上传资源部署节点,下面举个例子：
+首先，你需要一個 Node-X 帳號。如果你還沒有帳號，請前往 N[ode-X 註冊](https://node-x.xyz/)註冊。註冊成功後，按照以下步驟購買並填寫資源信息部署節點,下面以0G Alignment node舉個例子：
 
 <figure><img src="../../.gitbook/assets/微信截图_20250214162258.png" alt="" width="563"><figcaption><p>选择需要部署的项目</p></figcaption></figure>
 
