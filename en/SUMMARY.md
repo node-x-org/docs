@@ -12,6 +12,7 @@
     * [Drosera](product-manual/one-click-deployment/drosera.md)
     * [Boundless Network](product-manual/one-click-deployment/boundless-network.md)
     * [Aztec Network](product-manual/one-click-deployment/aztec-network.md)
+    * [Hyperspace](product-manual/one-click-deployment/hyperspace.md)
   * [Node Academy](product-manual/node-academy.md)
   * [NodeHub](product-manual/nodehub/README.md)
     * [RoadMap](product-manual/nodehub/roadmap.md)

@@ -28,7 +28,7 @@ First, you need a Node-X account. If you don’t have one, please go to [the Nod
 
 ### 3.Wait for service and check the official dashboard
 
-After a successful purchase, Node-X will deploy the Drosera node for you. This process usually takes place within 24 hours. You can instantly check the node status via the following methods:
+After a successful purchase, Node-X will deploy the Boundless-prover node for you. This process usually takes place within 24 hours. You can instantly check the node status via the following methods:
 
 1. **Check node status:**\
    In the Node-X platform user panel, you can view all the purchased nodes and their current status.
