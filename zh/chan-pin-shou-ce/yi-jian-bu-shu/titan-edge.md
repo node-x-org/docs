@@ -1,49 +1,45 @@
 ---
-description: 项目官网:https://www.titannet.io/
+description: 專案官網:https://www.titannet.io/
 cover: https://test1.titannet.io/assets/vis25.9798d511.png
 coverY: 0
 ---
 
 # Titan-Edge
 
-## 如何通过 Node-X 平台部署 Titan节点？
+## 如何透過 Node-X 平台部署 Titan節點？
 
-#### 1. 获取 Node-X 账号及部署节点
+### 1. 獲取 Node-X 帳號及部署節點
 
-首先，你需要一个 Node-X 账号。如果你还没有账号，请前往 [Node-X 注册页面](https://node-x.xyz) 注册。注册成功后，按照以下步骤购买并上传资源部署节点,下面举个例子：
+首先，你需要一個 Node-X 帳號。如果你還沒有帳號，請前往 [Node-X 註冊頁面](https://node-x.xyz/) 註冊。註冊成功後，請按照以下步驟購買並上傳資源部署節點,下面舉個例子：
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162258.png" alt="" width="563"><figcaption><p>选择需要部署的项目</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162134.png" alt="" width="563"><figcaption><p>点击部署</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C2 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162225.png" alt="" width="563"><figcaption><p>确认支付</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C3 (4).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162355.png" alt="" width="563"><figcaption><p>点击上传信息</p></figcaption></figure>
+### 2.填寫Titan參數
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162424.png" alt="" width="563"><figcaption><p>点击“添加”，上传对应的信息</p></figcaption></figure>
+#### 1. 提供身份碼
 
-### 下方是TITAN节点所需的信息：
+你需要填寫你的識別碼，然後下單購買：
 
-#### 1. 提供身份码&#x20;
+1. 獲取資訊並填寫：\
+   獲取相關資訊並上傳，全程加密傳輸且不經過人工，安全可保證，<mark style="color:red;">多個節點可只提供一個身份碼</mark>。[去Titan官方獲取身份碼](https://titannet.gitbook.io/titan-network-cn/zi-yuan-wang-luo-ce-shi/bang-ding-shen-fen-ma#ru-he-shen-qing-shen-fen-ma)！
 
-完成资源购买后，你需要提供你的身份码：
+### 3. 等待服務與查看官方面板
 
-1. **获取信息并上传**：\
-   获取相关信息并上传，全程加密传输且不经过人工，安全可保证，<mark style="color:red;">**多个节点可只提供一个身份码**</mark>。[去Titan官方获取身份码](https://titannet.gitbook.io/titan-network-cn/zi-yuan-wang-luo-ce-shi/bang-ding-shen-fen-ma#ru-he-shen-qing-shen-fen-ma)！
+資源購買成功後，Node-X 將為你部署Titan節點。通常情況下，這個過程會在24小時內完成。
 
-#### 2. 等待服务与查看官方面板
+你可以透過以下方式即時查看節點狀態：
 
-资源购买成功后，Node-X 将为你部署Titan节点。通常情况下，这个过程会在24小时内完成。
+1. **檢視節點狀態**：\
+   在 Node-X 平台的使用者面板中，你可以看到所有已購買的節點及其目前狀態。
+2. **項目方面板查看**：\
+   節點配置完成後，可以去專案方提供的[面板地址](https://test1.titannet.io/)查看節點的詳細信息。
 
-你可以通过以下方式实时查看节点状态：
+## 結語
 
-1. **查看节点状态**：\
-   在 Node-X 平台的用户面板中，你可以看到所有已购买的节点及其当前状态。
-2. **项目方面板查看**：\
-   节点配置完成后，可以去项目方提供的[面板地址](https://test1.titannet.io/)查看节点的详细信息。
+透過 Node-X 平台部署 Titan節點就是這麼簡單！希望這篇指南對你有幫助。
 
-#### 结语
-
-通过 Node-X 平台部署 Titan节点就是这么简单！希望这篇指南对你有所帮助。
-
-如果你有任何问题或需要进一步的指导，欢迎留言或私信我。加油！一起探索区块链的世界吧！ 🚀
+如果你有任何問題或需要進一步的指導，歡迎留言或私訊我。加油！一起探索區塊鏈的世界吧！ 🚀
