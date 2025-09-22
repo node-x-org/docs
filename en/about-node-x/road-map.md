@@ -1,5 +1,7 @@
 # Road Map
 
+<p align="right"><a href="https://docs.node-x.xyz/guan-wu-nodex/lu-xian-tu">中文</a></p>
+
 #### **Phase 1 (Q4 2024): Product Refinement**
 
 * Launch Node Academy, One-Click Deployment, and NodePad

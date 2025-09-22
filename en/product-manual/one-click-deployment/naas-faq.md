@@ -1,5 +1,7 @@
 # NaaS FAQ
 
+[**中文**](https://docs.node-x.xyz/chan-pin-shou-ce/yi-jian-bu-shu/faq)
+
 **Q: What is Node-X and what services do we provide?**\
 **A:**\
 NaaS (Node-as-a-Service) is a fully managed node service designed for users with zero technical barriers. It offers one-click deployment and professional operation support, enabling anyone to easily participate in blockchain network construction.

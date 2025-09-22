@@ -1,5 +1,7 @@
 # Node Academy
 
+<p align="right"><a href="https://docs.node-x.xyz/chan-pin-shou-ce/jie-dian-xue-yuan"><strong>中文</strong></a></p>
+
 **Node Academy** is Node-X's information aggregation platform for node projects, designed to provide users with comprehensive insights:
 
 1. **Information Retrieval:** We categorize and organize all relevant project information on blockchain and DePIN nodes, offering structured ratings for easy reference.

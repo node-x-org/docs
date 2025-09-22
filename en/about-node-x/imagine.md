@@ -1,5 +1,7 @@
 # Imagine
 
+<p align="right"><a href="https://docs.node-x.xyz/guan-wu-nodex/xiang-xiang"><strong>中文</strong></a></p>
+
 ### **Imagining the Current State of B2C Computing Power Trading**
 
 In traditional B2C computing power trading models, users rent computational resources from large cloud computing companies like AWS, Google Cloud, and Microsoft Azure. This model is primarily dominated by large enterprises, offering centralized services and support. However, it has several limitations:

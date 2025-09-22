@@ -1,5 +1,7 @@
 # Project Background
 
+<p align="right"><a href="https://docs.node-x.xyz/guan-wu-nodex/xiang-mu-bei-jing">中文</a></p>
+
 ### **Industry Development**
 
 In the rapid advancement of the global digital economy, blockchain technology and distributed computing are becoming core forces driving the next generation of the internet (Web3). This transformation brings unprecedented opportunities for decentralization, redefining the ways data is stored, transmitted, and processed.

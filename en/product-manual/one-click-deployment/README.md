@@ -1,5 +1,7 @@
 # One-Click Deployment
 
+<p align="right"><a href="https://docs.node-x.xyz/chan-pin-shou-ce/yi-jian-bu-shu">中文</a></p>
+
 Node-X provides users with a friendly, efficient, and low-cost node hosting service. No coding knowledge is required to entrust us with node deployment and maintenance.
 
 **Transparent Pricing:**\

@@ -1,5 +1,7 @@
 # About Node-X
 
+<p align="right"><a href="https://docs.node-x.xyz/">中文</a></p>
+
 ### Node-X: The World’s First Decentralized Compute Coordination Network & PoRW-Based Innovation Chain Platform
 
 **Node-X** is a leading decentralized infrastructure platform focused on connecting idle compute resources worldwide. By leveraging the innovative **Proof of Real Work (PoRW)** chain, it enables fair distribution and efficient utilization of computing power. The platform is committed to lowering technical barriers by providing one-stop node deployment and management services, while utilizing AI to optimize scheduling and enable intelligent resource management.
