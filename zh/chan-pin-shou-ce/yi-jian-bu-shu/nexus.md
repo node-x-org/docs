@@ -1,30 +1,29 @@
 ---
-description: 项目官网：https://nexus.xyz/
+description: 專案官網：https://nexus.xyz/
 ---
 
 # Nexus
 
-## 如何通过 Node-X 平台部署 Nexus节点？
+## 如何透過 Node-X 平台部署 Nexus節點？
 
-#### 1. 获取 Node-X 账号及资源
+### 1.獲取Node-X賬號以及部署節點
 
-首先，你需要一个 Node-X 账号。如果你还没有账号，请前往 [Node-X 注册页面](https://node-x.xyz) 注册。注册成功后，按照以下步骤购买并部署节点所需的资源：
+&#x20;首先，你需要一個 Node-X 賬號。如果你還沒有賬號，請前往 Node-X註冊頁面 註冊。註冊成功後，按照以下步驟購買並上傳資源部署節點,下面是下單流程：
 
-1. **充值账户**：\
-   登录 Node-X 平台后，找到充值选项，为你的账户充值足够的金额。
-2. **选择服务**：\
-   Node-X 目前仅提供节点部署。
-3. **购买资源**：\
-   选择合适的节点类型，点击“部署”按钮。确认所有信息无误后，再次点击“确认”完成购买。
+<figure><img src="../../.gitbook/assets/C1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-#### 2. 等待服务与查看官方面板
+<figure><img src="../../.gitbook/assets/C2 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
-购买成功后，Node-X 将为你部署 Nexus节点。通常情况下，这个过程会在24小时内完成，部署完成后，我们回通过订单消息的方式将唯一贡献ID凭证发送给您(如果您在[浏览器](https://beta.nexus.xyz/)版本中已获得prover id，并希望cli版本也通过此prover-id运行，可在绑定邮箱后点击左下角prover id后方的复制按钮并通过模板提交给我们)，请您妥善保管。你可以通过以下方式实时查看节点状态：
+<figure><img src="../../.gitbook/assets/C3.png" alt="" width="563"><figcaption></figcaption></figure>
 
-1. **查看节点状态**：\
-   在 Node-X 平台的用户面板中，你可以看到所有已购买的节点及其当前状态。
+### 2. 等待服务与查看官方面板
 
-#### 结语
+購買成功後，Node-X 將為你部署 Nexus節點。通常情況下，這個過程會在24小時內完成，部署完成後，我們回通過訂單訊息的方式將唯一貢獻ID憑證發送給您(如果您在瀏覽器版本中已獲得prover id，並希望cli版本也通過此prover-id運行，可在綁定郵箱後點擊左下角prover id後方的複製按鈕並通過模板提交給我們)，請您妥善保管。你可以透過以下方式即時查看節點狀態：
+
+1. **檢視節點狀態**：\
+   在 Node-X 平台的使用者面板中，你可以看到所有已購買的節點及其目前狀態。
+
+## **結語**
 
 通过 Node-X 平台部署 Nexus 节点就是这么简单！希望这篇指南对你有所帮助。
 
