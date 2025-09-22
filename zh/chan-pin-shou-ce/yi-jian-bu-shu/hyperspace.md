@@ -8,7 +8,7 @@ description: 專案官網：https://hyper.space/
 
 #### 1.  獲取Node-X 賬號及部署節點
 
-首先，你需要一個 Node-X 帳號。如果你還沒有帳號，請前往 N[ode-X 註冊](https://node-x.xyz/)註冊。註冊成功後，按照以下步驟購買並填寫資源信息部署節點,下面以0G Alignment node舉個例子：
+首先，你需要一個 Node-X 帳號。如果你還沒有帳號，請前往 [Node-X 註冊](https://node-x.xyz/)註冊。註冊成功後，按照以下步驟購買並填寫資源信息部署節點,下面以0G Alignment node舉個例子：
 
 <figure><img src="../../.gitbook/assets/C1.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -16,24 +16,19 @@ description: 專案官網：https://hyper.space/
 
 <figure><img src="../../.gitbook/assets/C3 (4).png" alt="" width="563"><figcaption></figcaption></figure>
 
+#### 2.填寫參數
 
+* 獲取私鑰並填寫
 
-
-
-### 下方是Hyperspace节点所需的信息：
-
-#### 2. 获取私钥并提交
-
-[点击这里](https://node.hyper.space/)，前往获取私钥，然后前往购买并上传该私钥即可\
-<mark style="color:red;">注：上传私钥后不要更新私钥，否则会影响到节点的正常运行</mark>
+[點擊這裡](https://node.hyper.space/)，前往獲取私鑰，然後前往購買並填寫該私鑰即可
 
 <figure><img src="../../.gitbook/assets/微信截图_20250214154342.png" alt="" width="563"><figcaption><p>点击标识位置的图标</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/微信截图_20250214154423.png" alt="" width="563"><figcaption><p>复制私钥</p></figcaption></figure>
 
-#### 3.查看节点信息
+* 查看節點信息
 
-上传私钥后，我们会在24小时以内为您部署，部署成功后，您可以查看积分以及节点状态。
+填寫私鑰後，我們會在24小時以內為您部署，部署成功後，您可以查看積分以及節點狀態。
 
 <figure><img src="../../.gitbook/assets/微信截图_20250214163432.png" alt="" width="563"><figcaption><p>点击标识位置查看节点状态</p></figcaption></figure>
 
@@ -41,6 +36,6 @@ description: 專案官網：https://hyper.space/
 
 #### 结语
 
-通过 Node-X 平台部署Hyperspace节点就是这么简单！希望这篇指南对你有所帮助。
+透過 Node-X 平台部署Hyperspace節點就是這麼簡單！希望這篇指南對你有幫助。
 
-如果你有任何问题或需要进一步的指导，欢迎留言或私信我。加油！一起探索区块链的世界吧！ 🚀
+如果你有任何問題或需要進一步的指導，歡迎留言或私訊我。加油！一起探索區塊鏈的世界吧！ 🚀
