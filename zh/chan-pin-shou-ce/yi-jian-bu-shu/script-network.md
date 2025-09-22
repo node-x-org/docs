@@ -1,32 +1,32 @@
 ---
-description: 项目官网：https://token.script.tv/
+description: 專案官網：https://token.script.tv/
 ---
 
 # Script Network
 
-## 如何通过 Node-X 平台部署lighting节点？
+## 如何透過 Node-X 平台部署lighting節點？
 
-<mark style="color:red;">**注：该节点需要拥有许可证。**</mark>
+<mark style="color:red;">註：該節點需要擁有許可證。</mark>
 
-#### 1. 获取 Node-X 账号及部署节点
+### 1. 獲取 Node-X 帳號及部署節點
 
-首先，你需要一个 Node-X 账号。如果你还没有账号，请前往 [Node-X 注册页面](https://node-x.xyz) 注册。注册成功后，按照以下步骤购买并上传资源部署节点,下面举个例子：
+首先，你需要一個 Node-X 帳號。如果你還沒有帳號，請前往 Node-X [註冊頁面](https://node-x.xyz/) 註冊。註冊成功後，請按照以下步驟購買並上傳資源部署節點,下面舉個例子：
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162258.png" alt="" width="563"><figcaption><p>选择需要部署的项目</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162134.png" alt="" width="563"><figcaption><p>点击部署</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C2 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162225.png" alt="" width="563"><figcaption><p>确认支付</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C3 (4).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### 下方是Lighting节点所需的信息：
+### 2.配合部署
 
-#### 1. 授权许可
+#### 1. 授權許可
 
-下单成功后，我们会为您提供一个URL,您需要通过这个URL进行许可授权到节点钱包中，节点授权成功及节点成功运行后我们会将您授权的钱包地址及钱包私钥发送给您，您可以结合钱包地址查询链上节点收益情况：\
-URL格式:    [https://explorer-mainnet.script.tv/account/](https://explorer-mainnet.script.tv/account/)<授权钱包地址>
+下單成功後，我們會為您提供一個URL,您需要透過這個URL進行許可授權到節點錢包中，節點授權成功及節點成功運行後我們會將您授權的錢包地址及錢包私鑰發送給您，您可以結合錢包地址查詢鏈上節點收益情況：\
+URL格式:    [https://explorer-mainnet.script.tv/account/](https://explorer-mainnet.script.tv/account/)<授權錢包地址>
 
-#### 结语
+## **結語**
 
-通过 Node-X 平台部署Script Network---Lighting节点就是这么简单！希望这篇指南对你有所帮助。
+透過 Node-X 平台部署Script Network---Lighting節點就是這麼簡單！希望這篇指南對你有幫助。
 
-如果你有任何问题或需要进一步的指导，欢迎留言或私信我。加油！一起探索区块链的世界吧！ 🚀
+如果你有任何問題或需要進一步的指導，歡迎留言或私訊我。加油！一起探索區塊鏈的世界吧！ 🚀
