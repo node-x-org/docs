@@ -53,7 +53,7 @@
       * [BlockMesh](chan-pin-shou-ce/yi-jian-bu-shu/depin-gua-ji-zhuan-yong-liu-lan-qi-1.0/blockmesh.md)
       * [Gradient Network](chan-pin-shou-ce/yi-jian-bu-shu/depin-gua-ji-zhuan-yong-liu-lan-qi-1.0/gradient-network.md)
     * [Depin掛機專用瀏覽器2.0](chan-pin-shou-ce/yi-jian-bu-shu/depin-gua-ji-zhuan-yong-liu-lan-qi-2.0/README.md)
-      * [Depin浏览器操作手册](chan-pin-shou-ce/yi-jian-bu-shu/depin-gua-ji-zhuan-yong-liu-lan-qi-2.0/depin-liu-lan-qi-cao-zuo-shou-ce.md)
+      * [Depin瀏覽器操作手冊](chan-pin-shou-ce/yi-jian-bu-shu/depin-gua-ji-zhuan-yong-liu-lan-qi-2.0/depin-liu-lan-qi-cao-zuo-shou-ce.md)
       * [Dawn](chan-pin-shou-ce/yi-jian-bu-shu/depin-gua-ji-zhuan-yong-liu-lan-qi-2.0/dawn.md)
       * [Functor Network](chan-pin-shou-ce/yi-jian-bu-shu/depin-gua-ji-zhuan-yong-liu-lan-qi-2.0/functor-network.md)
       * [TOGGLE](chan-pin-shou-ce/yi-jian-bu-shu/depin-gua-ji-zhuan-yong-liu-lan-qi-2.0/toggle.md)
