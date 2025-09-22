@@ -16,7 +16,7 @@ description: 專案官網：https://aztec.network/
 
 <figure><img src="../../.gitbook/assets/C2 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/C3 (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C3 (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 填寫参数
 

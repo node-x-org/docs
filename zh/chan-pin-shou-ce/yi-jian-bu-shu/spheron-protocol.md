@@ -1,40 +1,36 @@
 ---
-description: 项目官网：https://www.spheron.network/
+description: 專案官網：https://www.spheron.network/
 ---
 
 # Spheron Protocol
 
-## 如何通过 Node-X 平台部署 Fizz节点？
+## 如何通過 Node-X 平台部署 Fizz節點？
 
-#### 1. 获取 Node-X 账号及部署节点
+### 1. 獲取 Node-X 帳號及部署節點
 
-首先，你需要一个 Node-X 账号。如果你还没有账号，请前往 [Node-X 注册页面](https://node-x.xyz) 注册。注册成功后，按照以下步骤购买并上传资源部署节点,下面举个例子：
+首先，你需要一個 Node-X 帳號。如果你還沒有帳號，請前往 [Node-X 註冊頁面](https://node-x.xyz/) 註冊。註冊成功後，依照以下步驟購買並上傳資源部署節點,以下舉個例子：
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162258.png" alt="" width="563"><figcaption><p>选择需要部署的项目</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162134.png" alt="" width="563"><figcaption><p>点击部署</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C2 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162225.png" alt="" width="563"><figcaption><p>确认支付</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/C3.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162355.png" alt="" width="563"><figcaption><p>点击上传信息</p></figcaption></figure>
+### 2.填寫參數
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214162424.png" alt="" width="563"><figcaption><p>点击“添加”，上传对应的信息</p></figcaption></figure>
+#### 1.完成领水和注册并下载脚本
 
-### 下方是Spheron-Fizz节点所需的信息：
-
-#### 2. 完成领水和注册并下载脚本
-
-需要Spheron Testnet的测试币，可以用Arbitrum Sepolia 通过[Spheron Bridge](https://spheron-devnet-eth.bridge.caldera.xyz/)转换过来。
+需要Spheron Testnet的測試幣，可以用Arbitrum Sepolia 通過[Spheron Bridge](https://spheron-devnet-eth.bridge.caldera.xyz/)swap過來。
 
 <figure><img src="../../.gitbook/assets/微信截图_20241207142934.png" alt="" width="563"><figcaption></figcaption></figure>
 
-若你没有Arbitrum Sepolia 测试币，可以用ETH Sepolia通过[Arbitrum Bridge](https://bridge.arbitrum.io/?destinationChain=arbitrum-sepolia\&sourceChain=sepolia)转换。
+若你沒有Arbitrum Sepolia 測試幣，可以用ETH Sepolia通過[Arbitrum Bridge](https://bridge.arbitrum.io/?destinationChain=arbitrum-sepolia\&sourceChain=sepolia)轉換。
 
 <figure><img src="../../.gitbook/assets/微信截图_20241207143445.png" alt="" width="563"><figcaption></figcaption></figure>
 
-下单用户可直接到Node-X的TG(t.me/nodex527)免费领取ETH Sepolia。
+下單用戶可直接到Node-X的TG(t.me/nodex527)免費領取ETH Sepolia。
 
-完成领水后，打开[注册界面](https://fizz.spheron.network/)，然后跟着下方图片进行注册并下载脚本。
+完成領水後，打開[註冊界面](https://fizz.spheron.network/)，然後跟著下方圖片進行註冊並下載腳本。
 
 <figure><img src="../../.gitbook/assets/微信截图_20241207143926.png" alt="" width="518"><figcaption><p>使用邮箱注册</p></figcaption></figure>
 
@@ -44,9 +40,9 @@ description: 项目官网：https://www.spheron.network/
 
 <figure><img src="../../.gitbook/assets/微信截图_20241207144626.png" alt="" width="563"><figcaption><p>注册节点</p></figcaption></figure>
 
-**注：**&#x8D44;源分配我们默认为**Linux**   **4CPU   8GB RAM    100GB Storage。注意不要分配错误哦！**
+<mark style="color:red;">註：資源分配我們預設為Linux 4CPU 8GB RAM 100GB Storage。注意不要分配錯誤哦！</mark>
 
-**若分配的资源与实际配置资源不符，会每天扣除你的奖励。**
+**若分配的資源與實際配置資源不符，會每天扣除你的獎勵。**
 
 <figure><img src="../../.gitbook/assets/微信截图_20241207144707.png" alt="" width="563"><figcaption><p>分配资源</p></figcaption></figure>
 
@@ -54,21 +50,21 @@ description: 项目官网：https://www.spheron.network/
 
 <figure><img src="../../.gitbook/assets/微信截图_20241226113809.png" alt="" width="563"><figcaption><p>从这里获取token</p></figcaption></figure>
 
-#### 3. 等待服务与查看官方面板
+#### 2. 等待服務與查看官方面板
 
-购买成功后，Node-X 将为你部署 Fizz节点。通常情况下，这个过程会在24小时内完成。你可以通过以下方式实时查看节点状态：
+購買成功後，Node-X 將為您部署 Fizz節點。通常情況下，這個過程會在24小時內完成。你可以透過以下方式即時查看節點狀態：
 
-1. **查看节点状态**：\
-   在 Node-X 平台的用户面板中，你可以看到所有已购买的节点及其当前状态。
-2. **项目方面板查看**：\
-   节点配置完成后，可以通过[官方面板](https://fizz.spheron.network/) 更新有延迟。
+1. **檢視節點狀態**：\
+   在 Node-X 平台的使用者面板中，你可以看到所有已購買的節點及其當前狀態。
+2. **項目方面板查看**：\
+   節點配置完成後，可透過[官方面板](https://fizz.spheron.network/) 更新有延遲。
 
 <figure><img src="../../.gitbook/assets/微信截图_20241207162616.png" alt="" width="563"><figcaption><p>点击My Fizz</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/微信截图_20241207162702.png" alt="" width="563"><figcaption><p>查看奖励情况以及运行状态</p></figcaption></figure>
 
-#### 结语
+## **結語**
 
-通过 Node-X 平台部署 Fizz节点就是这么简单！希望这篇指南对你有所帮助。
+透過 Node-X 平台部署 Fizz節點就是這麼簡單！希望這篇指南對你有幫助。
 
-如果你有任何问题或需要进一步的指导，欢迎留言或私信我。加油！一起探索区块链的世界吧！ 🚀
+如果你有任何問題或需要進一步的指導，歡迎留言或私訊我。加油！一起探索區塊鏈的世界吧！ 🚀
