@@ -38,8 +38,9 @@ After a successful purchase, Node-X will deploy the 0G Alignment node for you. T
 1. **Check node status:**\
    In the Node-X platform user panel, you can view all the purchased nodes and their current status.
 2. **After successful deployment, you can check the node status on the official website:**\
-   Go to the official website to check the node status. The node should be online as shown in the image below:\
+   [Go to the official website](https://claim.0gfoundation.ai/delegation) to check the node status. The node should be online as shown in the image below:
 
+<figure><img src="../../.gitbook/assets/we.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## **Conclusion**
 
