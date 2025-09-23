@@ -39,8 +39,9 @@ description: 專案官網:https://0g.ai/
 1. **查看節點狀態：**\
    在 Node-X 平台的使用者面板中，你可以看到所有已購買的節點及其目前狀態。
 2. **部署成功後可以前往官方查看節點狀態：**\
-   前往官方，查看節點狀態，節點正常在線如下圖所示：\
+   [前往官方](https://claim.0gfoundation.ai/delegation)，查看節點狀態，節點正常在線如下圖所示：
 
+<figure><img src="../../.gitbook/assets/wc.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **結語**
 
