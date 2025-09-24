@@ -1,6 +1,10 @@
 # Depin Dedicated Browser 2.0
 
-Node-X’s DePIN Dedicated Browser 2.0 supports simultaneous operation of the following DePIN projects:\
+
+
+<p align="right"><a href="https://docs.node-x.xyz/chan-pin-shou-ce/yi-jian-bu-shu/depin-gua-ji-zhuan-yong-liu-lan-qi-2.0">中文</a></p>
+
+Node-X’s DePIN Dedicated Browser 2.0 supports simultaneous operation of the following DePIN projects:\
 [#GRASS](https://app.getgrass.io/register/?referralCode=CaU6q5IDj9aaReT), [#DAWN](https://x.com/hashtag/DAWN?src=hashtag_click), [#Gradient](https://app.gradient.network/signup?code=PVVEPS), [#Nodepay](https://app.nodepay.ai/register?ref=ssi3G7Ja08lhrKq), [#Functor](https://node.securitylabs.xyz/?from=extension\&type=signin\&referralCode=cm2vk97d00lr6t61bwk0gfnca), [#Alpha](https://alphaos.net/point?invite=YANB5E), [#Oasis](https://r.distribute.ai/bee67fe93633deb7), [#BlockMash](https://app.blockmesh.xyz/register?invite_code=8fec2170-f345-4e00-86c9-cdd2964ae52f), [#Aigaea](https://app.aigaea.net/register?ref=gaMvdfNAbsuCk5), [#Toggle](https://toggle.pro/sign-up/3e3ccf01-4a81-4cf2-8d56-b9bc098d9f72), [#Bless](https://bless.network/dashboard?ref=ZH6HW2), [#Pipe](https://pipecdn.app/signup?ref=eGlhb3l1Mj), [#Openlayer](https://x.com/hashtag/Openlayer?src=hashtag_click),[ #Kaisar ZeroNode](https://zero.kaisar.io/register?ref=LuWmTF546), [#Openloop](https://openloop.so/auth/register?ref=ol5ef0ba34), [#Goplus.](https://x.com/search?q=%23Goplus\&src=typed_query\&f=top)
 
 ### 1.Product Advantages:
