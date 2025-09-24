@@ -9,6 +9,7 @@
   * [One-Click Deployment](product-manual/one-click-deployment/README.md)
     * [NaaS FAQ](product-manual/one-click-deployment/naas-faq.md)
     * [0G Alignment Node](product-manual/one-click-deployment/0g-alignment-node.md)
+    * [Spheron Protocol](product-manual/one-click-deployment/spheron-protocol.md)
     * [Drosera](product-manual/one-click-deployment/drosera.md)
     * [Boundless Network](product-manual/one-click-deployment/boundless-network.md)
     * [Aztec Network](product-manual/one-click-deployment/aztec-network.md)
