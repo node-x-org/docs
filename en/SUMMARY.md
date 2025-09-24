@@ -13,6 +13,7 @@
     * [Boundless Network](product-manual/one-click-deployment/boundless-network.md)
     * [Aztec Network](product-manual/one-click-deployment/aztec-network.md)
     * [Hyperspace](product-manual/one-click-deployment/hyperspace.md)
+    * [Depin Dedicated Browser 2.0](product-manual/one-click-deployment/depin-dedicated-browser-2.0.md)
   * [Node Academy](product-manual/node-academy.md)
   * [NodeHub](product-manual/nodehub/README.md)
     * [RoadMap](product-manual/nodehub/roadmap.md)
