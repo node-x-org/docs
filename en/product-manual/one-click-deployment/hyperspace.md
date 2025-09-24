@@ -43,6 +43,6 @@ After a successful purchase, Node-X will deploy the Hyperspace node for you. Thi
 
 ## **Conclusion**
 
-Deploying a Drosera node via the Node-X platform is that simple! Hope this guide is helpful to you.\
+Deploying a hyperspace node via the Node-X platform is that simple! Hope this guide is helpful to you.\
 If you have any questions or need further guidance, feel free to leave a message or DM me. Good luck! Let’s explore the world of blockchain together!🚀
 
