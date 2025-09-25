@@ -13,6 +13,7 @@
     * [Drosera](product-manual/one-click-deployment/drosera.md)
     * [Boundless Network](product-manual/one-click-deployment/boundless-network.md)
     * [Aztec Network](product-manual/one-click-deployment/aztec-network.md)
+    * [Titan-Edge](product-manual/one-click-deployment/titan-edge.md)
     * [Hyperspace](product-manual/one-click-deployment/hyperspace.md)
     * [Script Network](product-manual/one-click-deployment/script-network.md)
     * [Depin Dedicated Browser 2.0](product-manual/one-click-deployment/depin-dedicated-browser-2.0/README.md)
