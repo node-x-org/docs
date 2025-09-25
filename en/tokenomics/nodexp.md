@@ -4,6 +4,8 @@ description: ode
 
 # NodeXP
 
+<p align="right"><a href="https://docs.node-x.xyz/dai-bi-jing-ji-xue/nodexp">中文</a></p>
+
 **NodeXP** records the contribution value users make to the growth of Node-X. The higher your accumulated XP, the greater the benefits you'll receive in the future, including the ability to exchange for Node-X's platform token, NXC.
 
 #### Ways to Accumulate NodeXP:

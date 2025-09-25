@@ -1,5 +1,7 @@
 # FAQ
 
+<p align="right"><a href="https://docs.node-x.xyz/chang-jian-wen-ti">中文</a></p>
+
 Here’s the translation of your FAQs for Node-X into English:
 
 1. **Why run a node?**\

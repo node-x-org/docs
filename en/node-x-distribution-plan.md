@@ -1,5 +1,7 @@
 # Node-X Distribution Plan
 
+<p align="right"><a href="https://docs.node-x.xyz/fen-xiao-ji-hua">中文</a></p>
+
 We are excited to launch a community marketing distribution plan, offering users an easy way to earn substantial rewards. Whether you’re recommending friends or expanding your network, you can enjoy significant benefits:
 
 Naas：
