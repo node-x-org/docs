@@ -30,6 +30,7 @@
     * [NODEHUB Node Operation Guide](product-manual/nodehub/nodehub-node-operation-guide.md)
     * [NodeHub Frequently Asked Questions (FAQ)](product-manual/nodehub/nodehub-frequently-asked-questions-faq.md)
     * [Key Parameter Information Security](product-manual/nodehub/key-parameter-information-security.md)
+    * [Command Writing and Documentation](product-manual/nodehub/command-writing-and-documentation.md)
     * [X-Origin — Early Honor Contributor Role](product-manual/nodehub/x-origin-early-honor-contributor-role.md)
     * [X-Origin Genesis Badge](product-manual/nodehub/x-origin-genesis-badge.md)
     * [Become a Compute Provider](product-manual/nodehub/become-a-compute-provider.md)
