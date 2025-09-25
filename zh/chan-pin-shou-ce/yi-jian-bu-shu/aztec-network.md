@@ -4,6 +4,8 @@ description: 專案官網：https://aztec.network/
 
 # Aztec Network
 
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/aztec-network">English</a></p>
+
 ## 如何通過 Node-X 平台部署  Aztec 驗證者節點？
 
 <mark style="color:red;">**注意：Aztec 官方對該節點做出激勵規則，請自行判斷。**</mark>

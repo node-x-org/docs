@@ -4,6 +4,8 @@ description: 專案官網：https://token.script.tv/
 
 # Script Network
 
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/script-network">English</a></p>
+
 ## 如何透過 Node-X 平台部署lighting節點？
 
 <mark style="color:red;">註：該節點需要擁有許可證。</mark>

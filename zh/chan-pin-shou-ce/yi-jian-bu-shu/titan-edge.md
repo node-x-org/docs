@@ -6,6 +6,8 @@ coverY: 0
 
 # Titan-Edge
 
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/titan-edge">English</a></p>
+
 ## 如何透過 Node-X 平台部署 Titan節點？
 
 ### 1. 獲取 Node-X 帳號及部署節點

@@ -4,6 +4,8 @@ description: 專案官網：https://beboundless.xyz/
 
 # Boundless Network
 
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/boundless-network">English</a></p>
+
 ## 如何通過 Node-X 平台部署  Boundless-Prover 節點？
 
 <mark style="color:red;">註：不保證能搶到訂單，一切以官方為準。</mark>

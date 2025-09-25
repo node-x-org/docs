@@ -4,6 +4,8 @@ description: 專案官網：https://www.drosera.io/
 
 # Drosera
 
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/drosera">English</a></p>
+
 #### 如何透過 Node-X 平台部署 Drosera 節點？
 
 **注意：** Drosera 官方尚未對該節點發佈激勵規則，請用戶自行判斷風險。

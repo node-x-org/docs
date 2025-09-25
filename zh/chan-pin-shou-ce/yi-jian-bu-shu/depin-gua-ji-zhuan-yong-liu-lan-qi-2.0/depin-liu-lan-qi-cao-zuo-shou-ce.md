@@ -1,5 +1,7 @@
 # Depin瀏覽器操作手冊
 
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/depin-dedicated-browser-2.0/depin-browser-user-manual">English</a></p>
+
 ## 一、具體操作
 
 ## 如何進入瀏覽器？

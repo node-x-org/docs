@@ -4,6 +4,8 @@ description: 專案官網：https://hyper.space/
 
 # Hyperspace
 
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/hyperspace">English</a></p>
+
 ## 如何透過 Node-X 平台部署  Hyperspace 節點？
 
 #### 1.  獲取Node-X 賬號及部署節點

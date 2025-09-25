@@ -4,6 +4,8 @@ description: 專案官網：https://www.spheron.network/
 
 # Spheron Protocol
 
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/spheron-protocol">English</a></p>
+
 ## 如何通過 Node-X 平台部署 Fizz節點？
 
 ### 1. 獲取 Node-X 帳號及部署節點
