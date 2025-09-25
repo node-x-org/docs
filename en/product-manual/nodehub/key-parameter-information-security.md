@@ -1,5 +1,7 @@
 # Key Parameter Information Security
 
+<p align="right"><a href="https://docs.node-x.xyz/chan-pin-shou-ce/nodehub/yong-hu-guan-jian-can-shu-zi-xun-ji-vps-mi-ma-an-quan">中文</a></p>
+
 *   ## Key Parameter Information Security
 
     ### 1. Parameter Storage Security

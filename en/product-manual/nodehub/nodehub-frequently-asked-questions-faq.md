@@ -1,5 +1,7 @@
 # NodeHub Frequently Asked Questions (FAQ)
 
+<p align="right"><a href="https://docs.node-x.xyz/chan-pin-shou-ce/nodehub/nodehub-chang-jian-wen-da-faq">中文</a></p>
+
 #### Q: What is NodeHub?
 
 **A:** NodeHub is the core software platform of the Node-X ecosystem, designed to optimize decentralized computing and node management. It supports both mobile and web interfaces, offering one-click deployment, batch server management, and real-time monitoring. NodeHub simplifies node operations and enhances efficiency. By integrating a command-sharing community and a points-based incentive system, it lowers the entry barrier for everyday users, boosts trust for project teams, and drives overall network activity.

@@ -1,5 +1,7 @@
 # NodeHub Compute Power Marketplace Support Guide
 
+<p align="right"><a href="https://docs.node-x.xyz/chan-pin-shou-ce/nodehub/nodehub-suan-li-shi-chang-zhi-yuan-shuo-ming">中文</a></p>
+
 ### 1. Platform Overview
 
 The NodeHub Compute Power Marketplace aims to connect users' idle computing resources with Web3 node deployment needs.\

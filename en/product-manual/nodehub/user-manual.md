@@ -1,5 +1,7 @@
 # User Manual
 
+<p align="right"><a href="https://docs.node-x.xyz/chan-pin-shou-ce/nodehub/cao-zuo-shou-ce"><strong>中文</strong></a></p>
+
 ### **1. Overview**
 
 This user manual will guide you through the process of logging in, registering, managing servers, editing and executing commands, managing nodes, and monitoring dashboards. It will help you quickly get started and efficiently use NODEHUB.
