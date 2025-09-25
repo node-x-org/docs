@@ -6,6 +6,8 @@ description: >-
 
 # Rewards Program
 
+<p align="right"><a href="https://docs.node-x.xyz/chan-pin-shou-ce/nodehub/ji-fen-ji-hua"><strong>中文</strong></a></p>
+
 **1. Introduction**
 
 All point items and their acquisition conditions in the points program, such as the number of points earned for publishing content or achieving a certain number of views, are dynamically configured through the backend. Additionally, point items can be enabled or disabled based on operational needs.

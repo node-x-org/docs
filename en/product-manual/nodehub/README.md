@@ -4,6 +4,8 @@ description: Participating in Node Projects Has Never Been Easier
 
 # NodeHub
 
+<p align="right"><a href="https://docs.node-x.xyz/chan-pin-shou-ce/nodehub"><strong>中文</strong></a></p>
+
 **NodeHub** is a decentralized compute management and node collaboration platform under the **Node-X** ecosystem. It aims to aggregate idle and edge computing power globally, empowering Web3 users to access, deploy, and manage nodes with lower barriers and higher efficiency, while optimizing their rewards.
 
 Our vision is to build a decentralized compute coordination network where **“access equals earnings”**, accelerating the **standardization** and **modularization** of Web3 node operations.

@@ -1,5 +1,7 @@
 # NodeHub Creator Command Guide
 
+<p align="right"><a href="https://docs.node-x.xyz/chan-pin-shou-ce/nodehub/nodehub-zhi-ling-chuang-zuo-zhe-zhi-nan">中文</a></p>
+
 #### About NodeHub
 
 NodeHub is a decentralized computing platform dedicated to building a globally collaborative ecosystem for node instruction creation. By publishing and sharing high-quality deployment and maintenance scripts, you can become a contributor to the Web3 infrastructure and gain platform rewards and exposure.

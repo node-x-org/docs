@@ -4,6 +4,8 @@ description: Participating in Node Projects Has Never Been Easier
 
 # RoadMap
 
+<p align="right"><a href="https://docs.node-x.xyz/chan-pin-shou-ce/nodehub/lu-xian-tu"><strong>中文</strong></a></p>
+
 **1. Platform Infrastructure**
 
 **1.1 User-Side Processes and Modules**

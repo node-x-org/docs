@@ -2,6 +2,8 @@
 
 ***
 
+<p align="right"><a href="https://docs.node-x.xyz/chan-pin-shou-ce/nodehub/nodehub-zhi-ling-she-qun-dui-jie-xiang-mu-fang-zhi-nan">中文</a></p>
+
 ### 1. Introduction
 
 NodeHub is a decentralized platform designed to support Web3 projects with node deployment, operational collaboration, and compute power sharing. Through the Command Community, project teams can efficiently standardize and automate deployment scripts, rapidly scale their testnet/mainnet nodes, and lower the entry barrier for users.
