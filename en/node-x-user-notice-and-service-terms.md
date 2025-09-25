@@ -1,5 +1,9 @@
 # Node-X User Notice & Service Terms
 
+
+
+<p align="right"><a href="https://docs.node-x.xyz/nodex-yong-hu-xu-zhi-ji-fu-wu-tiao-kuan">中文</a></p>
+
 Welcome to Node-X!
 
 Before deploying any nodes through our NaaS (Node-as-a-Service) platform,\

@@ -1,5 +1,7 @@
 # Contact Us
 
+<p align="right"><a href="https://docs.node-x.xyz/lian-xi-wo-men">中文</a></p>
+
 Here’s the English translation of your official links and business collaboration information:
 
 **Official Links**

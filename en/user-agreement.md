@@ -1,5 +1,7 @@
 # User Agreement
 
+<p align="right"><a href="https://docs.node-x.xyz/sheng-ming">中文</a></p>
+
 Before using Node-X services (including NodeHub and NodePad), you ("User" or "You") should read this End User Agreement ("Agreement") in full. Please note that this Agreement constitutes a legally binding agreement between you and the entity that owns and operates the Node-X platform and services (referred to as "Node-X," "We"). By clicking the "I Agree" button, you agree to comply with all terms set forth in this Agreement.
 
 **1. License Grant**\
