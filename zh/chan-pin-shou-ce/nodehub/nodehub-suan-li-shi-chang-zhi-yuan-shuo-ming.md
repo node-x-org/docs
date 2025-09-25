@@ -1,6 +1,8 @@
 # NodeHub 算力市場支援說明
 
-一、平台簡介
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/nodehub/nodehub-compute-power-marketplace-support-guide">English</a></p>
+
+### 一、平台簡介
 
 NodeHub 算力市場致力於連接用戶閒置的算力資源與 Web3 節點部署需求，為開發者、節點玩家與創作者提供一站式的算力對接與部署環境。\
 透過平台，用戶可靈活選擇合適的伺服器資源，快速加入節點網絡。

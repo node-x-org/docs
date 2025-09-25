@@ -1,5 +1,7 @@
 # X-Origin 創世徽章（Genesis）
 
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/nodehub/x-origin-genesis-badge"><strong>English</strong></a></p>
+
 **授予對象：**
 
 授予在 NodeHub 白名單測試階段完成任務，並展現持續活躍度的用戶。\

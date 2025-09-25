@@ -4,6 +4,8 @@ description: 以下示例仅供参考，因每个指令编写情况可能不同�
 
 # 指令編寫與文檔
 
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/nodehub/command-writing-and-documentation">English</a></p>
+
 ## NodeHub 指令編寫與部署文檔（繁體中文）
 
 ### 一、安裝指令

@@ -1,5 +1,7 @@
 # 分銷計劃
 
+<p align="right"><a href="https://docs.node-x.xyz/en/node-x-distribution-plan">English</a></p>
+
 我們推出全民營銷的分銷計劃，為使用者提供輕鬆賺取豐厚獎勳的機會。無論是推薦朋友還是擴展您的網絡，您都能獲得可觀收益：
 
 **Naas平台：**

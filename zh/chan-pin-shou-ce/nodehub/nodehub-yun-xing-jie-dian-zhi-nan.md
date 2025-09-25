@@ -1,5 +1,7 @@
 # NODEHUB 運行節點指南
 
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/nodehub/nodehub-node-operation-guide">English</a></p>
+
 ## &#x20;1.節點運行操作手冊
 
 **1. 節點運行操作手冊**\

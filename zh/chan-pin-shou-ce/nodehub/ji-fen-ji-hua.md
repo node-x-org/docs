@@ -6,6 +6,8 @@ description: >-
 
 # 積分計劃
 
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/nodehub/rewards-programhttps://docs.node-x.xyz/en/product-manual/nodehub/rewards-program">English</a></p>
+
 ## **積分規則**
 
 ### 1. 創作者積分

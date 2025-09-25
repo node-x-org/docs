@@ -1,5 +1,7 @@
 # 聯繫我們
 
+<p align="right"><a href="https://docs.node-x.xyz/en/contact-us">English</a></p>
+
 ## 官方連結
 
 * **官方網站:**[https://node-x.xyz](https://node-x.xyz)

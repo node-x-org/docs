@@ -2,6 +2,8 @@
 
 ***
 
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/nodehub/nodehub-frequently-asked-questions-faq">English</a></p>
+
 ## 常見問題解答 (FAQ)
 
 ### 1. NodeHub 是什麼？

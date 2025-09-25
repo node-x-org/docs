@@ -1,5 +1,7 @@
 # NodeXP
 
+<p align="right"><a href="https://docs.node-x.xyz/en/tokenomics/nodexp"><strong>English</strong></a></p>
+
 **NodeXP** 是記錄用戶對 Node-X 發展而付出的貢獻值，您積累的 XP 值越高，未來獲得的權益越大，包括但不限於兌換 Node-X 的平台幣 NXC。
 
 **NodeXP 的積累途徑**

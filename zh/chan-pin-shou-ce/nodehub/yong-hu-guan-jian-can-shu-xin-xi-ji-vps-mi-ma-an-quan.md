@@ -1,5 +1,7 @@
 # 用戶關鍵參數資訊及 VPS 密碼安全
 
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/nodehub/key-parameter-information-security">English</a></p>
+
 ## 關鍵參數資訊安全
 
 ### 1. 參數存儲安全性

@@ -1,5 +1,7 @@
 # NodeHub 指令社群對接項目方指南
 
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/nodehub/nodehub-command-community-integration-guide-for-project-teams">English</a></p>
+
 ### 一、簡介
 
 

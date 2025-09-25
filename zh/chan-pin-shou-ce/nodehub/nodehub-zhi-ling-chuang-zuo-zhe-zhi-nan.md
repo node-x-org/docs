@@ -1,6 +1,8 @@
 # NodeHub 指令創作者指南
 
-獲得 NodeHub 簡介
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/nodehub/nodehub-creator-command-guide">English</a></p>
+
+### 獲得 NodeHub 簡介
 
 NodeHub 是一个去中心化算力平台，致力于打造全球开发者与创作者共建的节点指令生态。通过发布、分享高质量的节点部署与运维脚本，你不仅将成为 Web3 基础设施的建设者，也将获得平台激励与流量支持。
 

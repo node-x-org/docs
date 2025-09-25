@@ -1,5 +1,7 @@
 # 路線圖
 
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/nodehub/roadmap">English</a></p>
+
 ### 1. 平台基礎架構
 
 #### 1.1 用戶端流程與模塊

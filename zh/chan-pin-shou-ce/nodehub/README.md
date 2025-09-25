@@ -4,6 +4,8 @@ description: 參與節點項目如此簡單
 
 # NodeHub
 
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/nodehub">English</a></p>
+
 [**NodeHub**](https://hub.node-x.xyz) 是 Node-X 平台旗下的去中心化算力管理與節點協作平台，致力於聚合全球閒置與邊緣算力，賦能 Web3 用戶以更低門檻、更高效率完成節點接入、部署管理與收益優化。
 
 平台願景是構建一個「接入即收益」的去中心化算力協作網絡，推動 Web3 節點運營體驗的**標準化**與**可組合化。**\

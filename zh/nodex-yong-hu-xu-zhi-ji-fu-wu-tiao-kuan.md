@@ -1,6 +1,8 @@
 # Node-X 用戶須知及服務條款
 
-歡迎使用 Node-X！
+<p align="right"><a href="https://docs.node-x.xyz/en/node-x-user-notice-and-service-terms">English</a></p>
+
+### 歡迎使用 Node-X！
 
 在透過我們的 NaaS（Node-as-a-Service）平台部署任何節點之前，請務必仔細閱讀以下內容。\
 提交訂單即表示您已充分理解並同意以下條款：

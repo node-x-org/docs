@@ -1,5 +1,7 @@
 # 聲明
 
+<p align="right"><a href="https://docs.node-x.xyz/en/user-agreement">English</a></p>
+
 ## 聲明與服務條款
 
 在使用 Node-X 服務（包括 NodeHub 和 NodePad 等）或產品之前，您（「用戶」或「您」）應完整閱讀本最終用戶協議（「協議」）。請注意，本協議構成您與擁有並運營 Node-X 平台和服務的實體（本文中稱為「Node-X」、「我們」）之間具有法律約束力的協議。當您點擊「我同意」按鈕時，您即同意遵守本協議中規定的所有條款。
