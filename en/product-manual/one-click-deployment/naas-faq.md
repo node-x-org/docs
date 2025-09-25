@@ -1,6 +1,6 @@
 # NaaS FAQ
 
-[**中文**](https://docs.node-x.xyz/chan-pin-shou-ce/yi-jian-bu-shu/faq)
+<p align="right"><a href="https://docs.node-x.xyz/chan-pin-shou-ce/yi-jian-bu-shu/faq"><strong>中文</strong></a></p>
 
 **Q: What is Node-X and what services do we provide?**\
 **A:**\
