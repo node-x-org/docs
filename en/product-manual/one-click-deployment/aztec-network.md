@@ -6,7 +6,7 @@ description: Project official website:https://aztec.network/
 
 <p align="right"> <a href="https://docs.node-x.xyz/chan-pin-shou-ce/yi-jian-bu-shu/boundless-network"><strong>中文</strong></a></p>
 
-## How to deploy a Aztec Validator node via the Node-X platform?
+## How to deploy a Aztec Full node via the Node-X platform?
 
 <mark style="color:red;">Note: Aztec officials have not yet announced incentive rules for this node. Please use your own judgment.</mark>
 
@@ -35,6 +35,6 @@ After a successful purchase, Node-X will deploy the Aztec Validator node for you
 
 ## **Conclusion**
 
-Deploying a Aztec Validator node via the Node-X platform is that simple! Hope this guide is helpful to you.\
+Deploying a Aztec Full node via the Node-X platform is that simple! Hope this guide is helpful to you.\
 If you have any questions or need further guidance, feel free to leave a message or DM me. Good luck! Let’s explore the world of blockchain together!🚀
 
