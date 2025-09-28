@@ -13,7 +13,7 @@
     * [Drosera](product-manual/one-click-deployment/drosera.md)
     * [Boundless Network](product-manual/one-click-deployment/boundless-network.md)
     * [Aztec\_Fullnode](product-manual/one-click-deployment/aztec_fullnode.md)
-    * [Aztec\_Sequencer](product-manual/one-click-deployment/aztec_sequencer.md)
+    * [Aztec\_SequencerNode](product-manual/one-click-deployment/aztec_sequencernode.md)
     * [Titan-Edge](product-manual/one-click-deployment/titan-edge.md)
     * [NEXUS](product-manual/one-click-deployment/nexus.md)
     * [Hyperspace](product-manual/one-click-deployment/hyperspace.md)
