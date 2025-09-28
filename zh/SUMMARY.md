@@ -32,7 +32,7 @@
     * [Drosera](chan-pin-shou-ce/yi-jian-bu-shu/drosera.md)
     * [Boundless Network](chan-pin-shou-ce/yi-jian-bu-shu/boundless-network.md)
     * [Aztec\_全节点](chan-pin-shou-ce/yi-jian-bu-shu/aztec-network.md)
-    * [Copy of Aztec\_全节点](chan-pin-shou-ce/yi-jian-bu-shu/copy-of-aztec-quan-jie-dian.md)
+    * [Aztec\_序列器节点](chan-pin-shou-ce/yi-jian-bu-shu/aztec-xu-lie-qi-jie-dian.md)
     * [Hyperspace](chan-pin-shou-ce/yi-jian-bu-shu/hyperspace.md)
     * [T3RN V2](chan-pin-shou-ce/yi-jian-bu-shu/t3rn-v2.md)
     * [Soneium](chan-pin-shou-ce/yi-jian-bu-shu/soneium.md)
