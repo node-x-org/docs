@@ -8,7 +8,7 @@ description: 專案官網：https://aztec.network/
 
 ## 如何通過 Node-X 平台部署  Aztec 全節點？
 
-<mark style="color:red;">**注意：Aztec 官方對該節點做出激勵規則，請自行判斷。**</mark>
+<mark style="color:red;">**注意：Aztec 官方未對該節點做出激勵規則，請自行判斷。**</mark>
 
 #### 1. 獲取 Node-X 賬號及部署節點
 
