@@ -2,7 +2,7 @@
 description: 專案官網：https://aztec.network/
 ---
 
-# Aztec Network
+# Copy of Aztec\_全节点
 
 <p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/aztec-network">English</a></p>
 
@@ -25,7 +25,8 @@ description: 專案官網：https://aztec.network/
 1、需要填寫EVM錢包私鑰\
 此錢包中需要存有一定sepolia ETH，用於支付gas
 
-RPC需要是否付費的RPC,免費的RPC請求次數不夠。\
+RPC需要付費的RPC,免費的RPC請求次數不夠。\
+推荐购买我们自建的RPC\
 可以前往[znkr](https://www.ankr.com/)獲取ETH sepolia Beacon 和 ETH sepolia兩個鏈的RPC。
 
 雙方配合完成註冊\
