@@ -4,7 +4,7 @@ description: 專案官網：https://aztec.network/
 
 # Aztec\_序列器节点
 
-<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/aztec-network">English</a></p>
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/aztec_sequencernode">English</a></p>
 
 ## 如何通過 Node-X 平台部署  Aztec 序列器節點？
 
