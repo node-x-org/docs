@@ -2,11 +2,11 @@
 description: Project official website:https://aztec.network/
 ---
 
-# Aztec Network
+# Aztec\_Sequencer
 
 <p align="right"> <a href="https://docs.node-x.xyz/chan-pin-shou-ce/yi-jian-bu-shu/boundless-network"><strong>中文</strong></a></p>
 
-## How to deploy a Aztec Full node via the Node-X platform?
+## How to deploy a Aztec Sequencer node via the Node-X platform?
 
 <mark style="color:red;">Note: Aztec officials have not yet announced incentive rules for this node. Please use your own judgment.</mark>
 
@@ -24,7 +24,7 @@ First, you need a Node-X account. If you don’t have one, please go to [the Nod
 
 ### 2.Fill in the parameters
 
-1. **EVM Wallet Private Key**: In your EVM wallet, you need to choose one of the following three networks: eth-sepolia, base-mainnet, or base-sepolia. Then, you must have a certain amount of ETH (default is 0.0001 ETH) and at least 6 USDC on the selected network. Of course, you can deposit more if you wish. Currently, the official recommendation is to use the Base mainnet, so it is advised to deposit at least 6 USDC on the Base mainnet in your wallet.
+1. **EVM Wallet Private Key**: In your EVM wallet, you need to choose one of the following three networks: eth-sepolia, base-mainnet, or base-sepolia. Then, you must have a certain amount of ETH (default is 0.1ETH) and at least 6 USDC on the selected network. Of course, you can deposit more if you wish. Currently, the official recommendation is to use the Base mainnet, so it is advised to deposit at least 6 USDC on the Base mainnet in your wallet.
 
 ### 3.Wait for service and check the official dashboard
 
