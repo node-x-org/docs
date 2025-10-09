@@ -4,7 +4,7 @@ description: 專案官網：https://aztec.network/
 
 # Aztec\_证明器节点
 
-<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/aztec_sequencernode">English</a></p>
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/aztec_provernode">English</a></p>
 
 ## 如何通過 Node-X 平台部署  Aztec 证明器節點？
 
