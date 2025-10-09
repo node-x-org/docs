@@ -4,7 +4,7 @@ description: Project official website:https://aztec.network/
 
 # Aztec\_ProverNode
 
-<p align="right"> <a href="https://docs.node-x.xyz/chan-pin-shou-ce/yi-jian-bu-shu/aztec-xu-lie-qi-jie-dian"><strong>中文</strong></a></p>
+<p align="right"> <a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/aztec_provernode"><strong>中文</strong></a></p>
 
 ## How to deploy a Aztec Prover node via the Node-X platform?
 
