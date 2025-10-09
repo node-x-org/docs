@@ -8,6 +8,8 @@ description: 專案官網：https://aztec.network/
 
 ## 如何通過 Node-X 平台部署  Aztec 序列器節點？
 
+<mark style="color:red;">注意：Aztec 官方未對該節點做出激勵規則，請自行判斷。</mark>
+
 #### 1. 獲取 Node-X 賬號及部署節點
 
 首先，你需要一個Node-X 賬號。如果你還沒有賬號，請前往 [Node-X 註冊頁面](https://node-x.xyz/)。註冊成功後，按照以下步驟購買並填寫資源信息部署節點,下面以0G Alignment node舉個例子：
