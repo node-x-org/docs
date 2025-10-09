@@ -32,9 +32,11 @@ RPC需要付費的RPC,免費的RPC請求次數不夠。\
 雙方配合完成註冊\
 節點部署並完成區塊同步後，需要前往[Aztec DC](https://discord.com/invite/aztec)進行註冊。部署完成後，我們返回給您節點部署的伺服器IP並配合錢包位址
 
-<figure><img src="../../.gitbook/assets/new1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/new1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 進入Aztec的DC後，找到[#upgrade-role](https://discord.gg/aztec)頻道，在頻道中可以輸入/checkip,會讓您填入對應的資料。填入並發送即可。
+
+<figure><img src="../../.gitbook/assets/wechat_2025-10-09_120419_601.png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 2. 等待服務與查看官方面板
 
