@@ -39,6 +39,8 @@ After deploying the node and completing block synchronization, you need to regis
 
 Once inside Aztec's DC, find the [#upgrade-role ](https://discord.gg/aztec)channel. In this channel, you can enter /checkip, which will prompt you to input the relevant information. Fill it out and send.
 
+<figure><img src="../../.gitbook/assets/wechat_2025-10-09_120419_601.png" alt="" width="563"><figcaption></figcaption></figure>
+
 ### 3.Wait for service and check the official dashboard
 
 After a successful purchase, Node-X will deploy the Aztec Fullnode node for you. This process usually takes place within 24 hours. You can instantly check the node status via the following methods:

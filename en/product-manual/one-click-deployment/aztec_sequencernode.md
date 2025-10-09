@@ -8,6 +8,8 @@ description: Project official website:https://aztec.network/
 
 ## How to deploy a Aztec Sequencer node via the Node-X platform?
 
+<mark style="color:red;">Note: Aztec officials have not yet announced incentive rules for this node. Please use your own judgment.</mark>
+
 ### 1.Obtain a Node-X account and deploy a node
 
 First, you need a Node-X account. If you don’t have one, please go to [the Node-X registration page](https://node-x.xyz/) to register. After registration, follow the steps below to purchase and upload resources to deploy the node. The following is the order placement process using the 0G Alignment Node as an example:
