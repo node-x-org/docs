@@ -1,6 +1,6 @@
 # FAQ
 
-<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/naas-faq"><strong>English</strong></a></p>
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/naas-faq">English</a></p>
 
 **Q: 什麼是 Node-X，我們提供什麼服務？**\
 **A:**\

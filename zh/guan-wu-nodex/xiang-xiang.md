@@ -1,6 +1,6 @@
 # 想像
 
-<p align="right"><a href="https://docs.node-x.xyz/en/about-node-x/imagine"><strong>English</strong></a></p>
+<p align="right"><a href="https://docs.node-x.xyz/en/about-node-x/imagine">English</a></p>
 
 ## **B2C 的算力交易現狀**
 

@@ -17,7 +17,7 @@ layout:
 
 # 項目背景
 
-<p align="right"><a href="https://docs.node-x.xyz/en/about-node-x/project-background"><strong>English</strong></a></p>
+<p align="right"><a href="https://docs.node-x.xyz/en/about-node-x/project-background">English</a></p>
 
 ## **行業發展**
 
