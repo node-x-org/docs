@@ -2,7 +2,7 @@
 description: 專案官網：https://www.arcium.com/
 ---
 
-# Arcium
+# Arcium testnet
 
 <p align="right">English</p>
 
