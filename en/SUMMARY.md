@@ -15,6 +15,7 @@
     * [Aztec\_Fullnode](product-manual/one-click-deployment/aztec_fullnode.md)
     * [Aztec\_SequencerNode](product-manual/one-click-deployment/aztec_sequencernode.md)
     * [Aztec\_ProverNode](product-manual/one-click-deployment/aztec_provernode.md)
+    * [Arcium](product-manual/one-click-deployment/arcium.md)
     * [Titan-Edge](product-manual/one-click-deployment/titan-edge.md)
     * [NEXUS](product-manual/one-click-deployment/nexus.md)
     * [Hyperspace](product-manual/one-click-deployment/hyperspace.md)
