@@ -34,7 +34,7 @@
     * [Aztec\_全节点](chan-pin-shou-ce/yi-jian-bu-shu/aztec-network.md)
     * [Aztec\_序列器节点](chan-pin-shou-ce/yi-jian-bu-shu/aztec-xu-lie-qi-jie-dian.md)
     * [Aztec\_证明器节点](chan-pin-shou-ce/yi-jian-bu-shu/aztec-zheng-ming-qi-jie-dian.md)
-    * [Arcium testnet](chan-pin-shou-ce/yi-jian-bu-shu/arcium-testnet.md)
+    * [Arcium](chan-pin-shou-ce/yi-jian-bu-shu/arcium.md)
     * [Hyperspace](chan-pin-shou-ce/yi-jian-bu-shu/hyperspace.md)
     * [T3RN V2](chan-pin-shou-ce/yi-jian-bu-shu/t3rn-v2.md)
     * [Soneium](chan-pin-shou-ce/yi-jian-bu-shu/soneium.md)
