@@ -4,7 +4,7 @@ description: 專案官網：https://www.arcium.com/
 
 # Arcium
 
-<p align="right">English</p>
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/arcium">English</a></p>
 
 ## 如何通過 Node-X 平台部署  ARX 節點？
 
