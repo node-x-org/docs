@@ -26,6 +26,8 @@ description: 專案官網：https://www.arcium.com/
 
 需要获取两个RPC,一个是Solana Devnet RPC ，另一个是Solana Devnet Wss
 
+推荐：[zan](https://zan.top/)
+
 #### 2. 等待服務與查看官方面板
 
 購買成功後，Node-X 將為你部署ARX 節點。通常情況下，這個過程會在24小時內完成。你可以透過以下方式即時查看節點狀態：
