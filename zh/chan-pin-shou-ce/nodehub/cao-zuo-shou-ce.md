@@ -34,7 +34,9 @@ NodeHub 支援兩種登入方式：
   3. 點擊郵件中的確認連結以完成帳號啟用，即可開始使用平台功能。
   4. 若您擁有邀請碼，也可於註冊時填寫。
 
-> 示例頁面
+{% hint style="info" %}
+示例页面
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/微信图片_20250408112547.png" alt=""><figcaption><p><strong>註冊 NodeHub</strong></p></figcaption></figure>
 
@@ -44,24 +46,41 @@ NodeHub 支援兩種登入方式：
 
 #### 3.1 個人詳情
 
-*   個人詳情頁面展示用戶的基本資訊。
+個人詳情頁面展示用戶的基本資訊。
 
-    在新版系統中，您可以進行以下操作：
+在新版系統中，您可以進行以下操作：
 
-    * 上傳個人頭像
-    * 設定暱稱
-    * 添加社群帳號（如 Twitter、Telegram 等）
-    * 編輯個人簡介，展示您的專長或風格
+1. 上傳個人頭像
+2. 設定暱稱
+3. 添加社群帳號（如 Twitter、Telegram 等）
+4. 編輯個人簡介，展示您的專長或風格
+5. 链接TG(获取已部署节点最新近况)
+6. 设置或重置安全密码
+7. 查看积分详情
+8. 操作账号余额（包括充值、刷新、查看余额明细、提现、提现记录）
+9. 申请成为创作者
 
 #### 3.2 創作者頁面
 
-* 創作者頁面展示您所創建或分享的內容（節點部署腳本、教學影片、圖文內容等）。
+創作者頁面展示创作者的基本信息\
+在新版系统中，您可以进行一下操作：
 
-> 示例頁面
+1. 获取邀请码
+2. 个人信息设置（同个人详情）
+3. 链接TG获取重要消息通知
+4. 安全密码设置
+5. 查看积分详情
+6. 个人钱包（包括分销、创作者金额等）
+7. 查看公开指令详情（包括指令对应执行次数、服务器数量、总收入，订单数等）
+8. 查看付费指令的授权记录。
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408112919.png" alt=""><figcaption><p>申請成為創作者</p></figcaption></figure>
+{% hint style="info" %}
+示例页面
+{% endhint %}
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408113544.png" alt=""><figcaption><p>獲得驗證者資格後妥善管理自己的【Key】</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_133757_738.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_135200_666.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -72,14 +91,16 @@ NodeHub 支援兩種登入方式：
 伺服器列表頁面展示用戶所管理的所有伺服器。\
 透過此頁面，您可以查看每台伺服器的詳細資訊，例如：
 
-* IP 位址
+* IP 地址
 * 伺服器名稱
 * 埠口（Port）
 * 狀態（在線／離線／運行中等）
 * 記憶體與磁碟容量
 * ST（可查看自身算力是否被運營商偷取）
 
-> 示例頁面
+{% hint style="info" %}
+示例页面
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/微信图片_20250408114148.png" alt=""><figcaption><p>導入伺服器面板查看</p></figcaption></figure>
 
@@ -87,35 +108,68 @@ NodeHub 支援兩種登入方式：
 
 用戶可以透過「導入伺服器」功能，將外部伺服器資訊添加至 NodeHub 管理平台，方便統一管理與監控。
 
-**需要填寫的資訊包括：**
+伺服器來源分為3類，一類是租賃其他服務商的伺服器（通常為Linux系統），一類是自己個人的伺服器/PC，一類則是直接通過NodeHub算力市場租賃的伺服器。
+
+1、**若是导入外部服务器需要填寫的資訊包括：**
 
 * **伺服器 IP 位址**
 * **端口號**（SSH 連接端口，預設通常為 22）
 * **用戶名**（登錄伺服器所用的帳號）
 * **密碼**（對應用戶名的登入密碼）
 
-> 示例頁面
+若服务器过太多，可以选择批量导入，需要下载模版填写对应信息再导入即可（暂不支持）
+
+{% hint style="info" %}
+示例页面
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/微信图片_20250408114909.png" alt="" width="563"><figcaption><p>新增服务器</p></figcaption></figure>
 
-#### 4.3 伺服器分組
+2、若是导入个人服务器或个人PC需要在终端执行对应安装指令
+
+根据选择接入设备的系统执行安装指令
+
+{% hint style="info" %}
+示例页面
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_135424_844.png" alt="" width="563"><figcaption></figcaption></figure>
+
+3、直接购买NodeHub算力市场的服务器\
+服务器会自动接入NodeHub进行管理
+
+#### 4.3 Webshell
+
+接入NodeHub后，可以直接点击WebShell,连接直接进入该设备终端进行操作，无需下载其他终端管理工具，且·设置为浮窗便于测试指令。
+
+{% hint style="info" %}
+示例页面
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_145442_841.png" alt=""><figcaption></figcaption></figure>
+
+#### 4.4 伺服器分組
 
 * 用戶可在 NodeHub 平台中建立多個伺服器分組，並將伺服器歸類到不同分組內，以便進行分類管理。
 * 在伺服器數量眾多時，快速檢索目標伺服器
 * 依照業務、地區、功能等維度分類管理
 * 簡化維護流程，提高運維效率
 
-> 示例頁面
+{% hint style="info" %}
+示例页面
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/微信图片_20250408115155.png" alt=""><figcaption><p>分組管理伺服器</p></figcaption></figure>
 
 ***
 
-**5. 指令管理**
+**5. 官方指令、指令社区与指令管理**
 
-5.1 指令列表
+5.1 官方指令与指令社区
 
-指令列表頁面展示所有可用的指令，方便用戶快速瀏覽與選擇。
+官方指令頁面展示NodeHub官方发布的可用的指令，社区指令页面展示NodeHub社区指令创作者公开到社区的指令，方便用戶快速瀏覽與選擇。
+
+指令社区中，可以直接在已公开的指令下评论、点赞、以及踩，可以直接与指令创作者沟通。
 
 在此頁面，您可以：
 
@@ -124,15 +178,21 @@ NodeHub 支援兩種登入方式：
 * 依分類或關鍵字篩選指令
 * 執行指令或進入指令詳情頁面，參考詳細操作指南
 
-> 示例頁面
+{% hint style="info" %}
+示例页面
+{% endhint %}
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408115430.png" alt=""><figcaption><p>官方內置指令庫</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_141400_932.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408115926.png" alt="" width="563"><figcaption><p>官方指令執行</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_141913_675.png" alt="" width="563"><figcaption></figcaption></figure>
 
-#### **5.2 編輯和修改指令**
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_141552_780.png" alt="" width="563"><figcaption></figcaption></figure>
+
+#### **5.2 指令管理**
 
 用戶可在 NodeHub 平台新建、編輯或修改指令腳本，靈活適配不同節點部署需求。
+
+创作者则是可以将脚本公开到指令社区。
 
 **主要操作：**
 
@@ -142,32 +202,19 @@ NodeHub 支援兩種登入方式：
   簡述該指令的用途與功能，便於其他用戶理解。
 * **設置參數**\
   根據指令需求，定義可配置的參數選項，例如節點 ID、網絡類型、錢包地址等。
-* **智能補全功能**\
-  在編輯指令時，按 **Tab** 鍵可啟用自動補全，提升編寫效率與準確度。
+* **编辑指令**\
+  编辑指令，参考示例完成编辑，在編輯指令時，可以按 **Tab** 鍵可啟用自動補全，提升編寫效率與準確度。
+* **公开指令（创作者）**\
+  编辑完成指令并测试完成后可以公开到社区，可以选择隐藏指令以及收费金额，点击确认，中途需要等待慧审AI进行审核以及人工审核的双重审核机制后才能公开到社区。\
 
-> 示例頁面
->
->
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408121017.png" alt=""><figcaption><p>自定义指令编辑</p></figcaption></figure>
+{% hint style="info" %}
+示例页面
+{% endhint %}
 
-#### **5.3 公開到社區**
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_143335_507.png" alt=""><figcaption></figcaption></figure>
 
-用戶可將自定義的指令分享到 NodeHub 指令社區，讓更多用戶瀏覽、使用與參與互動。
 
-> 示例頁面
-
-<figure><img src="../../.gitbook/assets/微信图片_20250408121230.png" alt=""><figcaption><p>成为创作者后，可以编写指令发往指令社区</p></figcaption></figure>
-
-#### 5.4 指令社區
-
-* 用戶可在「指令社區」頁面查看所有已經公開的社區指令；
-* 可以直接使用這些指令，也可以對指令進行按讚、評論或點踩操作。
-* 新增熱門指令與熱門創作者。
-
-> **示例页面**
-
-<figure><img src="../../.gitbook/assets/微信图片_20250408122033.png" alt=""><figcaption><p>首頁功能展示</p></figcaption></figure>
 
 ***
 
@@ -178,15 +225,20 @@ NodeHub 支援兩種登入方式：
 * 用戶可指定某一台或多台伺服器，選擇需要執行的指令；
 * 點擊「執行」按鈕即可開始指令運行，系統會即時回饋執行情況。
 
-> 示例頁面
+{% hint style="info" %}
+示例页面
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/微信图片_20250408115926.png" alt=""><figcaption><p>新增伺服器進行安裝</p></figcaption></figure>
 
-6.2 執行任務列表\
+#### 6.2 執行任務列表
+
 顯示所有正在執行中的任務；\
 包括任務名稱、開始時間、執行狀態等，方便用戶隨時瞭解當前執行進度。
 
-> 示例頁面
+{% hint style="info" %}
+示例页面
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/微信图片_20250408122404.png" alt=""><figcaption><p>新增日誌功能，可點擊查看運行日誌。</p></figcaption></figure>
 
@@ -194,7 +246,9 @@ NodeHub 支援兩種登入方式：
 展示所有已完成的任務歷史；\
 用戶可查閱執行時間、結果輸出、執行狀態等詳細資訊，以便日後稽核或復盤。
 
-> 示例頁面
+{% hint style="info" %}
+示例页面
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/微信图片_20250408122609.png" alt=""><figcaption><p>可查看執行歷史</p></figcaption></figure>
 
@@ -204,11 +258,15 @@ NodeHub 支援兩種登入方式：
 
 * 節點管理頁面展示所有節點的詳細資訊；
 * 可查看節點狀態（在線 / 離線）與性能指標（CPU、記憶體等）；
-* 支援對節點進行啟動、關閉、升級或維護等操作。
+* 支援對節點進行啟動、關閉、升級或維護等操作；
+* 可以根据IP、执行指令、健康状态、线上状态以及分组进行筛选查看，也可根据IP进行分组查看；
+* 可以点击日志查看节点具体运行状态，点击执行则可以自动跳转到对应指令的执行页面。
 
-> 示例頁面
+{% hint style="info" %}
+示例页面
+{% endhint %}
 
-<figure><img src="../../.gitbook/assets/微信图片_20250408122821.png" alt=""><figcaption><p>查看每台服务器状态及日志</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_144459_635.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -217,13 +275,35 @@ NodeHub 支援兩種登入方式：
 * 儀表板用於展示系統的整體運行狀態與即時性能指標；
 * 使用者可即時查看 CPU 使用率、記憶體使用率等關鍵數據，以便及時監控與調整部署。
 
-> 示例頁面
+{% hint style="info" %}
+示例页面
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/微信图片_20250408122945.png" alt=""><figcaption><p>一眼查看设备资源利用率</p></figcaption></figure>
 
 ***
 
-### 9. 總結
+### 9.算力市场
+
+算力市场用于为用户提供带有折扣的算力资源，为用户提供一个购买算力资源的渠道
+
+目前已接入Tencent Cloud 、 Aliyun 服务商的算力资源以及GPU资源
+
+#### 9.1下单流程
+
+在算力市场，选择目标服务器，然后查看对应价格，检查余额是否足以购买，若不够还需连接钱包进行充值，再点击立即购买。
+
+{% hint style="info" %}
+示例页面
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_151240_921.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_151404_320.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_153642_411.png" alt="" width="563"><figcaption></figcaption></figure>
+
+### 10. 總結
 
 透過以上功能，NODEHUB 可協助您：
 
