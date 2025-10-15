@@ -92,6 +92,7 @@
     * [Nexus](chan-pin-shou-ce/yi-jian-bu-shu/nexus.md)
     * [0g](chan-pin-shou-ce/yi-jian-bu-shu/0g.md)
     * [0G Alignment Node](chan-pin-shou-ce/yi-jian-bu-shu/0g-alignment-node.md)
+    * [操作手册](chan-pin-shou-ce/yi-jian-bu-shu/cao-zuo-shou-ce.md)
   * [NodeHub](chan-pin-shou-ce/nodehub/README.md)
     * [路線圖](chan-pin-shou-ce/nodehub/lu-xian-tu.md)
     * [積分計劃（暫停使用）](chan-pin-shou-ce/nodehub/ji-fen-ji-hua-zan-ting-shi-yong.md)
