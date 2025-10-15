@@ -186,7 +186,7 @@ NodeHub 支援兩種登入方式：
 
 <figure><img src="../../.gitbook/assets/wechat_2025-10-15_141913_675.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/wechat_2025-10-15_141552_780.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_160108_081.png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### **5.2 指令管理**
 
