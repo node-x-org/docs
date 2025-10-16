@@ -1,7 +1,5 @@
 # User Manual
 
-<p align="right"><a href="https://docs.node-x.xyz/chan-pin-shou-ce/nodehub/cao-zuo-shou-ce"><strong>中文</strong></a></p>
-
 ### **1. Overview**
 
 This user manual will guide you through the process of logging in, registering, managing servers, editing and executing commands, managing nodes, and monitoring dashboards. It will help you quickly get started and efficiently use NODEHUB.
@@ -33,9 +31,7 @@ NODEHUB supports two login methods:
 2. After successful registration, the system will send a confirmation email to your inbox.
 3. Click the link in the confirmation email to activate your account and start using NODEHUB.
 
-{% hint style="info" %}
-_Example page illustration_
-{% endhint %}
+> _Example page illustration_
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -75,9 +71,7 @@ In the new system version, you can perform the following operations:
 7. View Public Command Details (including execution count, server count, total income, order count, etc.)
 8. View Authorization Records for Paid Commands
 
-{% hint style="info" %}
-_Example page illustration_
-{% endhint %}
+> Example page illustration
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -97,18 +91,14 @@ Click on your profile, fill in accurate and complete information, provide your r
 
 * The server list page displays all servers managed by the user.
 * Users can view detailed information about each server, such as:
-  *   IP Address\
-      Server Name\
-      Port\
-      Status (Online / Offline / Running, etc.)\
-      Memory & Disk Size\
-      ST (Allows you to check whether your computing power is being hijacked by the operator)
+  * IP Address\
+    Server Name\
+    Port\
+    Status (Online / Offline / Running, etc.)\
+    Memory & Disk Size\
+    ST (Allows you to check whether your computing power is being hijacked by the operator)
 
-
-
-{% hint style="info" %}
-_Example page illustration_
-{% endhint %}
+> Example page illustration
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
@@ -132,9 +122,7 @@ Server sources are divided into 3 types:
 
 If there are too many servers, you can choose batch import by downloading a template, filling in the info, then importing (currently not supported).
 
-{% hint style="info" %}
-_Example page illustration_
-{% endhint %}
+> Example page illustration
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
@@ -144,9 +132,7 @@ _Example page illustration_
 
 Based on the system of the device being connected, execute the installation commands.
 
-{% hint style="info" %}
-_Example page illustration_
-{% endhint %}
+> Example page illustration
 
 <figure><img src="../../.gitbook/assets/wechat_2025-10-15_155256_606.png" alt=""><figcaption></figcaption></figure>
 
@@ -158,9 +144,7 @@ The server will automatically connect to NodeHub for management.
 
 After connecting to NodeHub, you can directly click WebShell to connect and operate on the device terminal without downloading additional management tools. The interface can be set as a floating window for easier testing.
 
-{% hint style="info" %}
-Example page illustration
-{% endhint %}
+> Example page illustration
 
 <figure><img src="../../.gitbook/assets/wechat_2025-10-15_155406_188.png" alt=""><figcaption></figcaption></figure>
 
@@ -169,9 +153,7 @@ Example page illustration
 * Users can create multiple groups and categorize servers into different groups for efficient management.
 * This helps in quickly locating and maintaining servers when dealing with a large number of them.
 
-{% hint style="info" %}
-_Example page illustration_
-{% endhint %}
+> Example page illustration
 
 <figure><img src="../../.gitbook/assets/wechat_2025-10-15_155529_887.png" alt=""><figcaption></figcaption></figure>
 
@@ -197,9 +179,7 @@ On this page, you can:
 * Filter commands by category or keywords
 * Execute commands or go to command details pages for detailed operation guides
 
-{% hint style="info" %}
-_Example page illustration_
-{% endhint %}
+> Example page illustration
 
 <figure><img src="../../.gitbook/assets/wechat_2025-10-15_155704_004.png" alt=""><figcaption></figcaption></figure>
 
@@ -225,9 +205,7 @@ _Example page illustration_
   * **Publish Command (Creators)**\
     After editing and testing, commands can be published to the community. You can choose to hide commands or set a charge amount. Click confirm, and the command will undergo AI and manual review before being publicly available.
 
-{% hint style="info" %}
-_Example page illustration_
-{% endhint %}
+> Example page illustration
 
 <figure><img src="../../.gitbook/assets/wechat_2025-10-15_155159_551115.png" alt=""><figcaption></figcaption></figure>
 
@@ -242,9 +220,7 @@ _Example page illustration_
 * Users can select one or multiple servers and specify a command to execute.
 * Click the **"Execute"** button to start execution, and the system will provide real-time feedback on execution status.
 
-{% hint style="info" %}
-_Example page illustration_
-{% endhint %}
+> Example page illustration
 
 <figure><img src="../../.gitbook/assets/wechat_2025-10-15_160910_032.png" alt=""><figcaption></figcaption></figure>
 
@@ -257,9 +233,7 @@ _Example page illustration_
   * **Start Time**
   * **Execution Status**
 
-{% hint style="info" %}
-_Example page illustration_
-{% endhint %}
+> Example page illustration
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
@@ -273,9 +247,7 @@ _Example page illustration_
   * **Execution Status**
 * Useful for auditing or reviewing past executions.
 
-{% hint style="info" %}
-Example page illustration
-{% endhint %}
+> Example page illustration
 
 <figure><img src="../../.gitbook/assets/wechat_2025-10-15_161153_970.png" alt=""><figcaption></figcaption></figure>
 
@@ -289,9 +261,7 @@ Example page illustration
 * Filter nodes by IP, command execution, health status, online status, or group; can also group by IP
 * Click logs to view specific node operation status; click execute to automatically navigate to the command execution page
 
-{% hint style="info" %}
-_Example page illustration_
-{% endhint %}
+> Example page illustration
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
@@ -307,9 +277,7 @@ _Example page illustration_
   * **Memory Usage**
 * Enables real-time monitoring and quick adjustments.
 
-{% hint style="info" %}
-_Example page illustration_
-{% endhint %}
+> Example page illustration
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
@@ -330,9 +298,7 @@ Currently connected providers include Tencent Cloud, Aliyun, and GPU resources.
 * Verify if the balance is sufficient; if not, connect wallet to recharge
 * Click Buy Now to complete the purchase
 
-{% hint style="info" %}
-Example page illustration
-{% endhint %}
+> Example page illustration
 
 <figure><img src="../../.gitbook/assets/wechat_2025-10-15_152352_664.png" alt=""><figcaption></figcaption></figure>
 
