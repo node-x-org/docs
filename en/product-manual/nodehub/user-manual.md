@@ -33,7 +33,7 @@ NODEHUB supports two login methods:
 
 > _Example page illustration_
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<div align="center"><figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 <p align="center">Fill in the required information</p>
 
