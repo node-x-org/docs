@@ -33,13 +33,13 @@ NODEHUB supports two login methods:
 
 > _Example page illustration_
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-&#x20;                                                   Fill in the required information
+<p align="center">Fill in the required information</p>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
-&#x20;                                                                    Login to NodeHub
+<p align="center">Login to NodeHub</p>
 
 ### **3. Personal Information & Creator Page**
 
@@ -73,13 +73,13 @@ In the new system version, you can perform the following operations:
 
 > Example page illustration
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Click on your profile, fill in accurate and complete information, provide your reason for applying as a creator, and submit. Once approved, the process will be complete.
 
@@ -100,9 +100,9 @@ Click on your profile, fill in accurate and complete information, provide your r
 
 > Example page illustration
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
 
-&#x20;                                                                      Import Server Dashboard to View
+<p align="center">Import Server Dashboard to View</p>
 
 #### **4.2 Import Servers**
 
@@ -124,9 +124,9 @@ If there are too many servers, you can choose batch import by downloading a temp
 
 > Example page illustration
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
 
-&#x20;                                                               Add New Server
+<p align="center">Add New Server</p>
 
 **2.To import personal servers or PCs, you need to execute the corresponding installation commands in the terminal:**
 
@@ -134,7 +134,7 @@ Based on the system of the device being connected, execute the installation comm
 
 > Example page illustration
 
-<figure><img src="../../.gitbook/assets/wechat_2025-10-15_155256_606.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_155256_606.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **3.Purchase NodeHub Compute Market Servers Directly**
 
@@ -146,7 +146,7 @@ After connecting to NodeHub, you can directly click WebShell to connect and oper
 
 > Example page illustration
 
-<figure><img src="../../.gitbook/assets/wechat_2025-10-15_155406_188.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_155406_188.png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### **4.4 Server Grouping**
 
@@ -155,11 +155,11 @@ After connecting to NodeHub, you can directly click WebShell to connect and oper
 
 > Example page illustration
 
-<figure><img src="../../.gitbook/assets/wechat_2025-10-15_155529_887.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_155529_887.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/wechat_2025-10-15_155636_215.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_155636_215.png" alt="" width="563"><figcaption></figcaption></figure>
 
-&#x20;                                                                   Group Server Management
+<p align="center">Group Server Management</p>
 
 ***
 
@@ -181,13 +181,13 @@ On this page, you can:
 
 > Example page illustration
 
-<figure><img src="../../.gitbook/assets/wechat_2025-10-15_155704_004.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_155704_004.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/wechat_2025-10-15_155738_278.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_155738_278.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/wechat_2025-10-15_155948_958.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_155948_958.png" alt="" width="563"><figcaption></figcaption></figure>
 
-&#x20;                                                                 Official Command Execution
+<p align="center">Official Command Execution</p>
 
 #### **5.2** Command Management
 
@@ -207,9 +207,9 @@ On this page, you can:
 
 > Example page illustration
 
-<figure><img src="../../.gitbook/assets/wechat_2025-10-15_155159_551115.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_155159_551115.png" alt="" width="563"><figcaption></figcaption></figure>
 
-&#x20;                                                                    Custom Command Editing
+<p align="center">Custom Command Editing</p>
 
 ***
 
@@ -222,9 +222,9 @@ On this page, you can:
 
 > Example page illustration
 
-<figure><img src="../../.gitbook/assets/wechat_2025-10-15_160910_032.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_160910_032.png" alt="" width="563"><figcaption></figcaption></figure>
 
-&#x20;                                                         Add a New Server for Installation
+<p align="center">Add a New Server for Installation</p>
 
 #### **6.2 Execution Task List**
 
@@ -235,9 +235,9 @@ On this page, you can:
 
 > Example page illustration
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt="" width="563"><figcaption></figcaption></figure>
 
-&#x20;                                             New Log Feature Added, Click to View Run Logs
+<p align="center">New Log Feature Added, Click to View Run Logs</p>
 
 #### **6.3 Execution History**
 
@@ -249,7 +249,7 @@ On this page, you can:
 
 > Example page illustration
 
-<figure><img src="../../.gitbook/assets/wechat_2025-10-15_161153_970.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_161153_970.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -263,9 +263,9 @@ On this page, you can:
 
 > Example page illustration
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt="" width="563"><figcaption></figcaption></figure>
 
-&#x20;                                                        View the Status and Logs of Each Server
+<p align="center">View the Status and Logs of Each Server</p>
 
 ***
 
@@ -279,9 +279,9 @@ On this page, you can:
 
 > Example page illustration
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt="" width="563"><figcaption></figcaption></figure>
 
-&#x20;                                                    Quickly View Device Resource Utilization
+<p align="center">Quickly View Device Resource Utilization</p>
 
 ***
 
@@ -300,11 +300,11 @@ Currently connected providers include Tencent Cloud, Aliyun, and GPU resources.
 
 > Example page illustration
 
-<figure><img src="../../.gitbook/assets/wechat_2025-10-15_152352_664.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_152352_664.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/wechat_2025-10-15_152606_011.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_152606_011.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/wechat_2025-10-15_153714_186.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wechat_2025-10-15_153714_186.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### **10. Summary**
 
