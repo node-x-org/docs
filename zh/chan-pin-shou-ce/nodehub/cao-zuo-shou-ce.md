@@ -2,7 +2,7 @@
 
 <p align="right"><a href="https://docs.node-x.xyz/en/product-manual/nodehub/user-manual">English</a></p>
 
-## 一眼查看設備，一眼 NodeHub操作手册
+## NodeHub操作手册
 
 ### &#x31;**. 概述**
 
