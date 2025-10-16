@@ -1,5 +1,5 @@
 ---
-description: 專案官網:https://0g.ai/
+description: 项目官网:https://0g.ai/
 ---
 
 # 0G Alignment Node
