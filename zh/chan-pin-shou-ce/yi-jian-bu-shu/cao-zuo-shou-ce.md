@@ -14,7 +14,7 @@
 
 #### 2.1 登入連結
 
-* 登入網址：[https://app.node-x.xyz/](https://app.node-x.xyz/)
+* 登入網址：[https://node-x.xyz/](https://node-x.xyz/)
 
 #### 2.2 登入流程
 
