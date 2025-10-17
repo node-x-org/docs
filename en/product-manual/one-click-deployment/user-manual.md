@@ -1,5 +1,7 @@
 # User Manual
 
+<p align="right"><a href="https://docs.node-x.xyz/chan-pin-shou-ce/yi-jian-bu-shu/cao-zuo-shou-ce">中文</a></p>
+
 ## Naas One-Click Deployment Operation Manual
 
 ### 1.Overview
@@ -12,7 +14,7 @@ This manual will guide you through login, registration, recharge, notifications,
 
 #### 2.1. Login Link
 
-* Login URL: [https://app.node-x.xyz/](https://app.node-x.xyz/)
+* Login URL: [https://node-x.xyz/](https://node-x.xyz/)
 
 #### 2.2. Login Process
 
