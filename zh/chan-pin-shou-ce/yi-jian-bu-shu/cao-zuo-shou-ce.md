@@ -1,6 +1,6 @@
 # 操作手册
 
-<p align="right">English</p>
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/user-manual">English</a></p>
 
 ## Naas一鍵部署操作手冊
 
