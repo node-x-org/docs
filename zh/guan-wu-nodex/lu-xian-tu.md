@@ -1,10 +1,14 @@
+---
+hidden: true
+---
+
 # 路線圖
 
 <p align="right"><a href="https://docs.node-x.xyz/en/about-node-x/road-map">English</a></p>
 
 #### 第一階段（2024年第四季）：產品完善階段
 
-* 上線「節點學院」、「一鍵部署」、「NodePad」
+* 上線」「節點學院」、「一鍵部署」、「NodePad
 * 開始「NodeHub」的內測
 
 #### 第二階段（2025年第一季）：產品公測階段
