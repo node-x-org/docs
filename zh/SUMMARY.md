@@ -2,7 +2,7 @@
 
 * [關於 Node-X](README.md)
   * [項目背景](guan-wu-nodex/xiang-mu-bei-jing.md)
-  * [想像](guan-wu-nodex/xiang-xiang.md)
+  * [願景](guan-wu-nodex/yuan-jing.md)
   * [路線圖](guan-wu-nodex/lu-xian-tu.md)
 * [產品手冊](chan-pin-shou-ce/README.md)
   * [NodeX](chan-pin-shou-ce/nodex.md)
