@@ -4,7 +4,6 @@
   * [Project Background](about-nodex/project-background.md)
   * [Vision](about-nodex/vision.md)
   * [Road Map](about-nodex/road-map.md)
-  * [Road Map](about-nodex/road-map-1.md)
 * [Product Manual](product-manual/README.md)
   * [NodeX](product-manual/nodex.md)
   * [One-Click Deployment](product-manual/one-click-deployment/README.md)

@@ -1,33 +1,23 @@
----
-hidden: true
----
-
 # Road Map
 
 <p align="right"><a href="https://docs.node-x.xyz/guan-wu-nodex/lu-xian-tu">中文</a></p>
 
-#### **Phase 1 (Q4 2024): Product Refinement**
+### Phase 1: Product Refinement Phase
 
-* Launch Node Academy, One-Click Deployment, and NodePad
-* Initiate NodeHub closed beta testing
-
-***
-
-#### **Phase 2 (Q1 2025): Public Beta Launch**
-
-* Launch NodeHub public beta
-* Introduce the Points System and Creator Incentive Program
+* Launch the computing power pool and the points system.
+* Narrative: “Everything on-chain, computing power as social connection.”
 
 ***
 
-#### **Phase 3 (Q2 2025): Growth & Scale**
+### Phase 2: Product Beta Testing Phase
 
-* Aim to manage over 300,000 servers
-* Establish standardized workflows for compute node collaboration
+* Upgrade NodeHub (launch Agents) and launch the community command marketplace.Upgrade NodeHub (launch Agents) and launch the community command marketplace.
+* Launch leaderboards.
 
 ***
 
-#### **Phase 4 (Q3 2025): Tokenomics & Market Mechanism**
+### Phase 3: Product Promotion Phase
 
-* Release tokenomics details and the NHP-to-points conversion plan
-* Develop and launch the C2C compute power marketplace
+* Launch the mainnet, implement PORW consensus, and enable multi-chain bridging.
+
+***
