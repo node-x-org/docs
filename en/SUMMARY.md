@@ -1,9 +1,9 @@
 # Table of contents
 
-* [About Node-X](README.md)
-  * [Project Background](about-node-x/project-background.md)
-  * [Imagine](about-node-x/imagine.md)
-  * [Road Map](about-node-x/road-map.md)
+* [About NodeX](README.md)
+  * [Project Background](about-nodex/project-background.md)
+  * [Imagine](about-nodex/imagine.md)
+  * [Road Map](about-nodex/road-map.md)
 * [Product Manual](product-manual/README.md)
   * [NodeX](product-manual/nodex.md)
   * [One-Click Deployment](product-manual/one-click-deployment/README.md)
