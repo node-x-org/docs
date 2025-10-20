@@ -1,6 +1,6 @@
 # Vision
 
-<p align="right"><a href="https://docs.node-x.xyz/guan-wu-nodex/xiang-xiang"><strong>中文</strong></a></p>
+<p align="right"><a href="https://docs.node-x.xyz/guan-wu-nodex/yuan-jing"><strong>中文</strong></a></p>
 
 ### Background
 
