@@ -4,7 +4,6 @@
   * [項目背景](guan-wu-nodex/xiang-mu-bei-jing.md)
   * [願景](guan-wu-nodex/yuan-jing.md)
   * [路線圖](guan-wu-nodex/lu-xian-tu.md)
-  * [路線圖](guan-wu-nodex/lu-xian-tu-1.md)
 * [產品手冊](chan-pin-shou-ce/README.md)
   * [NodeX](chan-pin-shou-ce/nodex.md)
   * [節點學院](chan-pin-shou-ce/jie-dian-xue-yuan.md)
