@@ -1,6 +1,6 @@
 # Table of contents
 
-* [關於 Node-X](README.md)
+* [關於 NodeX](README.md)
   * [項目背景](guan-wu-nodex/xiang-mu-bei-jing.md)
   * [願景](guan-wu-nodex/yuan-jing.md)
   * [路線圖](guan-wu-nodex/lu-xian-tu.md)

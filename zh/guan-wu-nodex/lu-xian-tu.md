@@ -1,6 +1,6 @@
 # 路線圖
 
-<p align="right"><a href="https://docs.node-x.xyz/en/about-node-x/road-map">English</a></p>
+<p align="right"><a href="https://docs.node-x.xyz/en/about-nodex/road-map">English</a></p>
 
 #### 第一階段：產品完善階段
 

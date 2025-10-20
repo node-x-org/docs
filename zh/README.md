@@ -1,18 +1,18 @@
-# 關於 Node-X
+# 關於 NodeX
 
 <p align="right"><a href="https://docs.node-x.xyz/en">English</a></p>
 
-## Node-X：讓萬物上鏈，讓算力社交
+## NodeX：讓萬物上鏈，讓算力社交
 
 NodeX Labs, Inc. 是一家以「Make Any Device On-Chain, Make Compute Social」願景驅動的 Web3 基礎設施創新平台，透過 NaaS & NodeHub、DePIN 與 AI 算力經濟的深度融合，提供節點部署、算力管理和監控的一站式解決方案。平台借助 AI 演算法優化調度、ProofX 驗證機制、C2C 交易市場和節點算力池，正加速萬物上鏈與算力社交化，成為 Web3 與 AI 融合時代的核心入口。
 
-## Node-X 主要包括以下核心產品與服務：
+## NodeX 主要包括以下核心產品與服務：
 
 ***
 
 #### • **NodeHub  (去中心化算力協調平台)**
 
-NodeHub 是 Node-X 的基础设施平台，连接全球闲置计算资源，构建开放透明的去中心化算力网络。\
+NodeHub 是 NodeX 的基础设施平台，连接全球闲置计算资源，构建开放透明的去中心化算力网络。\
 它支援用戶跨平台連接設備，批量部署與管理區塊鏈節點與自動化腳本，構建統一的算力協作網絡。NodeHub 同時鼓勵創作者發布指令，推動腳本經濟與社群共建。
 
 **核心能力包括**：**：**
@@ -51,5 +51,5 @@ NaaS 提供一键式节点部署方案，让用户轻松参与 Web3 网络。
 
 ### Node-X 的愿景
 
-Node-X 通过 NodeHub 和 NaaS 两大核心产品，构建开放透明的去中心化算力生态。
+NodeX 通过 NodeHub 和 NaaS 两大核心产品，构建开放透明的去中心化算力生态。
 
