@@ -2,27 +2,40 @@
 
 <p align="right"><a href="https://docs.node-x.xyz/guan-wu-nodex/xiang-mu-bei-jing">中文</a></p>
 
-### **Industry Development**
+### **Background**
 
-In the rapid advancement of the global digital economy, blockchain technology and distributed computing are becoming core forces driving the next generation of the internet (Web3). This transformation brings unprecedented opportunities for decentralization, redefining the ways data is stored, transmitted, and processed.
+The global computing power landscape is undergoing dramatic transformation, facing multiple challenges. First, computing power waste is severe—GPUs are scarce and expensive with utilization rates of only 20-30%; data center servers are over-provisioned with idle rates as high as 50%. The global number of personal devices such as PCs, laptops, and phones exceeds 8 billion, yet they lack effective monetization channels. Additionally, the Web3 airdrop crisis is increasingly prominent—project teams struggle to identify genuine contributors, on-chain data inflation is serious, frequent Sybil attacks lead to imbalanced token distribution ecosystems, trust between users and project teams has broken down, and anti-farming phenomena are widespread, further hindering participation.
 
-Blockchain nodes are evolving from a single full-node structure to a multi-layered, multi-type node architecture. To support the next generation of high-performance blockchains, developers' demand for both the quantity and quality of nodes is continuously increasing. Corresponding incentives are also rising; projects like Aptos, Avail, and Celitia offer substantial rewards to node operators, attracting more participants into the blockchain node ecosystem.
-
-With the release of AI from Pandora's box, the demand for computational power is expected to increase exponentially. Utilizing DePIN technology to integrate global computational power is becoming a significant trend. According to Messari, the market value of DePIN is predicted to grow from $9 billion to $3.5 trillion by 2028, enticing more participants to join this movement.
-
-As a large influx of users occurs, the demand for efficient and reliable node infrastructure will grow, encompassing information consulting, node deployment and management, and resource trading. However, the industry faces a series of new challenges.
+Regarding centralized cloud services, providers like AWS hold 50% market share with low efficiency and monopolistic practices, causing trillions of FLOPS in computing power waste and limiting the implementation of AI, decentralized physical infrastructure (DePIN), and real-world assets (RWA). However, the DePIN market is expected to reach a market value of $17.9 billion in 2025, with over 1,500 active projects (such as Helium's million hotspots and io.net's 90% cost reduction), providing a historic opportunity for decentralized computing power.
 
 ### **Industry Pain Points**
 
-Based on our observations, users encounter several issues when participating in the node space:
+Against the backdrop of severe global computing power supply and demand imbalance, NodeX's upgrade comes at the perfect time. Currently, GPU resources are scarce with high prices and utilization rates below 30%; data center servers are over-provisioned with idle rates exceeding 50%; globally, over 8 billion personal devices (such as PCs, phones, and edge devices) remain idle and are not effectively monetized. This "invisible waste" not only causes AI training and inference costs to soar but also exacerbates energy consumption and centralized monopolization—global data center energy consumption already equals that of the entire aviation industry, yet distributed optimization has not been achieved.
 
-1. Lack of systematic information about the node sector, including overviews, project dynamics, deployment and operational plans, and channels for renting or purchasing equipment.
-2. Inaccessibility of affordable and convenient proxy services; due to technical barriers, some providers inflate prices, offering services at several times or even dozens of times the cost without transparency or timely responses.
-3. Ineffective resource management; for developers or node operators with multiple devices, managing these resources becomes challenging. Maximizing the use of facility resources and monitoring all node projects on each server complicate the process. Ordinary users must log in daily to check server statuses, while advanced users rely on multiple tools, creating a complex environment.
-4. Difficulty in filtering quality project presales; many projects are using presale nodes and DePIN devices as a form of disguised ICO, leading to a confusing market.
-
-Overall, the current market for node infrastructure is largely fragmented and functionally limited, lacking a unified and efficient management system. There is an urgent need for an integrated platform to promote the sustainable development of the entire ecosystem.
+Node incentive mechanisms are easily exploited by Sybil attacks, with rampant fake nodes making it impossible to distinguish genuine contributions; on-chain data overflow and airdrop trust collapse further weaken community participation; infrastructure costs are excessive, and non-technical users lack simple and easy-to-use node operation and maintenance methods; project teams struggle to verify real computing power, with Sybil attack risks remaining high. These pain points not only disrupt token distribution ecosystems—computing power providers are unverifiable, fake participants disrupt incentive pools, and there's a lack of third-party trust anchors—but also hinder the scaled implementation of DePIN. The opportunity is clear: building a standardized, automated, and composable DePIN infrastructure layer, along with verifiable contribution + fair consensus mechanisms, will activate the trillion-dollar idle computing power market. NodeX is using this as an entry point to reshape the rules of the computing power economy.
 
 ### **Our Solution**
 
-To address these pain points, we have launched four major products: Node Academy provides systematic consulting for the market; One-Click Deployment offers ultra-low-cost proxy services; NodeHub serves as a powerful control platform that enables developers and larger users to efficiently manage their devices and operational nodes; and NodePad curates high-quality projects, giving excellent project teams a platform to showcase their offerings.
+This narrative upgrade is not merely a change in slogans but a comprehensive evolution of products, ecosystem, and capital markets, directly addressing pain points and providing innovative solutions.
+
+**Product Level:**
+
+* Upgraded from a single hosting tool to a decentralized computing network supporting multiple types of computing power access.
+* The NodeHub platform enables one-click automated deployment, reducing operation and maintenance costs by over 50%, allowing non-technical users to easily connect.
+* The C2C computing power market and node computing power pool mechanism open monetization channels for 8 billion+ idle devices, supporting seamless on-chain integration.
+
+**Verification and Incentive Innovation:**
+
+* Addressing trust deficiency, NodeX introduces the ProofX verification mechanism to ensure the authenticity of computing power and device identity.
+* PoRW (Proof of Real Work) converts verification tasks into on-chain work proofs, supporting dynamic pricing and consensus voting to ensure fair incentives.
+* On-chain anchoring mechanisms audit contributions in real-time, avoiding "false prosperity" and reducing Sybil attack losses by 80%.
+
+**Ecosystem Level:**
+
+* Collaborating with projects like 0G to promote the integration of AI computing and Web3 infrastructure, accelerating edge computing adoption.
+
+**Capital Level:**
+
+* Launching seed round financing with plans to raise $10 million for core function iteration and market expansion, targeting the connection of 1 million+ devices within 12 months.
+
+In the future, NodeX will continue building a computing power social network, achieving fair pricing and efficient utilization of computing power, promoting economic democratization, and fostering global collaboration.
