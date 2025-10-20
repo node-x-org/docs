@@ -2,7 +2,7 @@
 
 * [About NodeX](README.md)
   * [Project Background](about-nodex/project-background.md)
-  * [Imagine](about-nodex/imagine.md)
+  * [Vision](about-nodex/vision.md)
   * [Road Map](about-nodex/road-map.md)
 * [Product Manual](product-manual/README.md)
   * [NodeX](product-manual/nodex.md)
