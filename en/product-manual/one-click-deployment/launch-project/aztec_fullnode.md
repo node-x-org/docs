@@ -14,13 +14,13 @@ description: Project official website:https://aztec.network/
 
 First, you need a Node-X account. If you don’t have one, please go to [the Node-X registration page](https://node-x.xyz/) to register. After registration, follow the steps below to purchase and upload resources to deploy the node. The following is the order placement process using the 0G Alignment Node as an example:
 
-<figure><img src="../../.gitbook/assets/E1.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/E1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/E2 (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/E2 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/E3 (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/E3 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/E4 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/E4 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 2.Fill in the parameters
 
@@ -35,11 +35,11 @@ You can obtain RPC endpoints for both the Sepolia Beacon chain and the Sepolia c
 
 After deploying the node and completing block synchronization, you need to register at [Aztec DC.](https://discord.com/invite/aztec) Once deployment is complete, we will provide you with the server IP where the node is deployed and coordinate the wallet address.
 
-<figure><img src="../../.gitbook/assets/new1.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/new1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Once inside Aztec's DC, find the [#upgrade-role ](https://discord.gg/aztec)channel. In this channel, you can enter /checkip, which will prompt you to input the relevant information. Fill it out and send.
 
-<figure><img src="../../.gitbook/assets/wechat_2025-10-09_120419_601.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wechat_2025-10-09_120419_601.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 3.Wait for service and check the official dashboard
 

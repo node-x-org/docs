@@ -12,13 +12,13 @@ description: Project official website:https://0g.ai/
 
 First, you need a Node-X account. If you don’t have one, please go to [the Node-X registration page](https://node-x.xyz/) to register. After registration, follow the steps below to purchase and upload resources to deploy the node. The ordering process is as follows:
 
-<figure><img src="../../.gitbook/assets/E1.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/E1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/E2 (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/E2 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/E3 (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/E3 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/E4 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/E4 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 2.Fill in the parameters
 
@@ -29,7 +29,7 @@ First, you need a Node-X account. If you don’t have one, please go to [the Nod
 * **Obtain the delegation address and delegate：**\
   After a successful order, a pop-up will appear with your node information, including the wallet address, TOKEN ID, and delegation address. Then, go to the official 0G website to delegate.
 
-<figure><img src="../../.gitbook/assets/E5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/E5.png" alt=""><figcaption></figcaption></figure>
 
 ### 3.Wait for service and check the official dashboard
 
@@ -40,7 +40,7 @@ After a successful purchase, Node-X will deploy the 0G Alignment node for you. T
 2. **After successful deployment, you can check the node status on the official website:**\
    [Go to the official website](https://claim.0gfoundation.ai/delegation) to check the node status. The node should be online as shown in the image below:
 
-<figure><img src="../../.gitbook/assets/we.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/we.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## **Conclusion**
 

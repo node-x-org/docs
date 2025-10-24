@@ -12,11 +12,11 @@ description: Project official website:https://hyper.space/
 
 First, you need a Node-X account. If you don’t have one, please go to [the Node-X registration page](https://node-x.xyz/) to register. After registration, follow the steps below to purchase and upload resources to deploy the node. The following is the order placement process using the 0G Alignment Node as an example:
 
-<figure><img src="../../.gitbook/assets/E1.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/E1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/E2 (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/E2 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/E3 (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/E3 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 2.Fill in the parameters
 
@@ -24,15 +24,15 @@ First, you need a Node-X account. If you don’t have one, please go to [the Nod
 
 [Click here](https://node.hyper.space/) to obtain your private key, then proceed to purchase and enter the key.
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214154342.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/微信截图_20250214154342.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214154423.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/微信截图_20250214154423.png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 2.View Node Information
 
 After entering your private key, we will deploy your node within 24 hours. Once deployment is successful, you can view node status.
 
-<figure><img src="../../.gitbook/assets/微信截图_20250214154452.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/微信截图_20250214154452.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 3.Wait for service and check the official dashboard
 
