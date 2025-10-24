@@ -4,7 +4,7 @@ description: 專案官網：https://pipe.network/
 
 # PIPE\_Mainnet
 
-<p align="right">English</p>
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/launch-project/pipe_mainnet">English</a></p>
 
 ## 如何通過 Node-X 平台部署  PIPE\_Mainnet 節點？
 
