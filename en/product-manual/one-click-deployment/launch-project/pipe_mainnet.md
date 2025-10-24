@@ -1,5 +1,6 @@
 ---
 description: Project official website:https://pipe.network/
+hidden: true
 ---
 
 # PIPE\_Mainnet
