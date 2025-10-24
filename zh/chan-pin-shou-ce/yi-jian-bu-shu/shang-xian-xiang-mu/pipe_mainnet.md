@@ -1,5 +1,6 @@
 ---
 description: 專案官網：https://pipe.network/
+hidden: true
 ---
 
 # PIPE\_Mainnet
