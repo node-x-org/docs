@@ -17,6 +17,7 @@
       * [NEXUS](product-manual/one-click-deployment/launch-project/nexus.md)
       * [Hyperspace](product-manual/one-click-deployment/launch-project/hyperspace.md)
       * [Arcium](product-manual/one-click-deployment/launch-project/arcium.md)
+      * [Dria](product-manual/one-click-deployment/launch-project/dria.md)
       * [PIPE\_Mainnet](product-manual/one-click-deployment/launch-project/pipe_mainnet.md)
       * [Aztec\_ProverNode](product-manual/one-click-deployment/launch-project/aztec_provernode.md)
       * [Aztec\_SequencerNode](product-manual/one-click-deployment/launch-project/aztec_sequencernode.md)
