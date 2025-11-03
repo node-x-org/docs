@@ -30,7 +30,7 @@ description: 專案官網：https://hyper.space/
 
 #### 3.導入秘鑰
 
-前往官網導入秘鑰，點擊鑰匙符號進入秘鑰導入，填入秘鑰點擊導入即可。
+前往官網導入秘鑰，點擊鑰匙符號進入秘鑰導入，填入秘鑰點擊導入即可。便於您查看節點運行積分。
 
 <figure><img src="../../../.gitbook/assets/wechat_2025-11-03_105739_266.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -38,10 +38,14 @@ description: 專案官網：https://hyper.space/
 
 #### 4.查看節點信息
 
-購買成功後，Node-X 將為你部署Hyperspace節點。通常情況下，這個過程會在24小時內完成。你可以透過以下方式即時查看節點狀態：\
-檢視節點狀態：\
-在 Node-X 平台的使用者面板中，你可以看到所有已購買的節點及其目前狀態。\
-由於只能在終端查看運行積分，若想查看運行節分，可以聯繫管理員
+購買成功後，Node-X 將為你部署Hyperspace節點。通常情況下，這個過程會在24小時內完成。你可以透過以下方式即時查看節點狀態：
+
+**檢視節點狀態：**\
+在 Node-X 平台的使用者面板中，你可以看到所有已購買的節點及其目前狀態。
+
+<figure><img src="../../../.gitbook/assets/wechat_2025-11-03_110749_292.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/wechat_2025-11-03_110839_835.png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 结语
 
