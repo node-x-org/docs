@@ -1,0 +1,49 @@
+---
+description: 專案官網：https://devnet.inference.net/
+---
+
+# Inference
+
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/launch-project/dria">English</a></p>
+
+## 如何通過 Node-X 平台部署  Inference 節點？
+
+#### 1. 獲取 Node-X 賬號及部署節點
+
+首先，你需要一個Node-X 賬號。如果你還沒有賬號，請前往 [Node-X 註冊頁面](https://node-x.xyz/)。註冊成功後，按照以下步驟購買並填寫資源信息部署節點,下面以0G Alignment node舉個例子：
+
+<figure><img src="../../../.gitbook/assets/C1.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/C2 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/C3 (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+#### 2.填寫參數
+
+* **上傳秘鑰**\
+  [前往官網註冊](https://devnet.inference.net/)，註冊成功後複製並填寫秘鑰即可，註冊時可能會報錯多嘗試幾次
+
+<figure><img src="../../../.gitbook/assets/wechat_2025-11-03_112752_651.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/wechat_2025-11-03_112827_132.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/wechat_2025-11-03_113204_029.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/wechat_2025-11-03_113230_998.png" alt="" width="563"><figcaption></figcaption></figure>
+
+#### 3. 等待服務與查看官方面板
+
+購買成功後，Node-X 將為你部署 inference 節點。通常情況下，這個過程會在24小時內完成。你可以透過以下方式即時查看節點狀態：
+
+1. 檢視節點狀態：\
+   在 Node-X 平台的使用者面板中，你可以看到所有已購買的節點及其目前狀態。
+2. 官網查看節點狀態\
+   在[官方面板](https://devnet.inference.net/dashboard/workers)查看節點實時運行狀態，節點積分：
+
+<figure><img src="../../../.gitbook/assets/微信图片_2025-11-03_115425_326.png" alt="" width="563"><figcaption></figcaption></figure>
+
+## **結語**
+
+透過 Node-X 平台部署 Inference 節點就是這麼簡單！希望這篇指南對你有幫助。
+
+如果你有任何問題或需要進一步的指導，歡迎留言或私訊我。加油！一起探索區塊鏈的世界吧！ 🚀
