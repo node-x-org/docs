@@ -30,7 +30,7 @@ description: 專案官網：https://hyper.space/
 
 #### 3.導入秘鑰
 
-前往官網導入秘鑰，點擊鑰匙符號進入秘鑰導入，填入秘鑰點擊導入即可。便於您查看節點運行積分。
+[前往官網](https://node.hyper.space/)導入秘鑰，點擊鑰匙符號進入秘鑰導入，填入秘鑰點擊導入即可。便於您查看節點運行積分。
 
 <figure><img src="../../../.gitbook/assets/wechat_2025-11-03_105739_266.png" alt="" width="563"><figcaption></figcaption></figure>
 
