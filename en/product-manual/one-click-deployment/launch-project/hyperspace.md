@@ -28,13 +28,23 @@ First, you need a Node-X account. If you don’t have one, please go to [the Nod
 
 <figure><img src="../../../.gitbook/assets/微信截图_20250214154423.png" alt="" width="563"><figcaption></figcaption></figure>
 
-#### 2.View Node Information
+#### 2.Import Secret Key
+
+[Go to the official website](https://node.hyper.space/) to import the secret key. Click on the key icon to enter the secret key import section, fill in the secret key, and click import. This will help you view the node's operation points.
+
+<figure><img src="../../../.gitbook/assets/wechat_2025-11-03_105739_266.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/wechat_2025-11-03_105904_747.png" alt="" width="563"><figcaption></figcaption></figure>
+
+#### 3.View Node Information
 
 After entering your private key, we will deploy your node within 24 hours. Once deployment is successful, you can view node status.
 
-<figure><img src="../../../.gitbook/assets/微信截图_20250214154452.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wechat_2025-11-03_110749_292.png" alt="" width="563"><figcaption></figcaption></figure>
 
-### 3.Wait for service and check the official dashboard
+<figure><img src="../../../.gitbook/assets/wechat_2025-11-03_110839_835.png" alt="" width="563"><figcaption></figcaption></figure>
+
+### 4.Wait for service and check the official dashboard
 
 After a successful purchase, Node-X will deploy the Hyperspace node for you. This process usually takes place within 24 hours. You can instantly check the node status via the following methods:
 
