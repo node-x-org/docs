@@ -4,7 +4,7 @@ description: 專案官網：https://devnet.inference.net/
 
 # Inference
 
-<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/launch-project/dria">English</a></p>
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/launch-project/inference">English</a></p>
 
 ## 如何通過 Node-X 平台部署  Inference 節點？
 
