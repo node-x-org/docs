@@ -33,6 +33,8 @@ First, you need a Node-X account. If you don’t have one, please go to [the Nod
 
 <figure><img src="../../../.gitbook/assets/wechat_2025-11-03_113230_998.png" alt="" width="563"><figcaption></figcaption></figure>
 
+Claim airdrop, [reference documentation](https://docs.devnet.inference.net/devnet-epoch-3/overview)。
+
 ### 3.Wait for service and check the official dashboard
 
 After a successful purchase, Node-X will deploy the inference node for you. Typically, this process will be completed within 24 hours. You can check the node status in real-time through the following methods:
