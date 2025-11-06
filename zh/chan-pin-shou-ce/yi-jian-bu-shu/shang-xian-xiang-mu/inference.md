@@ -31,6 +31,8 @@ description: 專案官網：https://devnet.inference.net/
 
 <figure><img src="../../../.gitbook/assets/wechat_2025-11-03_113230_998.png" alt="" width="563"><figcaption></figcaption></figure>
 
+領取空投，[參考文檔](https://docs.devnet.inference.net/devnet-epoch-3/overview)
+
 #### 3. 等待服務與查看官方面板
 
 購買成功後，Node-X 將為你部署 inference 節點。通常情況下，這個過程會在24小時內完成。你可以透過以下方式即時查看節點狀態：
