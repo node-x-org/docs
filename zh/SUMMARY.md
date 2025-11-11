@@ -98,7 +98,6 @@
       * [套餐：UNICHAIN+NILLION+ORA+HEMI+ELIXIR](chan-pin-shou-ce/yi-jian-bu-shu/shang-xian-xiang-mu/tao-can-unichain+nillion+ora+hemi+elixir.md)
   * [NodeHub](chan-pin-shou-ce/nodehub/README.md)
     * [路線圖](chan-pin-shou-ce/nodehub/lu-xian-tu.md)
-    * [積分計劃（暫停使用）](chan-pin-shou-ce/nodehub/ji-fen-ji-hua-zan-ting-shi-yong.md)
     * [積分計劃](chan-pin-shou-ce/nodehub/ji-fen-ji-hua.md)
     * [NodeHub 指令創作者指南](chan-pin-shou-ce/nodehub/nodehub-zhi-ling-chuang-zuo-zhe-zhi-nan.md)
     * [NodeHub 指令社群對接項目方指南](chan-pin-shou-ce/nodehub/nodehub-zhi-ling-she-qun-dui-jie-xiang-mu-fang-zhi-nan.md)
