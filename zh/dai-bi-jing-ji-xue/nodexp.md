@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # NodeXP
 
 <p align="right"><a href="https://docs.node-x.xyz/en/tokenomics/nodexp"><strong>English</strong></a></p>
