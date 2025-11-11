@@ -1,5 +1,7 @@
 # ProofX & PoRW
 
+<p align="right"><a href="https://docs.node-x.xyz/proofx-and-porw">中文</a></p>
+
 ### **1.**&#x42;ackground and Vision
 
 In an era where compute power becomes a global core resource, Node-X is dedicated to enabling every real device to securely on-chain and receive fair value rewards within a distributed network.
