@@ -114,6 +114,7 @@
     * [官方指令與社區指令簡介](chan-pin-shou-ce/nodehub/guan-fang-zhi-ling-yu-she-qu-zhi-ling-jian-jie.md)
     * [任務](chan-pin-shou-ce/nodehub/ren-wu.md)
     * [運算力提供者](chan-pin-shou-ce/nodehub/yun-suan-li-ti-gong-zhe.md)
+    * [积分计划（AP+RP）](chan-pin-shou-ce/nodehub/ji-fen-ji-hua-ap+rp.md)
   * [NodePad](chan-pin-shou-ce/nodepad.md)
   * [質押中心](chan-pin-shou-ce/zhi-ya-zhong-xin.md)
   * [RPC](chan-pin-shou-ce/rpc.md)

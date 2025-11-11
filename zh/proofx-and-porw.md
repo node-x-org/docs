@@ -25,9 +25,7 @@
 * **协调层 (Coordination Layer)**：调度任务与算力市场
 * **信任层 (Trust Layer)**：通过 **ProofX & PoRW** 验证设备与任务真实性
 * **金融层 (Financialization)**：将真实贡献映射为积分与代币权重\
-
-
-![](https://gsgkqdhyb0gt.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=MzdhZDg5MzQ5YzI2MGNjMjdjNmYzMmRkODI0N2FkYzVfbDQyNW1LV2N2QWNxYlY0bTBlMGJ2bHdOOTljbEM0SmZfVG9rZW46Vm9qUmJiRDBLb0I4TkN4bmtmMWxOU2kzZ1pjXzE3NjI4MzA3OTc6MTc2MjgzNDM5N19WNA)\
+  \
 
 
 ***
