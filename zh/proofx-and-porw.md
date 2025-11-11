@@ -1,5 +1,7 @@
 # ProofX & PoRW
 
+<p align="right"><a href="https://docs.node-x.xyz/en/proofx-and-porw">English</a></p>
+
 ### 1. 背景與願景
 
 \
