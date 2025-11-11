@@ -4,7 +4,7 @@
 
 ### **1.**&#x42;ackground and Vision
 
-In an era where compute power becomes a global core resource, Node-X is dedicated to enabling every real device to securely on-chain and receive fair value rewards within a distributed network.
+In an era where compute power becomes a global core resource, NodeX is dedicated to enabling every real device to securely on-chain and receive fair value rewards within a distributed network.
 
 However, existing Web3 node networks generally suffer from two major issues:
 
@@ -17,7 +17,7 @@ To address this, we designed a dual framework of **ProofX (Real Identity Verific
 
 ### 2.System Architecture Overview
 
-**ProofX** and **PoRW** are not isolated modules but the underlying trust components within Node-X’s three-layer architecture (Device Layer, Coordination Layer, Trust Layer):
+**ProofX** and **PoRW** are not isolated modules but the underlying trust components within NodeX’s three-layer architecture (Device Layer, Coordination Layer, Trust Layer):
 
 * **Device Layer**: Collects device fingerprints, performance benchmarks, and online behavior to generate a Machine Unique Identifier (MID)
 * **Coordination Layer**: Schedules tasks and compute market activities
