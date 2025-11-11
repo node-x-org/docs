@@ -15,8 +15,6 @@
 
 ***
 
-
-
 ### 2. 系统架构总览
 
 \
@@ -30,7 +28,6 @@
 
 
 ![](https://gsgkqdhyb0gt.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=MzdhZDg5MzQ5YzI2MGNjMjdjNmYzMmRkODI0N2FkYzVfbDQyNW1LV2N2QWNxYlY0bTBlMGJ2bHdOOTljbEM0SmZfVG9rZW46Vm9qUmJiRDBLb0I4TkN4bmtmMWxOU2kzZ1pjXzE3NjI4MzA3OTc6MTc2MjgzNDM5N19WNA)\
-\
 
 
 ***
@@ -66,12 +63,8 @@
 
 ***
 
-\
-
-
 ### 5. 双层协同机制：ProofX × PoRW
 
-\
 
 
 | 层级  | ProofX 验证   | PoRW 评估    | 联合作用   |
@@ -98,9 +91,6 @@
 
 
 ***
-
-\
-
 
 ### 7. 总结
 
