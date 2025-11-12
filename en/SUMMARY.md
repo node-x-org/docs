@@ -42,6 +42,7 @@
     * [X-Origin Genesis Badge](product-manual/nodehub/x-origin-genesis-badge.md)
     * [Become a Compute Provider](product-manual/nodehub/become-a-compute-provider.md)
     * [User Manual](product-manual/nodehub/user-manual.md)
+    * [Points Program (AP+RP)](product-manual/nodehub/points-program-ap+rp.md)
   * [NodePad](product-manual/nodepad.md)
   * [Staking Hub](product-manual/staking-hub.md)
   * [RPC](product-manual/rpc.md)
