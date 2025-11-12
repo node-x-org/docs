@@ -4,7 +4,7 @@ description: AP + RP 雙積分機制與 ProofX 冷/熱獎池調節系統
 
 # 積分計劃(AP+RP)
 
-<p align="right">English</p>
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/nodehub/points-program-ap+rp">English</a></p>
 
 #### 1. 設計初衷
 
