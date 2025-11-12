@@ -1,6 +1,5 @@
 ---
 description: AP + RP 雙積分機制與 ProofX 冷/熱獎池調節系統
-hidden: true
 ---
 
 # 積分計劃(AP+RP)
