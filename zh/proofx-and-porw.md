@@ -1,5 +1,7 @@
 # ProofX
 
+<p align="right"><a href="https://docs.node-x.xyz/en/proofx-and-porw">English</a></p>
+
 ### 1. 背景與願景
 
 在算力成為全球核心資源的時代，**NodeX** 致力於讓每一台真實設備都能安全上鏈，並在分佈式網路中獲得公平的價值回報。\
