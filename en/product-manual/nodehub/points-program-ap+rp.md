@@ -12,7 +12,7 @@ description: >-
 
 In the NodeX network, every device, every computing power unit, and every participant should receive **fair rewards** based on their **genuine contributions.**
 
-Therefore, we have established a complete incentive system consisting of **ProofX + PoRW + AP/RP**  adjustment,
+Therefore, we have established a complete incentive system consisting of **ProofX + PoRW + AP/RP** ,
 
 ensuring a closed loop of "real devices → real computing power → real returns".
 
