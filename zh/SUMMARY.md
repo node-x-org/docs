@@ -121,7 +121,7 @@
   * [活動](chan-pin-shou-ce/huo-dong.md)
   * [生態系統](chan-pin-shou-ce/sheng-tai-xi-tong.md)
   * [節點學院](chan-pin-shou-ce/jie-dian-xue-yuan.md)
-* [ProofX & PoRW](proofx-and-porw.md)
+* [ProofX](proofx.md)
 * [分銷計劃](fen-xiao-ji-hua.md)
 * [代幣經濟學](dai-bi-jing-ji-xue/README.md)
   * [NodeXP](dai-bi-jing-ji-xue/nodexp.md)
