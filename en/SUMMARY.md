@@ -47,7 +47,7 @@
   * [Staking Hub](product-manual/staking-hub.md)
   * [RPC](product-manual/rpc.md)
   * [Events](product-manual/events.md)
-* [ProofX & PoRW](proofx-and-porw.md)
+* [ProofX](proofx.md)
 * [Ecosystem](ecosystem.md)
 * [Node-X Distribution Plan](node-x-distribution-plan.md)
 * [Tokenomics](tokenomics/README.md)
