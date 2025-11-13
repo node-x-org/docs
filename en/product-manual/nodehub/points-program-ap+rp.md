@@ -12,7 +12,7 @@ description: >-
 
 In the NodeX network, every device, every computing power unit, and every participant should receive **fair rewards** based on their **genuine contributions.**
 
-Therefore, we have established a complete incentive system consisting of **ProofX + PoRW + AP/RP + cold/hot reward pool** adjustment,
+Therefore, we have established a complete incentive system consisting of **ProofX + PoRW + AP/RP**  adjustment,
 
 ensuring a closed loop of "real devices → real computing power → real returns".
 
@@ -92,31 +92,7 @@ All indicators are smoothed through EMA processing, and long-term stable nodes w
 
 ***
 
-### 6.Dynamic Adjustment Mechanism of Cold Pool and Hot Pool
-
-To maintain ecological balance and prevent computing power concentration, the system introduces **a cold/hot reward pool adjustment mechanism.**
-
-#### 6.1 Classification Logic
-
-* **Hot Pool:**\
-  Actual computing power contribution rate ≥ expected weight (active competition), eligible for additional rewards.\
-  Portion of undistributed rewards from the cold pool can be transferred to the hot pool, with a maximum overflow cap of 50% of the original pool.
-* **Cold Pool:**\
-  Actual computing power contribution rate < expected weight (insufficient participation),rewards are proportionally reduced, with the difference transferred to the hot pool.
-
-#### 6.2 Participation Logic of ProofX
-
-**ProofX** evaluates each node's authenticity score (R) in real-time,low R nodes (suspected false contributions) will be automatically assigned to the cold pool,high R nodes will receive priority rewards from the hot pool.
-
-Therefore, the cold/hot pool mechanism not only bases on computing power contribution but also combines device trustworthiness to form a **dual-dimensional dynamic balance**.
-
-#### 6.3 Results
-
-* Rewards automatically adjust according to real activity levels, controlling inflation;
-* Scarce and high-reputation computing power receives additional incentives;
-* The network maintains a fair and robust computing power distribution overall.
-
-### 7.Community Participation and AP Incentives
+### 6.Community Participation and AP Incentives
 
 AP (Action Points) primarily rewards the following ecosystem behaviors:
 
@@ -130,7 +106,7 @@ determining final token distribution weights, ensuring both computing power and 
 
 ***
 
-### 8.Points → Token Mapping Mechanism
+### 7.Points → Token Mapping Mechanism
 
 Points themselves do not possess monetary attributes,but can be mapped to token weights periodically through on-chain smart contracts.
 
@@ -143,17 +119,16 @@ Mapping Principles:
 
 ***
 
-### 9.Summary
+### 8.Summary
 
-| Model                    | Function                                    | Incentive Source                                  |
-| ------------------------ | ------------------------------------------- | ------------------------------------------------- |
-| ProofX                   | Verify device authenticity                  | Prevent Sybil attacks, establish trusted identity |
-| PoRW                     | Verify task authenticity and quality        | Dynamic points allocation                         |
-| RP Resource Points       | Incentivizing Real Device Participation     | ProofX Verification Passed + PoRW Calculation     |
-| AP Behavioral Model      | Incentivize genuine ecosystem participation | Node tasks, governance, interaction               |
-| Cold/Hot Pool Adjustment | Dynamically balance resource incentives     | Scarce computing power incentive bonus            |
-| Points→Token Mapping     | Build economic closed loop                  | Fair distribution of long-term contributions      |
+| Model                | Function                                    | Incentive Source                                  |
+| -------------------- | ------------------------------------------- | ------------------------------------------------- |
+| ProofX               | Verify device authenticity                  | Prevent Sybil attacks, establish trusted identity |
+| PoRW                 | Verify task authenticity and quality        | Dynamic points allocation                         |
+| RP Resource Points   | Incentivizing Real Device Participation     | ProofX Verification Passed + PoRW Calculation     |
+| AP Behavioral Model  | Incentivize genuine ecosystem participation | Node tasks, governance, interaction               |
+| Points→Token Mapping | Build economic closed loop                  | Fair distribution of long-term contributions      |
 
-Through **the ProofX + PoRW + AP + RP + Cold/Hot Reward Pool Adjustment Mechanism + Coin Mapping Mechanism,**&#x4E;odeX has achieved a complete trust closed loop from device verification to economic incentives:
+Through **the ProofX + PoRW + AP + RP  + Coin Mapping Mechanism,**&#x4E;odeX has achieved a complete trust closed loop from device verification to economic incentives:
 
 > “Make Any Device On-Chain, Make Compute Social.”
