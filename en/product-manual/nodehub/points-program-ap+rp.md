@@ -1,7 +1,5 @@
 ---
-description: >-
-  AP + RP Dual Points Mechanism and ProofX Cold/Hot Reward Pool Adjustment
-  System
+description: AP + RP Dual Points Mechanism and ProofX
 ---
 
 # Points Program (AP+RP)
@@ -12,9 +10,7 @@ description: >-
 
 In the NodeX network, every device, every computing power unit, and every participant should receive **fair rewards** based on their **genuine contributions.**
 
-Therefore, we have established a complete incentive system consisting of **ProofX + PoRW + AP/RP** ,
-
-ensuring a closed loop of "real devices → real computing power → real returns".
+Therefore, we have established a complete incentive system consisting of **ProofX + AP/RP** ,ensuring a closed loop of "real devices → real computing power → real returns".
 
 Core Philosophy:
 
@@ -43,7 +39,7 @@ Only verified devices are eligible to participate in RP/AP calculations and rewa
 
 | Points Type          | Full Name       | Source                                          | Core Function                                       |
 | -------------------- | --------------- | ----------------------------------------------- | --------------------------------------------------- |
-| RP (Resource Points) | Resource Points | Real computing power verified by ProofX + PoRW  | Measures device computing power contribution        |
+| RP (Resource Points) | Resource Points | Real computing power verified by ProofX         | Measures device computing power contribution        |
 | AP (Action Points)   | Action Points   | Node task execution and community participation | Measures participation level and ecosystem activity |
 
 RP represents computing power contribution, while AP represents ecosystem participation.
@@ -73,7 +69,7 @@ The reward pool adopts **a halving mechanism every six months (Halving),**&#x65;
 The daily effective points calculation for each node is as follows:
 
 ```
-Effective RP = PoRW Computing Power Weight × ProofX Reputation Coefficient × Reward Pool Distribution Ratio
+Effective RP = ProofX Reputation Coefficient × Reward Pool Distribution Ratio
 ```
 
 The **ProofX** reputation coefficient dynamically changes based on device historical verification records, computing power authenticity, and stability.
@@ -113,7 +109,7 @@ Points themselves do not possess monetary attributes,but can be mapped to token 
 Mapping Principles:
 
 * **Fairness:**&#x4D;apping ratio is proportional to comprehensive points;
-* **Verification Priority:**&#x4E;odes that haven't passed ProofX / PoRW are ineligible for mapping;
+* **Verification Priority:**&#x4E;odes that haven't passed ProofX are ineligible for mapping;
 * **Continuity:**&#x4C;ong-term active nodes receive decay protection;
 * **Anti-cheating:**&#x50;oints of risk-flagged nodes will be frozen.
 
@@ -124,11 +120,10 @@ Mapping Principles:
 | Model                | Function                                    | Incentive Source                                  |
 | -------------------- | ------------------------------------------- | ------------------------------------------------- |
 | ProofX               | Verify device authenticity                  | Prevent Sybil attacks, establish trusted identity |
-| PoRW                 | Verify task authenticity and quality        | Dynamic points allocation                         |
-| RP Resource Points   | Incentivizing Real Device Participation     | ProofX Verification Passed + PoRW Calculation     |
+| RP Resource Points   | Incentivizing Real Device Participation     | ProofX Verification Passed Calculation            |
 | AP Behavioral Model  | Incentivize genuine ecosystem participation | Node tasks, governance, interaction               |
 | Points→Token Mapping | Build economic closed loop                  | Fair distribution of long-term contributions      |
 
-Through **the ProofX + PoRW + AP + RP  + Coin Mapping Mechanism,**&#x4E;odeX has achieved a complete trust closed loop from device verification to economic incentives:
+Through **the ProofX + AP + RP  + Coin Mapping Mechanism,**&#x4E;odeX has achieved a complete trust closed loop from device verification to economic incentives:
 
 > “Make Any Device On-Chain, Make Compute Social.”
