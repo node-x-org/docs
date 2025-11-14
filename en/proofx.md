@@ -11,7 +11,7 @@ However, current Web3 node networks commonly face two major challenges:
 * **Proliferation of fake nodes (Sybil attacks)**: A single user can forge multiple identities and fabricate numerous nodes.
 * **Ineffective computing power receiving rewards:** Nodes cannot prove they genuinely execute tasks, leading to token economic inflation and trust collapse.
 
-To address this, NodeX proposes **ProofX (Authentic Identity Verification Mechanism)**, which reconstructs the authenticity verification system of distributed computing networks through a "device-centric, identity as trust anchor" approach, ensuring that every unit of computing power originates from independent and trustworthy physical devices.
+To address this, NodeX proposes **ProofX (Trusted identity and fundamental capability verification mechanism)**, which reconstructs the authenticity verification system of distributed computing networks through a "device-centric, identity as trust anchor" approach, ensuring that every unit of computing power originates from independent and trustworthy physical devices.
 
 ***
 
@@ -28,7 +28,7 @@ As the foundational trust core of NodeX's four-layer architecture, **ProofX** su
 
 ***
 
-### 3.ProofX: Authentic Identity Verification Mechanism
+### 3.ProofX: Trusted identity and fundamental capability verification mechanism
 
 #### 3.1 Core Objective
 
