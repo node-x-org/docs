@@ -20,7 +20,7 @@ Core Philosophy:
 
 ### 2.ProofX: Trusted Device Verification Layer
 
-ProofX is NodeX's **trusted computing verification protocol**, designed to ensure all nodes are real devices,preventing impersonation, device reuse, identity forgery, and other **Sybil attacks.**
+ProofX is NodeX's Trusted identity and fundamental capability verification mechanism, designed to ensure all nodes are real devices,preventing impersonation, device reuse, identity forgery, and other **Sybil attacks.**
 
 **ProofX** verification includes:
 
