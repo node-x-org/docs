@@ -19,6 +19,7 @@
       * [Arcium](product-manual/one-click-deployment/launch-project/arcium.md)
       * [Dria](product-manual/one-click-deployment/launch-project/dria.md)
       * [Inference](product-manual/one-click-deployment/launch-project/inference.md)
+      * [Stable](product-manual/one-click-deployment/launch-project/stable.md)
       * [PIPE\_Mainnet](product-manual/one-click-deployment/launch-project/pipe_mainnet.md)
       * [Aztec\_ProverNode](product-manual/one-click-deployment/launch-project/aztec_provernode.md)
       * [Aztec\_SequencerNode](product-manual/one-click-deployment/launch-project/aztec_sequencernode.md)
