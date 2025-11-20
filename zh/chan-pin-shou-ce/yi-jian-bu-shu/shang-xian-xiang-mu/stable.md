@@ -4,9 +4,11 @@ description: 專案官網：https://www.stable.xyz/
 
 # Stable
 
-<p align="right">English</p>
+<p align="right"><a href="https://docs.node-x.xyz/en/product-manual/one-click-deployment/launch-project/stable">English</a></p>
 
 ## 如何通過 Node-X 平台部署  Stable 全節點？
+
+<mark style="color:red;">注意：stable 官方未對該節點做出激勵規則，請自行判斷。</mark>
 
 #### 1. 獲取 Node-X 賬號及部署節點
 
