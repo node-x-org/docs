@@ -77,6 +77,7 @@
       * [Hyperspace](chan-pin-shou-ce/yi-jian-bu-shu/shang-xian-xiang-mu/hyperspace.md)
       * [Arcium](chan-pin-shou-ce/yi-jian-bu-shu/shang-xian-xiang-mu/arcium.md)
       * [Dria](chan-pin-shou-ce/yi-jian-bu-shu/shang-xian-xiang-mu/dria.md)
+      * [Stable](chan-pin-shou-ce/yi-jian-bu-shu/shang-xian-xiang-mu/stable.md)
       * [Inference](chan-pin-shou-ce/yi-jian-bu-shu/shang-xian-xiang-mu/inference.md)
       * [PIPE\_Mainnet](chan-pin-shou-ce/yi-jian-bu-shu/shang-xian-xiang-mu/pipe_mainnet.md)
       * [Aztec\_证明器节点](chan-pin-shou-ce/yi-jian-bu-shu/shang-xian-xiang-mu/aztec-zheng-ming-qi-jie-dian.md)
