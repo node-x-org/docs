@@ -10,8 +10,7 @@ description: 项目官网:https://0g.ai/
 
 #### 1. 獲取Node-X賬號以及部署節點
 
-首先，你需要一個 Node-X 賬號。如果你還沒有賬號，請前往 [Node-X註冊頁面](https://node-x.xyz/) 註冊。註冊成功後，按照以下步驟購買並上傳資源部署節點,下面是下單流程：\
-
+首先，你需要一個 Node-X 賬號。如果你還沒有賬號，請前往 [Node-X註冊頁面](https://node-x.xyz/) 註冊。註冊成功後，按照以下步驟購買並上傳資源部署節點,下面是下單流程：<br>
 
 <figure><img src="../../../.gitbook/assets/C1.png" alt="" width="563"><figcaption></figcaption></figure>
 

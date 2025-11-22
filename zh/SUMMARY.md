@@ -100,6 +100,7 @@
   * [NodeHub](chan-pin-shou-ce/nodehub/README.md)
     * [路線圖](chan-pin-shou-ce/nodehub/lu-xian-tu.md)
     * [積分計劃](chan-pin-shou-ce/nodehub/ji-fen-ji-hua.md)
+    * [NodeHub 四要素說明](chan-pin-shou-ce/nodehub/nodehub-si-yao-su-shuo-ming.md)
     * [NodeHub 指令創作者指南](chan-pin-shou-ce/nodehub/nodehub-zhi-ling-chuang-zuo-zhe-zhi-nan.md)
     * [NodeHub 指令社群對接項目方指南](chan-pin-shou-ce/nodehub/nodehub-zhi-ling-she-qun-dui-jie-xiang-mu-fang-zhi-nan.md)
     * [操作手册](chan-pin-shou-ce/nodehub/cao-zuo-shou-ce.md)
