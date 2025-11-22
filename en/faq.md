@@ -27,8 +27,7 @@ Here’s the translation of your FAQs for Node-X into English:
     You need to prepare computing resources and network environment that meet the project requirements (such as CPU/GPU, memory, storage, and network bandwidth).
 10. **How can I check the node's operational status?**\
     NodeHub provides real-time logs and a monitoring dashboard, allowing you to check whether your node is executing tasks properly and whether there are any errors or anomalies.
-11. **Why choose Node-X?**\
-
+11. **Why choose Node-X?**<br>
     * User-Friendly, No Technical Background Required\
       Node-X offers a fully managed solution, including NaaS (Node-as-a-Service), enabling users without technical skills to easily deploy and manage blockchain nodes.
     * Decentralized Computing Network\

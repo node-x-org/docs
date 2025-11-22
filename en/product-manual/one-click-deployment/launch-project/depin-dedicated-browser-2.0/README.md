@@ -19,8 +19,7 @@ Node-X’s DePIN Dedicated Browser 2.0 supports simultaneous operation of the fo
 
 5.**Convenience**:Simply log in to the dedicated browser URL. Pre-installed plugins for various DePIN projects make operations easier.
 
-This browser offers a brand-new DePIN project management experience and is the best solution for DePIN node hosting.\
-
+This browser offers a brand-new DePIN project management experience and is the best solution for DePIN node hosting.<br>
 
 ### 2.Disclaimer：
 

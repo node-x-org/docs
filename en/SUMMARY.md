@@ -31,6 +31,7 @@
   * [Node Academy](product-manual/node-academy.md)
   * [NodeHub](product-manual/nodehub/README.md)
     * [RoadMap](product-manual/nodehub/roadmap.md)
+    * [NodeHub: The Four-Core Elements](product-manual/nodehub/nodehub-the-four-core-elements.md)
     * [Rewards Program](product-manual/nodehub/rewards-program.md)
     * [NodeHub Creator Command Guide](product-manual/nodehub/nodehub-creator-command-guide.md)
     * [NodeHub Command Community Integration Guide for Project Teams](product-manual/nodehub/nodehub-command-community-integration-guide-for-project-teams.md)
