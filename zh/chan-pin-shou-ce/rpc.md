@@ -10,7 +10,7 @@ description: API 調用說明文件 (RPC 代理服務)
 
 ### 🎯 概述
 
-本 API 介面用於代理對特定 RPC (Remote Procedure Call，遠端程序調用) 服務的調用。
+本 API 介面用於代理對特定 RPC 服務的調用。
 
 ### 🚀 詳情
 
