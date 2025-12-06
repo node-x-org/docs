@@ -12,12 +12,12 @@ NodeX 正在構建機器經濟的「信任與執行層」，\
 
 &#x20;系統層級
 
-| 層級Layer          | 功能定義Function Definition                                                          | 對應模組Corresponding Module |
-| ---------------- | -------------------------------------------------------------------------------- | ------------------------ |
-| Compute Layer    | <p>真實算力節點（CPU / GPU / Edge）<br>Real Compute Nodes</p>                            | NodeHub                  |
-| Trust Layer      | <p>身份驗證 + 工作證明</p><p>Identity Verification + Proof of Work</p>                   | ProofX + PoRW            |
-| Payment Layer    | <p>智能體支付協議<br>Agent Payment Protocol</p>                                         | x402                     |
-| Settlement Layer | <p>多方結算 / 記帳分潤<br>Multi-party Settlement / Accounting &#x26; Revenue Sharing</p> | x403                     |
+| 層級               | 功能定義                                | 對應模組          |
+| ---------------- | ----------------------------------- | ------------- |
+| Compute Layer    | <p>真實算力節點（CPU / GPU / Edge）<br></p> | NodeHub       |
+| Trust Layer      | <p>身份驗證 + 工作證明</p><p></p>           | ProofX + PoRW |
+| Payment Layer    | <p>智能體支付協議<br></p>                  | x402          |
+| Settlement Layer | <p>多方結算 / 記帳分潤<br></p>              | x403          |
 
 Flow:
 
