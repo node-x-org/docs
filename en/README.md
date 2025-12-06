@@ -2,59 +2,201 @@
 
 <p align="right"><a href="https://docs.node-x.xyz/">中文</a></p>
 
-## NodeX: Make Any Device On-Chain, Make Compute Social
+**Summary:** NodeX turns global devices into a verifiable, AI-callable execution layer — the AI Body.NodeX is a global decentralized compute network that virtualizes servers, PCs, GPUs, mobile phones, IoT devices, and edge hardware into a unified, **verifiable Real-World Execution Layer callable by AI**.The core mission of NodeX is to build a new form of infrastructure for AI:
 
-NodeX Labs, Inc. is a Web3 infrastructure innovation platform driven by the vision of "Make Any Device On-Chain, Make Compute Social." Through the deep integration of NaaS & NodeHub, DePIN, and AI computing power economy, it provides a one-stop solution for node deployment, computing power management, and monitoring. Leveraging AI algorithms for optimized scheduling, ProofX verification mechanisms, C2C trading markets, and node computing power pools, the platform is accelerating the on-chain integration of all things and the socialization of computing power, becoming a core gateway in the era of Web3 and AI convergence.
+#### **the AI Body — a distributed execution system enabling AI to perform tasks, allocate resources, and take real actions.**
 
-
-
-## NodeX primarily includes the following core products and services:
+Cloud gives AI a superhuman brain. **NodeX gives AI a coordinated distributed body.**&#x54;hrough verifiable computation, capability abstraction, machine identity, and a global device marketplace, AI agents can safely and reliably access real device capabilities beyond the limits of cloud-only inference.
 
 ***
 
-#### • **NodeHub**(Decentralized Computing Power Coordination Platform)
+## **1. Why NodeX (and Why AI Needs a Body)**
 
-NodeHub is NodeX's infrastructure platform that connects idle computing resources worldwide to build an open and transparent decentralized computing power network.
+**Summary:** Modern AI has intelligence but lacks real-world action capabilities; NodeX fills this gap.Modern AI systems (LLMs, SLMs, Agents) demonstrate exceptional cognition but lack fundamental abilities:
 
-It supports users in connecting devices across platforms, batch deployment and management of blockchain nodes and automated scripts, building a unified computing power collaboration network. NodeHub also encourages creators to publish commands, driving the script economy and community co-construction.
+* cannot autonomously operate real devices
+* cannot access cameras, sensors, or edge nodes
+* cannot execute tasks on user-side machines
+* cannot verify whether external nodes performed real work
+* cannot access real-world I/O channels
+* cannot affect environments like true autonomous systems
 
-**Core Capabilities:**
+In short:
 
-* **Device Management and Verification**\
-  Users connect devices through the client, and the system generates a unique device ID based on machine code. Periodic benchmark testing verifies the device's real computing power to prevent cheating behavior.
-* **Community Command Marketplace**\
-  Project teams and creators can publish deployment commands, allowing ordinary users to participate in Web3 projects with one-click execution. The client automatically completes deployment and continuously reports work logs.
-* **Multi-device Collaboration**\
-  Supports cross-platform management of multiple devices (PCs, servers, VPS, etc.), batch deployment and task execution.
-* **Computing Power Market**\
-  Integrates resources from Tencent Cloud, Alibaba Cloud, and multiple IDC GPU data centers to build a B2C computing market. Verified devices can set their own prices independently, and users freely choose computing power resources based on performance, reliability, and cost.
+> **AI has intelligence, but no ability to act.**
 
-***
+DeepMind’s _Virtual Agent Economies (VAE)_ states:
 
-#### • **NaaS (Node-as-a-Service)**
+> _Agent economies cannot exist unless AI can interact with a trustworthy real-world execution layer._
 
-NaaS provides one-click node deployment solutions, enabling users to easily participate in Web3 networks.
+NodeX provides this missing layer —
 
-**Core Services:**
+#### **the AI Body Layer**,
 
-* **One-click Deployment Service**\
-  Technical automation deployment allows non-technical users to quickly launch nodes.
-* **Node Academy**\
-  Has integrated multiple Web3 projects (including 0G, Boundless, NEXUS, Story, etc.), continuously providing node opportunities for users.
-* **Business Synergy**\
-  Achieves optimized resource utilization through NaaS & NodeHub collaborative cooperation. NodeHub will build B2C and C2C computing power markets, where NaaS can invoke computing power resources from this market for order deployment and use NodeHub's commands to complete order processing. In this process, NaaS acts as a user of NodeHub, able to directly publish computing tasks for Web3 and AI projects in the project-driven task market, further promoting a closed loop of the internal computing economy.
+built from global devices that are callable, verifiable, priced, and manageable.
 
 ***
 
-#### • **PoRW Chain**
+## **2. How NodeX Builds the AI Body**
 
-Based on an EMA dynamic scoring model, comprehensively evaluating hardware performance, uptime, task completion rate, and execution efficiency. Converts real computing contributions into verifiable on-chain reputation, ensuring only verified real work receives rewards.
+**Summary:** The AI Body is a multi-layer system combining devices, capabilities, execution, and verification.The AI Body is not a robot or a single device.It is a complete distributed system:
+
+#### **AI Body = Devices + Capabilities + Execution + Verification**
+
+NodeX supports all four pillars.
 
 ***
 
-#### **NodeX Vision**
+## **2.1 Device Layer**
 
-NodeX builds an open and transparent decentralized computing power ecosystem through its two core products: NodeHub and NaaS.
+**Summary:** Any device can join and provide physical resources to AI.Devices that can join NodeX:
+
+* servers
+* personal PCs
+* GPUs
+* smartphones
+* IoT devices
+* home NAS
+* cameras
+* edge compute nodes
+
+These devices form **AI’s muscles and organs**.
+
+***
+
+## &#x20;**2.2 Capability Layer**
+
+**Summary:** Devices expose standardized abilities to AI.Each device registers its abilities into the **NodeX Capability Registry**, such as:
+
+* `compute.run`
+* `shell.exec`
+* `camera.capture`
+* `sensor.read`
+* `model.inference`
+* `storage.write`
+
+These collectively serve as **AI’s hands, eyes, and nervous system**.
+
+***
+
+## **2.3 Execution Layer**
+
+**Summary:** NodeX provides a unified interface for AI to execute tasks across global devices.Unified API:
+
+```
+POST /v1/jobs {
+  capability,
+  input,
+  selector
+}
+```
+
+AI agents and developers can execute tasks on global devices through this interface.This forms **AI’s action system**.
+
+***
+
+## **2.4 Verification Layer**
+
+**Summary:** AI must trust devices before using them; NodeX provides the trust framework.NodeX ensures device trustworthiness:
+
+* **ProofX** — authenticity & baseline capability
+* **PoRW** — proof of real work
+* **RP/AP** — reputation scoring
+* **MID** — persistent machine identity
+
+This is **AI’s immune and safety system**.
+
+***
+
+## **3. Why the AI Body Matters**
+
+**Summary:** Autonomous AI systems require a real execution substrate to perceive, act, and cooperate.AI is moving toward becoming **Autonomous Systems**, requiring:
+
+* perception
+* execution
+* feedback
+* coordination
+* trust
+* auditability
+
+All of this depends on having a **distributed physical-digital body**.NodeX solves the key limitations identified in VAE:
+
+| VAE Challenge             | NodeX (AI Body) Solution |
+| ------------------------- | ------------------------ |
+| AI cannot act             | Global capabilities      |
+| No verifiable execution   | PoRW + ProofX            |
+| No machine identity       | MID + RP/AP              |
+| No trusted compute market | C2C marketplace          |
+| Cloud cannot scale        | Global device network    |
+
+AI is trained in the cloud.&#x20;
+
+**AI acts through NodeX.**
+
+## **4. The NodeX AI Body Stack (6-Layer Architecture)**
+
+**Summary:** NodeX is a composable distributed execution network for AI.NodeX forms a distributed **AI Body Protocol Stack**:
+
+1. **Device Layer**
+2. **Capability Layer**
+3. **Trust Layer**
+4. **Execution Layer**
+5. **Settlement Layer**
+6. **Application Layer**
+
+NodeX is not a single tool —it is a modular, programmable execution network for the AI era.
+
+***
+
+## **5. NodeX Products That Power the AI Body**
+
+**Summary:** NodeHub, TaskPad, and the C2C marketplace form the operational backbone of the AI Body.
+
+#### **NodeHub**
+
+Entry point of the AI Body: device onboarding, capability mapping, verification, scheduling, telemetry.
+
+#### **TaskPad**
+
+Task and script ecosystem: community-contributed “action modules” that AI can execute through devices.
+
+#### **C2C Marketplace**
+
+The economic system of the AI Body: verifiable, priced device capabilities for agents and developers.
+
+***
+
+## 6. NodeX Value Proposition
+
+(AI Body = Next-Generation Infrastructure)\*\* **Summary:** NodeX unlocks real-world action for AI, sustainable income for devices, and verifiable outputs for projects.\*\*NodeX addresses the most critical gaps of future AI systems:
+
+* AI is no longer limited to cloud inference
+* AI can take real-world actions for the first time
+* AI can call real devices and pay for capabilities
+* Devices earn income for contributing real work
+* Projects/agents receive verifiable execution results
+
+NodeX enables:
+
+#### **A global network of devices functioning as the AI Body — coordinated, verifiable, and programmable.**
+
+***
+
+## **7. Vision**
+
+**Summary:** NodeX aims to become the global execution layer of the AI agent economy.NodeX’s long-term vision:
+
+* build a global execution layer for AI (AI Body Layer)
+* create a sustainable income layer for devices (Machine Income Layer)
+* provide trusted infrastructure for the AI agent economy
+* establish an open, transparent, verifiable compute & capability market
+* scale AI from cloud intelligence to real-world action
+
+The future of AI requires more than computation —
+
+#### **it requires a trustworthy, secure, and scalable body.**
+
+NodeX is building that body.
 
 ***
 
