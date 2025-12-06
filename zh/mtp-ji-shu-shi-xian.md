@@ -18,7 +18,6 @@ NodeX 正在構建機器經濟的「信任與執行層」，\
 | Trust Layer      | <p>身份驗證 + 工作證明</p><p>Identity Verification + Proof of Work</p>                   | ProofX + PoRW            |
 | Payment Layer    | <p>智能體支付協議<br>Agent Payment Protocol</p>                                         | x402                     |
 | Settlement Layer | <p>多方結算 / 記帳分潤<br>Multi-party Settlement / Accounting &#x26; Revenue Sharing</p> | x403                     |
-|                  |                                                                                  |                          |
 
 Flow:
 
@@ -218,21 +217,21 @@ tx_hash = client.submit_proof(proof)
 
 ## **11.** 當前開發路線圖
 
-| 階段Stage | 時間Time   | 模組Module                                                         | 輸出Output                              |
-| ------- | -------- | ---------------------------------------------------------------- | ------------------------------------- |
-| P1      | Week 1–2 | ProofX ↔ Invoice 映射規則ProofX ↔ Invoice Mapping Rules              | schema.json                           |
-| P2      | Week 3   | MTP Registry + x402 Bridge 合約MTP Registry + x402 Bridge Contract | <p>Solidity 模組<br>Solidity Module</p> |
-| P3      | Week 4   | Relay Billing API聯調 Relay Billing API Integration                | <p>REST 介面<br>REST API</p>            |
-| P4      | Week 5   | 与 X Layer 聯測 Joint Testing with X Layer                          | 測試報告 Test Report                      |
-| P5      | Week 6   | NodeHub v3.3 Beta 上線NodeHub v3.3 Beta Launch                     | Beta發佈說明 Beta Release Notes           |
+| 階段 | 時間       | 模組                                | 輸出                     |
+| -- | -------- | --------------------------------- | ---------------------- |
+| P1 | Week 1–2 | ProofX ↔ Invoice 映射規則             | schema.json            |
+| P2 | Week 3   | MTP Registry + x402 Bridge 合約MTP  | <p>Solidity 模組<br></p> |
+| P3 | Week 4   | Relay Billing API聯調               | <p>REST 介面<br></p>     |
+| P4 | Week 5   | 与 X Layer 聯測 Joint                | 測試報告 T                 |
+| P5 | Week 6   | NodeHub v3.3 Beta 上線              | Beta發佈說明               |
 
 ## **12. 生態項目集成模板**
 
-| 項目Project | 角色Role              | 集成價值Integration Value                                                      |
-| --------- | ------------------- | -------------------------------------------------------------------------- |
-| 0G        | AI Alignment Nodes  | <p>可信算力日誌與支付自動觸發<br>Trusted Compute Logging and Auto-Triggered Payment</p> |
-| Boundless | GPU Mining Pools    | <p>防作弊 + 可驗證收益分配<br>Anti-Cheat + Verifiable Revenue Distribution</p>       |
-| Nexus     | Global Compute Grid | <p>MTP 驗證作為全球信任地圖<br>MTP Verification as the Global Trust Map</p>          |
+| 項目        | 角色                  | 集成價值                          |
+| --------- | ------------------- | ----------------------------- |
+| 0G        | AI Alignment Nodes  | <p>可信算力日誌與支付自動觸發<br></p>      |
+| Boundless | GPU Mining Pools    | <p>防作弊 + 可驗證收益分配<br></p>      |
+| Nexus     | Global Compute Grid | <p>MTP 驗證作為全球信任地圖<br>MTP </p> |
 
 合作方集成步驟
 
