@@ -1,6 +1,8 @@
 # The Secret NodeX Master Plan (Part 1)
 
-_(just between you and me)_ **Ken Zhou — November 2025**
+_(just between you and me)_&#x20;
+
+**Ken Zhou — November 2025**
 
 ***
 
