@@ -125,6 +125,7 @@
   * [節點學院](chan-pin-shou-ce/jie-dian-xue-yuan.md)
 * [ProofX](proofx-and-porw.md)
 * [《 NodeX秘密宏圖 》](nodex-mi-mi-hong-tu.md)
+* [MTP 技術實現](mtp-ji-shu-shi-xian.md)
 * [分銷計劃](fen-xiao-ji-hua.md)
 * [代幣經濟學](dai-bi-jing-ji-xue/README.md)
   * [NodeXP](dai-bi-jing-ji-xue/nodexp.md)
