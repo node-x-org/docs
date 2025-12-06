@@ -2,7 +2,7 @@
 
 <p align="right"><a href="https://docs.node-x.xyz/guan-wu-nodex/xiang-mu-bei-jing">中文</a></p>
 
-<p align="right">Modern AI systems are evolving into autonomous agents, but the technical substrate required for <strong>real-world execution, verification, and coordination</strong> does not exist.DeepMind’s <em>Virtual Agent Economies (VAE)</em> identifies three structural gaps:</p>
+Modern AI systems are evolving into autonomous agents, but the technical substrate required for **real-world execution, verification, and coordination** does not exist.DeepMind’s _Virtual Agent Economies (VAE)_ identifies three structural gaps:
 
 1. **No trusted device identity** AI cannot authenticate external machines or reason about their reliability.
 2. **No verifiable execution layer** There is no mechanism to prove that remote compute or actions were actually performed.
