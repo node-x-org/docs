@@ -6,15 +6,15 @@ description: API Call Documentation (RPC Proxy Service)
 
 <p align="right"><a href="https://docs.node-x.xyz/chan-pin-shou-ce/rpc">中文</a></p>
 
-## 💻 API Call Documentation (RPC Proxy Service)
+## &#x20;API Call Documentation (RPC Proxy Service)
 
-### 🎯 Interface Overview
+### &#x20;Interface Overview
 
 This API interface is used to proxy calls to a specific Remote Procedure Call (RPC) service.
 
 > **Note:** This interface is only accessible after the service has been purchased and payment has been initiated.
 
-### 🚀 Interface Details
+### &#x20;Interface Details
 
 | Attribute        | Value          |
 | ---------------- | -------------- |
@@ -29,7 +29,7 @@ This API interface is used to proxy calls to a specific Remote Procedure Call (R
 
 ***
 
-### 🔑 Header Parameters (Authentication)
+### &#x20;Header Parameters (Authentication)
 
 | Header Name         | Type     | Description                                                                                                                                                                                  |
 | ------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -37,7 +37,7 @@ This API interface is used to proxy calls to a specific Remote Procedure Call (R
 
 ***
 
-### 📄 Request Body (`rawBody`)
+### Request Body (`rawBody`)
 
 | Parameter     | Type     | Description                                                                                                                                                      |
 | ------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
