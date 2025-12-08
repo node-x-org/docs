@@ -99,7 +99,7 @@ Outcome: AI becomes _autonomous actors_ in the real world. └──────
 ```
    TRUST           EXECUTION            ECONOMY           AUTONOMY
    (10k)            (100k)              (1M−)             (1M+)     
- ───────── → ─────────────── → ─────────────── → ───────────────  
+ ───────── →  ─────────────── →    ─────────────── →   ─────────────── 
 ```
 
 Verified Distributed Machine Income Autonomous Device Pool Execution & Reward Layer AI Execution
