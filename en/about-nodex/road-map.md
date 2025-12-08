@@ -2,84 +2,99 @@
 
 <p align="right"><a href="https://docs.node-x.xyz/guan-wu-nodex/lu-xian-tu">中文</a></p>
 
+<p align="right"></p>
+
+┌──────────────────────────────────────────────────────────────┐ │               1                                                                NodeX Roadmap&#x20;
+
+&#x20;                                                     AI Body Layer · Masterplan  └──────────────────────────────────────────────────────────────┘
+
 ```
-┌──────────────────────────────────────────────────────────────┐
-│                       NodeX Roadmap                          │
-│                AI Body Layer · Masterplan                    │
-└──────────────────────────────────────────────────────────────┘
-
-
-                [ Phase 1 ]                     (10,000 devices)
-┌──────────────────────────────────────────────────────────────┐
-│                    TRUST LAYER                               │
-│         Verified Device Network / Proof of Reality            │
-│                                                              │
-│   • ProofX — Device authenticity & capability baseline       │
-│   • PoRW — Proof of Real Work                                │
-│   • Capability Registry v1                                   │
-│   • Stable NodeHub onboarding                                │
-│                                                              │
-│   Outcome: Devices become *trustable, verifiable, callable*. │
-└──────────────────────────────────────────────────────────────┘
-
-
-                [ Phase 2 ]                    (100,000 devices)
-┌──────────────────────────────────────────────────────────────┐
-│                 EXECUTION LAYER                               │
-│        Distributed Task Routing & Real-World Actions          │
-│                                                              │
-│   • Global scheduling & routing                              │
-│   • Machine ID (MID) & reputation                            │
-│   • C2C compute & capability marketplace                     │
-│   • AI Agent API — AI can call real devices                  │
-│                                                              │
-│   Outcome: AI gains *action capability in the real world*.   │
-└──────────────────────────────────────────────────────────────┘
-
-
-                [ Phase 3 ]                        (Scale to millions)
-┌──────────────────────────────────────────────────────────────┐
-│                 ECONOMY LAYER                                 │
-│              Sustainable Machine Income                       │
-│                                                              │
-│   • Machine Income Layer (MIL)                               │
-│   • Dynamic resource pricing                                 │
-│   • High-value workloads (AI inference, edge processing)     │
-│   • Devices become yield-generating digital assets           │
-│                                                              │
-│   Outcome: A sustainable *Machine Economy* emerges.          │
-└──────────────────────────────────────────────────────────────┘
-
-
-                [ Phase 4 ]                     (1,000,000+ devices)
-┌──────────────────────────────────────────────────────────────┐
-│                AUTONOMY LAYER                                 │
-│          Autonomous Global Execution Network                  │
-│                                                              │
-│   • Full AI Body Stack (Perception → Execution → Settlement) │
-│   • Global Reputation Graph                                  │
-│   • Autonomous agents orchestrate devices                    │
-│   • M2M collaboration & payments                             │
-│   • Real-World OS vision                                     │
-│                                                              │
-│   Outcome: AI becomes *autonomous actors* in the real world. │
-└──────────────────────────────────────────────────────────────┘
-
-
-
-                 NodeX Growth Curve (Wireframe)
-────────────────────────────────────────────────────────────────
-
-       TRUST           EXECUTION            ECONOMY           AUTONOMY
-       (10k)            (100k)              (1M−)             (1M+)     
-     ───────── → ─────────────── → ─────────────── → ───────────────  
-
-   Verified        Distributed         Machine Income       Autonomous
-   Device Pool     Execution           & Reward Layer       AI Execution
-
-
-────────────────────────────────────────────────────────────────
-  NodeX builds the AI Body Layer:  
-  from *verifiable devices* → *distributed execution* → *machine economy* → *autonomous agent infrastructure*.
-────────────────────────────────────────────────────────────────
+            [ Phase 1 ]                     (10,000 devices)
 ```
+
+┌──────────────────────────────────────────────────────────────┐ │          1                                                                TRUST LAYER &#x20;
+
+&#x20;                                              Verified Device Network / Proof of Reality&#x20;
+
+• ProofX — Device authenticity & capability baseline
+
+&#x20;• PoRW — Proof of Real Work&#x20;
+
+&#x20;• Capability Registry v1&#x20;
+
+• Stable NodeHub onboarding   &#x20;
+
+&#x20;  Outcome: Devices become _trustable, verifiable, callable_. │ └──────────────────────────────────────────────────────────────┘
+
+```
+            [ Phase 2 ]                    (100,000 devices)
+```
+
+┌──────────────────────────────────────────────────────────────┐            1                                                                   EXECUTION LAYER&#x20;
+
+&#x20;                                               Distributed Task Routing & Real-World Actions&#x20;
+
+• Global scheduling & routing&#x20;
+
+• Machine ID (MID) & reputation&#x20;
+
+&#x20;• C2C compute & capability marketplace&#x20;
+
+• AI Agent API — AI can call real devices&#x20;
+
+&#x20;Outcome: AI gains _action capability in the real world_. └──────────────────────────────────────────────────────────────┘
+
+```
+            [ Phase 3 ]                        (Scale to millions)
+```
+
+┌──────────────────────────────────────────────────────────────┐ │ 1       1                                                                        ECONOMY LAYER │ │&#x20;
+
+&#x20;                                                                  Sustainable Machine Income&#x20;
+
+• Machine Income Layer (MIL)
+
+• Dynamic resource pricing&#x20;
+
+• High-value workloads (AI inference, edge processing)
+
+• Devices become yield-generating digital assets&#x20;
+
+Outcome: A sustainable _Machine Economy_ emerges. └──────────────────────────────────────────────────────────────┘
+
+```
+            [ Phase 4 ]                     (1,000,000+ devices)
+```
+
+┌──────────────────────────────────────────────────────────────┐ │ 1  1                                                                AUTONOMY LAYER │ │&#x20;
+
+&#x20;                                                   Autonomous Global Execution Network&#x20;
+
+• Full AI Body Stack (Perception → Execution → Settlement)
+
+• Global Reputation Graph &#x20;
+
+• Autonomous agents orchestrate devices
+
+• M2M collaboration & payments &#x20;
+
+• Real-World OS vision&#x20;
+
+Outcome: AI becomes _autonomous actors_ in the real world. └──────────────────────────────────────────────────────────────┘
+
+```
+                         NodeX Growth Curve (Wireframe)
+```
+
+────────────────────────────────────────────────────────────────
+
+```
+   TRUST           EXECUTION            ECONOMY           AUTONOMY
+   (10k)            (100k)              (1M−)             (1M+)     
+ ───────── → ─────────────── → ─────────────── → ───────────────  
+```
+
+Verified Distributed Machine Income Autonomous Device Pool Execution & Reward Layer AI Execution
+
+──────────────────────────────────────────────────────────────── NodeX builds the AI Body Layer:\
+from _verifiable devices_ → _distributed execution_ → _machine economy_ → _autonomous agent infrastructure_. ────────────────────────────────────────────────────────────────
