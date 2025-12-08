@@ -124,6 +124,7 @@
   * [生態系統](chan-pin-shou-ce/sheng-tai-xi-tong.md)
   * [節點學院](chan-pin-shou-ce/jie-dian-xue-yuan.md)
 * [ProofX](proofx-and-porw.md)
+* [PoRW（Proof of Real Work）](porw-proof-of-real-work.md)
 * [NodeX秘密宏圖](nodex-mi-mi-hong-tu.md)
 * [MTP 技術實現](mtp-ji-shu-shi-xian.md)
 * [分銷計劃](fen-xiao-ji-hua.md)
