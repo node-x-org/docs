@@ -50,6 +50,7 @@
   * [RPC](product-manual/rpc.md)
   * [Events](product-manual/events.md)
 * [ProofX](proofx.md)
+* [PoRW (Proof of Real Work)](porw-proof-of-real-work.md)
 * [MTP Technical Implementation](mtp-technical-implementation.md)
 * [The Secret NodeX Master Plan (Part 1)](the-secret-nodex-master-plan-part-1.md)
 * [Ecosystem](ecosystem.md)
