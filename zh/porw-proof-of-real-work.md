@@ -1,10 +1,10 @@
 # PoRW（Proof of Real Work）
 
-## 真實工作量證明機制（Version 1.0）
+## 真實工作量證明機制
 
 ***
 
-### 1. 概述（Overview）
+### 1. 概述
 
 PoRW（Proof of Real Work）是 NodeX 為全球分布式設備設計的 **可驗證執行機制**，用於證明某個設備確實執行了真實任務，並將貢獻轉化為可計量的工作量，用於：
 
@@ -27,13 +27,13 @@ PoRW 解決了 Web3、DePIN、AI 代理經濟長期存在的核心問題：
 
 ***
 
-### 2. 核心理念：三維混合驗證（Tri-Dimensional Verification）
+### 2. 核心理念：三維混合驗證
 
 PoRW 摒棄傳統單一驗證方式（如只驗證結果、只驗算力申報、只看在線率等），\
 而是基於 NodeX 對設備的 **腳本控制能力 + 分布式任務能力 + 市場博弈機制**，\
 構建了 **三維、異構、互補的驗證體系**：
 
-#### 2.1 物理與邏輯對撞（Correlation）
+#### 2.1 物理與邏輯對撞
 
 **適用：** 挖礦 / 黑盒類任務
 
@@ -50,7 +50,7 @@ PoRW 摒棄傳統單一驗證方式（如只驗證結果、只驗算力申報、
 
 ***
 
-#### 2.2 概率性冗餘共識（Probabilistic Redundancy）
+#### 2.2 概率性冗餘共識
 
 **適用：** AI 推理 / 計算類任務
 
@@ -73,7 +73,7 @@ PoRW 摒棄傳統單一驗證方式（如只驗證結果、只驗算力申報、
 
 ***
 
-#### 2.3 社會化仲裁（Social Arbitration）
+#### 2.3 社會化仲裁
 
 **適用：** C2C 算力交易、直接交付業務
 
@@ -91,7 +91,7 @@ PoRW 摒棄傳統單一驗證方式（如只驗證結果、只驗算力申報、
 
 ***
 
-### 3. PoRW 總體架構（Architecture）
+### 3. PoRW 總體架構
 
 PoRW 引擎位於：
 
@@ -112,11 +112,11 @@ PoRW 引擎\
 * **Verifier（驗證器）：** 執行對撞、比對、日誌分析
 * **Reporter（監督者）：** 來自 C2C 市場的用戶或高信譽節點
 
-## 4. 模組化驗證模型（Module-Level Implementation）
+## 4. 模組化驗證模型
 
 PoRW 拆分為四類任務模型，對應四類現實常見任務：
 
-### 模組 A：流量型驗證（Traffic-Based Verification）
+### 模組 A：流量型驗證
 
 **適用範圍**：RPC、API、網路服務、負載均衡節點
 
@@ -132,7 +132,7 @@ Score = (Requests × Success\_Rate) − (Penalty × Latency\_Factor)
 
 ***
 
-### 模組 B：結果映射型驗證（Result-Based Verification）
+### 模組 B：結果映射型驗證
 
 **適用範圍**：PoW 挖礦、CDN、黑盒節點、測試網節點
 
@@ -149,7 +149,7 @@ Score = (Requests × Success\_Rate) − (Penalty × Latency\_Factor)
 | 正常         | 無收益         | 配置錯誤 / 偽造日誌 |
 | 停止         | 有收益         | 脫離平台挂机（無效）  |
 
-### 模組 C：計算生成型驗證（Compute-Based Verification）
+### 模組 C：計算生成型驗證
 
 **適用範圍**：AI 推理、圖像生成、視頻處理、數值計算
 
@@ -166,7 +166,7 @@ Score = (Requests × Success\_Rate) − (Penalty × Latency\_Factor)
 
 ***
 
-### 模組 D：C2C 交易型驗證（SLA-Based Verification）
+### 模組 D：C2C 交易型驗證
 
 **適用範圍**：算力租賃、任務交付、點對點執行
 
@@ -177,7 +177,7 @@ Score = (Requests × Success\_Rate) − (Penalty × Latency\_Factor)
 * 買家舉報 → 系統回溯腳本記錄
 * 違規 → 扣押金 / 降信譽
 
-## 5. 統一結算模型（Unified Settlement Model）
+## 5. 統一結算模型
 
 所有任務的 PoRW 最終轉換為統一的貢獻度：
 
@@ -191,7 +191,7 @@ PoRW\_Final = Base\_Work × Quality\_Index × Reputation\_Factor
 
 ***
 
-## 6. 反作弊體系（Anti-Cheat System）
+## 6. 反作弊體系
 
 PoRW 提供五層防護：
 
@@ -256,7 +256,7 @@ PoRW 並不試圖替代現有驗證技術，而是與其共同構成 **可信執
 
 ***
 
-## 8. PoRW 的意義（Why PoRW Matters）
+## 8. PoRW 的意義
 
 PoRW 讓 NodeX 成為：
 
@@ -272,7 +272,7 @@ PoRW 讓 NodeX 成為：
 
 ***
 
-## 9. PoRW 路線圖（Public Roadmap）
+## 9. PoRW 路線圖
 
 **Phase 1：基礎驗證（當前）**
 
@@ -296,7 +296,7 @@ PoRW 讓 NodeX 成為：
 
 ***
 
-## 10. 最終目標（End State）
+## 10. 最終目標
 
 PoRW 帶來一個全新的機器協作時代：
 
