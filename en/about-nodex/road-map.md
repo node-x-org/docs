@@ -2,11 +2,9 @@
 
 <p align="right"><a href="https://docs.node-x.xyz/guan-wu-nodex/lu-xian-tu">中文</a></p>
 
-<p align="right"></p>
+## &#x20;                                  NodeX Roadmap&#x20;
 
-&#x20;                                                     NodeX Roadmap&#x20;
-
-&#x20;                                                     AI Body Layer · Masterplan &#x20;
+## &#x20;                          AI Body Layer · Masterplan &#x20;
 
 ```
             [ Phase 1 ]                     (10,000 devices)                                                                   
@@ -18,9 +16,9 @@
 
 • ProofX — Device authenticity & capability baseline
 
-&#x20;• PoRW — Proof of Real Work&#x20;
+• PoRW — Proof of Real Work&#x20;
 
-&#x20;• Capability Registry v1&#x20;
+• Capability Registry v1&#x20;
 
 • Stable NodeHub onboarding   &#x20;
 
@@ -38,7 +36,7 @@
 
 • Machine ID (MID) & reputation&#x20;
 
-&#x20;• C2C compute & capability marketplace&#x20;
+• C2C compute & capability marketplace&#x20;
 
 • AI Agent API — AI can call real devices&#x20;
 
