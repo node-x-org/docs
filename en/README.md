@@ -12,7 +12,7 @@ Cloud gives AI a superhuman brain. **NodeX gives AI a coordinated distributed bo
 
 ## **1. Why NodeX (and Why AI Needs a Body)**
 
-**Summary:** Modern AI has intelligence but lacks real-world action capabilities; NodeX fills this gap.Modern AI systems (LLMs, SLMs, Agents) demonstrate exceptional cognition but lack fundamental abilities:
+**Modern** AI has intelligence but lacks real-world action capabilities; NodeX fills this gap.Modern AI systems (LLMs, SLMs, Agents) demonstrate exceptional cognition but lack fundamental abilities:
 
 * cannot autonomously operate real devices
 * cannot access cameras, sensors, or edge nodes
@@ -39,7 +39,7 @@ built from global devices that are callable, verifiable, priced, and manageable.
 
 ## **2. How NodeX Builds the AI Body**
 
-**Summary:** The AI Body is a multi-layer system combining devices, capabilities, execution, and verification.The AI Body is not a robot or a single device.It is a complete distributed system:
+**The** AI Body is a multi-layer system combining devices, capabilities, execution, and verification.The AI Body is not a robot or a single device.It is a complete distributed system:
 
 #### **AI Body = Devices + Capabilities + Execution + Verification**
 
@@ -49,7 +49,7 @@ NodeX supports all four pillars.
 
 ## **2.1 Device Layer**
 
-**Summary:** Any device can join and provide physical resources to AI.Devices that can join NodeX:
+**Any** device can join and provide physical resources to AI.Devices that can join NodeX:
 
 * servers
 * personal PCs
@@ -66,7 +66,7 @@ These devices form **AI’s muscles and organs**.
 
 ## &#x20;**2.2 Capability Layer**
 
-**Summary:** Devices expose standardized abilities to AI.Each device registers its abilities into the **NodeX Capability Registry**, such as:
+**Devices** expose standardized abilities to AI.Each device registers its abilities into the **NodeX Capability Registry**, such as:
 
 * `compute.run`
 * `shell.exec`
@@ -81,7 +81,7 @@ These collectively serve as **AI’s hands, eyes, and nervous system**.
 
 ## **2.3 Execution Layer**
 
-**Summary:** NodeX provides a unified interface for AI to execute tasks across global devices.Unified API:
+**NodeX** provides a unified interface for AI to execute tasks across global devices.Unified API:
 
 ```
 POST /v1/jobs {
@@ -97,7 +97,7 @@ AI agents and developers can execute tasks on global devices through this interf
 
 ## **2.4 Verification Layer**
 
-**Summary:** AI must trust devices before using them; NodeX provides the trust framework.NodeX ensures device trustworthiness:
+&#x20;**AI** must trust devices before using them; NodeX provides the trust framework.NodeX ensures device trustworthiness:
 
 * **ProofX** — authenticity & baseline capability
 * **PoRW** — proof of real work
@@ -110,7 +110,7 @@ This is **AI’s immune and safety system**.
 
 ## **3. Why the AI Body Matters**
 
-**Summary:** Autonomous AI systems require a real execution substrate to perceive, act, and cooperate.AI is moving toward becoming **Autonomous Systems**, requiring:
+**Autonomous** AI systems require a real execution substrate to perceive, act, and cooperate.AI is moving toward becoming **Autonomous Systems**, requiring:
 
 * perception
 * execution
@@ -135,7 +135,7 @@ AI is trained in the cloud.&#x20;
 
 ## **4. The NodeX AI Body Stack (6-Layer Architecture)**
 
-**Summary:** NodeX is a composable distributed execution network for AI.NodeX forms a distributed **AI Body Protocol Stack**:
+**NodeX** is a composable distributed execution network for AI.NodeX forms a distributed **AI Body Protocol Stack**:
 
 1. **Device Layer**
 2. **Capability Layer**
@@ -150,11 +150,11 @@ NodeX is not a single tool —it is a modular, programmable execution network fo
 
 ## **5. NodeX Products That Power the AI Body**
 
-**Summary:** NodeHub, TaskPad, and the C2C marketplace form the operational backbone of the AI Body.
+**NodeHub**, TaskPad, and the C2C marketplace form the operational backbone of the AI Body.
 
 #### **NodeHub**
 
-Entry point of the AI Body: device onboarding, capability mapping, verification, scheduling, telemetry.
+#### Entry point of the AI Body: device onboarding, capability mapping, verification, scheduling, telemetry.
 
 #### **TaskPad**
 
@@ -168,7 +168,7 @@ The economic system of the AI Body: verifiable, priced device capabilities for a
 
 ## 6. NodeX Value Proposition
 
-(AI Body = Next-Generation Infrastructure)\*\* **Summary:** NodeX unlocks real-world action for AI, sustainable income for devices, and verifiable outputs for projects.\*\*NodeX addresses the most critical gaps of future AI systems:
+**NodeX** unlocks real-world action for AI, sustainable income for devices, and verifiable outputs for projects.\*\*NodeX addresses the most critical gaps of future AI systems:
 
 * AI is no longer limited to cloud inference
 * AI can take real-world actions for the first time
@@ -184,7 +184,7 @@ NodeX enables:
 
 ## **7. Vision**
 
-**Summary:** NodeX aims to become the global execution layer of the AI agent economy.NodeX’s long-term vision:
+**NodeX** aims to become the global execution layer of the AI agent economy.NodeX’s long-term vision:
 
 * build a global execution layer for AI (AI Body Layer)
 * create a sustainable income layer for devices (Machine Income Layer)
