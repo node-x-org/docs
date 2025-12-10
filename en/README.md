@@ -2,7 +2,7 @@
 
 <p align="right"><a href="https://docs.node-x.xyz/">中文</a></p>
 
-**Summary:** NodeX turns global devices into a verifiable, AI-callable execution layer — the AI Body.NodeX is a global decentralized compute network that virtualizes servers, PCs, GPUs, mobile phones, IoT devices, and edge hardware into a unified, **verifiable Real-World Execution Layer callable by AI**.The core mission of NodeX is to build a new form of infrastructure for AI:
+**NodeX** turns global devices into a verifiable, AI-callable execution layer — the AI Body.NodeX is a global decentralized compute network that virtualizes servers, PCs, GPUs, mobile phones, IoT devices, and edge hardware into a unified, **verifiable Real-World Execution Layer callable by AI**.The core mission of NodeX is to build a new form of infrastructure for AI:
 
 #### **the AI Body — a distributed execution system enabling AI to perform tasks, allocate resources, and take real actions.**
 
